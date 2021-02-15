@@ -1,849 +1,843 @@
 Record ID,Status,Termination Date,Hire Date,Birthdate,Marital Status,Gender,Highest Education,Termination Reason
-1,Terminated,04/25/2019,07/23/2018,11/14/1977,S,M - Male,C - HS Grad,Voluntary-Another Job
-2,Terminated,02/19/2020,07/15/2019,01/04/1993,S,M - Male,A - Not Indic,Voluntary-Personal Reasons
-3,Terminated,10/18/2019,05/16/1977,10/18/1957,S,F - Female,D - Some Coll.,Retire-Normal
-4,Terminated,03/22/2019,05/08/2012,09/18/1966,M,F - Female,C - HS Grad,Voluntary-Another Job
-5,Terminated,01/04/2019,08/27/1975,01/13/1952,M,F - Female,C - HS Grad,Retire-Normal
-6,Terminated,12/27/2019,10/26/1976,05/27/1957,M,F - Female,B - Less Th HS,Retire-Normal
-7,Terminated,06/03/2019,10/03/1977,10/23/1956,M,F - Female,D - Some Coll.,Retire-Normal
-8,Terminated,10/01/2019,12/16/1996,02/14/1953,S,M - Male,I - Master's,Voluntary-No Reason Given
-9,Terminated,01/25/2019,05/13/2018,10/23/1992,S,M - Male,A - Not Indic,Voluntary-Reloc/Move
-10,Terminated,01/16/2020,07/30/2018,06/25/1963,S,F - Female,C - HS Grad,Voluntary-No Reason Given
-11,Terminated,08/06/2019,10/10/1983,10/02/1950,M,F - Female,C - HS Grad,Retire-Normal
-12,Terminated,05/03/2019,07/07/1975,06/18/1957,S,F - Female,C - HS Grad,Retire-Normal
-13,Terminated,03/29/2019,09/22/1975,04/01/1949,M,F - Female,C - HS Grad,Retire-Normal
-14,Terminated,05/13/2019,04/24/2017,12/22/1992,S,M - Male,A - Not Indic,Voluntary-No Reason Given
-15,Terminated,06/04/2019,10/30/2017,06/16/1992,S,M - Male,C - HS Grad,Voluntary-No Child Care
-16,Terminated,04/15/2019,01/02/2018,06/04/1986,S,M - Male,A - Not Indic,Voluntary-Another Job
-17,Terminated,02/19/2019,09/17/2018,04/05/1993,M,M - Male,A - Not Indic,Voluntary-No Reason Given
-18,Terminated,07/16/2019,10/22/2018,08/07/1985,S,M - Male,D - Some Coll.,Voluntary-No Call/No Show
-19,Terminated,08/22/2019,07/06/1976,12/21/1956,M,M - Male,A - Not Indic,Retire-Normal
-20,Terminated,02/15/2019,12/27/1990,12/19/1961,M,M - Male,C - HS Grad,Retire-Normal
-21,Terminated,08/13/2019,10/14/2018,01/01/1996,S,M - Male,F - 2-Yr Coll,Voluntary-Health
-22,Terminated,03/13/2019,06/04/2018,06/07/1973,D,M - Male,C - HS Grad,Voluntary-Personal Reasons
-23,Terminated,07/25/2019,03/20/2017,08/04/1979,S,M - Male,D - Some Coll.,Voluntary-No Reason Given
-24,Terminated,03/22/2019,07/10/2018,10/29/1982,M,M - Male,C - HS Grad,Voluntary-Another Job
-25,Terminated,12/13/2019,12/02/2019,08/16/1993,C,M - Male,B - Less Th HS,Voluntary-Personal Reasons
-26,Terminated,07/12/2019,08/27/2012,07/27/1985,M,M - Male,A - Not Indic,Voluntary-Another Job
-27,Terminated,01/14/2020,09/03/2019,01/02/1986,S,M - Male,D - Some Coll.,Voluntary-No Call/No Show
-28,Terminated,03/29/2019,08/29/1983,07/21/1955,M,M - Male,A - Not Indic,Retire-Normal
-29,Terminated,03/19/2020,08/23/1993,10/08/1954,S,M - Male,H - Some Grad,Retire-Normal
-30,Terminated,05/31/2019,10/04/1984,11/23/1955,M,M - Male,C - HS Grad,Retire-Normal
-31,Terminated,12/16/2019,11/30/1987,10/02/1951,S,M - Male,C - HS Grad,Retire-Normal
-32,Terminated,05/31/2019,12/13/2015,05/07/1952,S,M - Male,C - HS Grad,Retire-Early
-33,Terminated,01/31/2020,03/25/1983,06/14/1960,S,M - Male,C - HS Grad,Retire-Normal
-34,Terminated,01/04/2020,08/02/1983,11/16/1950,M,M - Male,D - Some Coll.,Retire-Normal
-35,Terminated,05/17/2019,05/16/1977,04/16/1957,M,M - Male,C - HS Grad,Retire-Normal
-36,Terminated,09/26/2019,09/11/2017,08/31/1998,N,M - Male,A - Not Indic,Voluntary-Another Job
-37,Terminated,08/22/2019,05/20/2019,07/05/1998,S,F - Female,C - HS Grad,Voluntary-Return To School
-38,Terminated,08/09/2019,05/20/2019,10/05/1996,S,M - Male,C - HS Grad,Voluntary-Return To School
-39,Terminated,08/02/2019,02/10/1992,01/05/1951,M,M - Male,G - Bachelor's,Retire-Normal
-40,Terminated,02/13/2019,07/23/2012,04/16/1971,D,F - Female,A - Not Indic,Voluntary-Another Job
-41,Terminated,08/08/2019,06/21/2018,02/17/1999,S,F - Female,C - HS Grad,Voluntary-Return To School
-42,Terminated,08/09/2019,05/20/2019,04/07/1998,S,M - Male,C - HS Grad,Voluntary-Return To School
-43,Terminated,08/02/2019,05/20/2019,05/06/1998,S,F - Female,C - HS Grad,Voluntary-Return To School
-44,Terminated,08/23/2019,06/03/2019,02/27/1998,S,F - Female,G - Bachelor's,Voluntary-Return To School
-45,Terminated,09/13/2019,08/01/1988,08/27/1955,S,M - Male,C - HS Grad,Retire-Normal
-46,Terminated,01/16/2020,11/17/1980,01/11/1962,M,F - Female,A - Not Indic,Retire-Normal
-47,Terminated,02/01/2020,05/28/2019,07/01/1998,S,F - Female,D - Some Coll.,Voluntary-Return To School
-48,Terminated,02/01/2020,05/20/2019,09/03/1997,S,F - Female,D - Some Coll.,Voluntary-Return To School
-49,Terminated,10/22/2019,05/28/2019,03/21/1998,S,M - Male,D - Some Coll.,Voluntary-Return To School
-50,Terminated,10/04/2019,12/10/2013,10/05/1975,M,M - Male,F - 2-Yr Coll,Voluntary-Another Job
-51,Terminated,03/13/2019,03/14/1983,03/13/1957,M,F - Female,D - Some Coll.,Retire-Normal
-52,Terminated,05/22/2019,05/29/2018,09/27/1996,S,M - Male,D - Some Coll.,Voluntary-Return To School
-53,Terminated,05/09/2019,09/11/2000,08/22/1960,M,F - Female,A - Not Indic,Retire-Early
-54,Terminated,12/18/2019,05/30/2017,03/30/1989,S,M - Male,A - Not Indic,Voluntary-Health
-55,Terminated,04/09/2020,08/28/2017,02/24/1988,M,M - Male,F - 2-Yr Coll,Voluntary-Another Job
-56,Terminated,08/30/2019,05/20/2019,08/18/1996,S,F - Female,G - Bachelor's,Voluntary-Return To School
-57,Terminated,08/19/2019,05/20/2019,10/12/1998,S,F - Female,D - Some Coll.,Voluntary-Return To School
-58,Terminated,08/28/2019,05/20/2019,03/10/1998,S,F - Female,C - HS Grad,Voluntary-Return To School
-59,Terminated,12/18/2019,06/03/2019,07/24/1974,D,F - Female,G - Bachelor's,Voluntary-Another Job
-60,Terminated,08/22/2019,08/12/2019,11/19/1996,S,F - Female,G - Bachelor's,Voluntary-Another Job
-61,Terminated,08/23/2019,05/20/2019,05/26/1998,S,F - Female,C - HS Grad,Voluntary-Return To School
-62,Terminated,07/12/2019,06/11/2018,05/05/1997,S,M - Male,C - HS Grad,Voluntary-Another Job
-63,Terminated,10/16/2019,05/20/2019,03/11/1996,S,F - Female,G - Bachelor's,Voluntary-Another Job
-64,Terminated,05/02/2019,08/10/2015,06/18/1968,S,M - Male,G - Bachelor's,Voluntary-Another Job
-65,Terminated,06/04/2019,04/18/2016,11/21/1965,S,M - Male,D - Some Coll.,Voluntary-Health
-66,Terminated,03/25/2020,09/26/2016,04/14/1953,N,F - Female,A - Not Indic,Voluntary-Personal Reasons
-67,Terminated,10/16/2019,04/03/2017,06/14/1974,S,F - Female,F - 2-Yr Coll,Voluntary-Personal Reasons
-68,Terminated,12/13/2019,06/04/2018,07/05/1984,M,F - Female,F - 2-Yr Coll,Voluntary-Another Job
-69,Terminated,03/25/2020,07/15/2019,02/18/1976,M,F - Female,D - Some Coll.,Voluntary-No Reason Given
-70,Terminated,03/21/2019,05/08/2013,02/03/1983,M,M - Male,A - Not Indic,Voluntary-Another Job
-71,Terminated,02/15/2019,03/05/2018,10/06/1955,M,F - Female,G - Bachelor's,Voluntary-Another Job
-72,Terminated,05/20/2019,03/28/2019,05/20/1999,S,M - Male,F - 2-Yr Coll,Voluntary-No Reason Given
-73,Terminated,08/22/2019,05/20/2019,10/15/1998,S,F - Female,C - HS Grad,Voluntary-Return To School
-74,Terminated,08/13/2019,07/22/2019,05/30/1997,S,F - Female,C - HS Grad,Voluntary-Return To School
-75,Terminated,02/03/2020,02/03/2020,09/04/1985,D,F - Female,C - HS Grad,Voluntary-Personal Reasons
-76,Terminated,03/31/2020,08/08/1990,10/08/1956,M,F - Female,B - Less Th HS,Retire-Normal
-77,Terminated,08/16/2019,03/04/2019,09/27/1992,S,M - Male,C - HS Grad,Voluntary-Return To School
-78,Terminated,01/03/2020,10/31/2016,04/14/1978,S,M - Male,I - Master's,Voluntary-Another Job
-79,Terminated,01/06/2020,06/03/2019,01/13/1969,M,M - Male,H - Some Grad,Voluntary-Dissatisfied with SW
-80,Terminated,01/17/2020,04/01/2019,05/01/1972,M,M - Male,I - Master's,Voluntary-Personal Reasons
-81,Terminated,04/22/2019,10/27/2014,11/13/1964,M,M - Male,G - Bachelor's,Voluntary-Another Job
-82,Terminated,10/25/2019,05/01/2017,03/04/1974,S,M - Male,G - Bachelor's,Voluntary-Another Job
-83,Terminated,06/14/2019,11/20/2017,01/29/1978,M,F - Female,H - Some Grad,Voluntary-Another Job
-84,Terminated,01/17/2020,09/10/2018,09/13/1995,S,M - Male,G - Bachelor's,Voluntary-Another Job
-85,Terminated,07/08/2019,06/16/1969,02/12/1951,S,F - Female,D - Some Coll.,Retire-Normal
-86,Terminated,05/10/2019,08/17/2015,01/24/1991,M,M - Male,G - Bachelor's,Voluntary-Another Job
-87,Terminated,03/05/2020,08/18/2014,10/15/1989,S,M - Male,G - Bachelor's,Voluntary-Another Job
-88,Terminated,01/17/2020,06/25/2012,10/23/1979,M,M - Male,G - Bachelor's,Voluntary-Another Job
-89,Terminated,05/28/2019,02/26/2015,04/17/1962,S,M - Male,I - Master's,Voluntary-Another Job
-90,Terminated,08/23/2019,11/07/2018,02/13/1983,S,M - Male,G - Bachelor's,Voluntary-Another Job
-91,Terminated,03/05/2019,11/01/2002,07/11/1979,M,F - Female,G - Bachelor's,Voluntary-Another Job
-92,Terminated,09/06/2019,05/18/2015,06/07/1993,M,F - Female,D - Some Coll.,Voluntary-Return To School
-93,Terminated,01/18/2019,05/08/2017,12/27/1978,S,M - Male,G - Bachelor's,Voluntary-Another Job
-94,Terminated,01/24/2020,12/04/1995,10/09/1970,S,M - Male,G - Bachelor's,Voluntary-Personal Reasons
-95,Terminated,11/08/2019,08/31/2010,10/31/1981,S,M - Male,G - Bachelor's,Voluntary-Another Job
-96,Terminated,09/06/2019,05/08/2017,07/18/1988,S,F - Female,I - Master's,Voluntary-Another Job
-97,Terminated,03/15/2019,09/19/2011,12/30/1959,S,F - Female,F - 2-Yr Coll,Voluntary-Another Job
-98,Terminated,03/15/2019,11/26/2018,03/24/1973,M,F - Female,G - Bachelor's,Voluntary-Another Job
-99,Terminated,03/01/2019,03/21/2016,10/05/1984,S,M - Male,G - Bachelor's,Voluntary-Another Job
-100,Terminated,04/03/2019,02/06/2017,11/27/1976,S,M - Male,G - Bachelor's,Voluntary-Another Job
-101,Terminated,11/01/2019,04/18/2018,01/14/1972,M,M - Male,I - Master's,Voluntary-Another Job
-102,Terminated,11/13/2019,12/10/2018,05/17/1990,M,M - Male,G - Bachelor's,Voluntary-Another Job
-103,Terminated,02/27/2020,12/17/2007,01/07/1972,S,F - Female,G - Bachelor's,Voluntary-Personal Reasons
-104,Terminated,01/31/2020,06/02/2014,05/12/1993,S,M - Male,G - Bachelor's,Voluntary-Another Job
-105,Terminated,02/08/2019,07/20/2015,01/15/1984,S,F - Female,G - Bachelor's,Voluntary-Another Job
-106,Terminated,03/13/2020,05/23/2016,10/28/1993,S,F - Female,D - Some Coll.,Voluntary-Another Job
-107,Terminated,05/09/2019,03/31/2017,01/12/1996,S,F - Female,G - Bachelor's,Voluntary-Reloc/Move
-108,Terminated,08/16/2019,01/15/2018,02/13/1988,S,F - Female,G - Bachelor's,Voluntary-Another Job
-109,Terminated,02/19/2020,05/21/2018,09/10/1983,M,F - Female,G - Bachelor's,Voluntary-Another Job
-110,Terminated,10/30/2019,10/28/2019,05/16/1994,S,M - Male,G - Bachelor's,Voluntary-Another Job
-111,Terminated,02/08/2019,08/18/2014,04/08/1985,M,M - Male,G - Bachelor's,Voluntary-Another Job
-112,Terminated,12/27/2019,11/10/1984,05/28/1961,M,F - Female,A - Not Indic,Retire-Normal
-113,Terminated,01/18/2019,12/12/2016,11/02/1984,M,F - Female,G - Bachelor's,Voluntary-Another Job
-114,Terminated,04/10/2020,10/11/2010,12/31/1976,M,F - Female,A - Not Indic,Voluntary-Another Job
-115,Terminated,02/14/2020,07/13/2015,01/22/1984,M,F - Female,G - Bachelor's,Voluntary-Another Job
-116,Terminated,08/23/2019,02/27/2017,05/21/1987,S,M - Male,C - HS Grad,Voluntary-Reloc/Move
-117,Terminated,01/29/2020,08/20/2018,09/23/1958,M,M - Male,G - Bachelor's,Retire-Early
-118,Terminated,11/01/2019,08/20/2018,03/31/1990,S,F - Female,H - Some Grad,Voluntary-Another Job
-119,Terminated,02/01/2019,07/07/2008,05/30/1965,S,F - Female,G - Bachelor's,Voluntary-Another Job
-120,Terminated,01/18/2019,03/01/1998,01/07/1969,D,M - Male,G - Bachelor's,Voluntary-Another Job
-121,Terminated,07/09/2019,04/05/2011,09/15/1979,M,F - Female,G - Bachelor's,Voluntary-Another Job
-122,Terminated,04/26/2019,12/12/2016,06/01/1963,S,F - Female,I - Master's,Voluntary-Another Job
-123,Terminated,03/01/2019,08/19/1991,08/18/1959,M,M - Male,G - Bachelor's,Retire-Early
-124,Terminated,06/07/2019,10/30/2015,02/07/1962,M,M - Male,A - Not Indic,Voluntary-Another Job
-125,Terminated,05/15/2019,01/06/2014,10/10/1971,M,M - Male,G - Bachelor's,Voluntary-Personal Reasons
-126,Terminated,06/21/2019,08/22/2016,02/21/1987,S,F - Female,G - Bachelor's,Voluntary-Reloc/Move
-127,Terminated,03/20/2020,01/28/2019,03/28/1992,S,M - Male,H - Some Grad,Voluntary-Another Job
-128,Terminated,09/03/2019,12/01/1997,03/07/1963,S,M - Male,G - Bachelor's,Retire-Normal
-129,Terminated,03/04/2020,10/27/2014,07/24/1985,S,M - Male,I - Master's,Voluntary-Another Job
-130,Terminated,02/08/2019,09/21/2015,02/24/1983,D,F - Female,I - Master's,Voluntary-Personal Reasons
-131,Terminated,11/22/2019,01/18/2016,12/18/1983,S,M - Male,I - Master's,Voluntary-Another Job
-132,Terminated,01/04/2019,10/31/2016,12/24/1946,S,M - Male,D - Some Coll.,Voluntary-Another Job
-133,Terminated,10/04/2019,04/10/2017,01/30/1987,S,M - Male,C - HS Grad,Voluntary-Another Job
-134,Terminated,03/15/2019,07/24/2017,01/24/1974,D,M - Male,F - 2-Yr Coll,Voluntary-Another Job
-135,Terminated,04/09/2020,08/11/2008,07/19/1968,M,F - Female,I - Master's,Voluntary-No Reason Given
-136,Terminated,04/18/2019,11/15/1999,02/16/1959,M,F - Female,C - HS Grad,Retire-Normal
-137,Terminated,10/17/2019,07/29/2013,07/12/1969,S,M - Male,G - Bachelor's,Voluntary-Another Job
-138,Terminated,06/06/2019,01/21/2019,08/17/1978,M,M - Male,G - Bachelor's,Voluntary-Another Job
-139,Terminated,12/13/2019,03/17/2014,04/05/1971,M,M - Male,G - Bachelor's,Voluntary-Another Job
-140,Terminated,08/16/2019,01/16/2017,10/13/1989,S,M - Male,G - Bachelor's,Voluntary-Another Job
-141,Terminated,09/12/2019,11/19/2007,11/24/1956,M,F - Female,G - Bachelor's,Retire-Normal
-142,Terminated,08/09/2019,05/12/2008,08/17/1963,S,F - Female,A - Not Indic,Voluntary-Personal Reasons
-143,Terminated,04/05/2019,02/14/2000,06/03/1961,M,F - Female,A - Not Indic,Voluntary-Reloc/Move
-144,Terminated,03/30/2019,10/21/2013,01/12/1956,M,F - Female,H - Some Grad,Voluntary-Health
-145,Terminated,02/22/2019,07/11/2018,05/24/1983,M,M - Male,G - Bachelor's,Voluntary-Another Job
-146,Terminated,01/15/2020,07/08/2019,01/23/1990,M,M - Male,G - Bachelor's,Voluntary-Another Job
-147,Terminated,04/05/2019,07/31/2018,12/20/1976,M,M - Male,G - Bachelor's,Voluntary-Another Job
-148,Terminated,03/29/2019,06/02/2014,05/04/1987,S,M - Male,F - 2-Yr Coll,Voluntary-Another Job
-149,Terminated,01/29/2019,06/05/2017,08/30/1960,M,F - Female,D - Some Coll.,Voluntary-Health
-150,Terminated,01/10/2020,07/14/2008,07/14/1977,M,F - Female,A - Not Indic,Voluntary-No Reason Given
-151,Terminated,09/06/2019,06/28/2004,08/16/1969,M,M - Male,G - Bachelor's,Voluntary-No Reason Given
-152,Terminated,02/29/2020,04/12/1999,12/10/1954,M,F - Female,G - Bachelor's,Retire-Normal
-153,Terminated,03/27/2020,11/08/1999,06/04/1954,M,M - Male,A - Not Indic,Retire-Normal
-154,Terminated,12/13/2019,07/08/2013,04/28/1963,S,M - Male,C - HS Grad,Voluntary-Dissatisfied with SW
-155,Terminated,10/11/2019,08/05/2013,12/17/1970,S,M - Male,H - Some Grad,Voluntary-Health
-156,Terminated,08/23/2019,02/18/2019,12/22/1972,D,F - Female,G - Bachelor's,Voluntary-Dissatisfied with SW
-157,Terminated,07/31/2019,04/20/1998,06/30/1954,M,F - Female,C - HS Grad,Retire-Normal
-158,Terminated,07/26/2019,06/12/2000,01/30/1951,M,M - Male,A - Not Indic,Retire-Normal
-159,Terminated,02/28/2020,12/17/2018,04/19/1963,D,F - Female,D - Some Coll.,Voluntary-Another Job
-160,Terminated,01/03/2020,10/23/2006,06/19/1962,S,M - Male,A - Not Indic,Voluntary-No Reason Given
-161,Terminated,07/26/2019,01/12/2015,07/12/1960,S,M - Male,G - Bachelor's,Voluntary-Dissatisfied with SW
-162,Terminated,03/29/2019,08/27/2018,07/18/1972,M,M - Male,C - HS Grad,Voluntary-Another Job
-163,Terminated,05/31/2019,01/10/2011,07/29/1988,M,F - Female,A - Not Indic,Voluntary-Illness in Family
-164,Terminated,02/15/2019,11/27/2017,06/07/1985,M,F - Female,G - Bachelor's,Voluntary-Reloc/Move
-165,Terminated,04/24/2020,08/05/2019,12/25/1994,D,F - Female,C - HS Grad,Voluntary-Personal Reasons
-166,Terminated,02/07/2019,03/15/2010,04/17/1964,S,M - Male,A - Not Indic,Voluntary-Another Job
-167,Terminated,01/03/2019,11/09/1999,08/05/1956,M,F - Female,D - Some Coll.,Voluntary-Personal Reasons
-168,Terminated,06/21/2019,11/17/2013,07/28/1962,M,M - Male,D - Some Coll.,Voluntary-Another Job
-169,Terminated,08/06/2019,03/15/2018,01/04/1960,S,M - Male,A - Not Indic,Voluntary-Another Job
-170,Terminated,04/23/2019,03/19/2018,12/25/1959,M,M - Male,A - Not Indic,Voluntary-Another Job
-171,Terminated,01/14/2020,06/18/2019,11/22/1974,S,F - Female,A - Not Indic,Voluntary-Dissatisfied w/Hrs
-172,Terminated,02/05/2019,08/25/2003,08/11/1952,M,F - Female,A - Not Indic,Voluntary-Health
-173,Terminated,12/27/2019,04/24/2009,01/12/1948,S,F - Female,A - Not Indic,Retire-Normal
-174,Terminated,08/23/2019,02/15/2011,07/12/1975,S,F - Female,A - Not Indic,Voluntary-Another Job
-175,Terminated,12/13/2019,02/17/2004,12/17/1954,S,F - Female,A - Not Indic,Retire-Normal
-176,Terminated,12/13/2019,11/10/2007,12/04/1957,S,F - Female,A - Not Indic,Retire-Normal
-177,Terminated,07/26/2019,09/02/2003,08/01/1949,S,F - Female,A - Not Indic,Retire-Normal
-178,Terminated,04/09/2019,10/23/2017,07/28/1960,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-179,Terminated,02/05/2019,01/17/2018,10/03/1977,M,F - Female,A - Not Indic,Voluntary-No Call/No Show
-180,Terminated,12/20/2019,05/22/2018,07/21/1979,M,F - Female,A - Not Indic,Voluntary-No Call/No Show
-181,Terminated,12/20/2019,08/17/2018,12/18/1975,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-182,Terminated,02/14/2020,10/05/2018,10/12/1963,M,F - Female,A - Not Indic,Voluntary-No Call/No Show
-183,Terminated,04/30/2019,10/05/2017,04/07/1960,M,F - Female,A - Not Indic,Voluntary-Another Job
-184,Terminated,04/20/2020,08/22/2005,12/05/1952,S,F - Female,A - Not Indic,Voluntary-Dissatisfied with SW
-185,Terminated,07/19/2019,02/18/2013,03/17/1967,N,F - Female,A - Not Indic,Voluntary-Health
-186,Terminated,08/26/2019,06/07/2013,05/19/1964,N,F - Female,A - Not Indic,Voluntary-No Call/No Show
-187,Terminated,06/12/2019,06/28/2013,01/05/1966,N,F - Female,A - Not Indic,Voluntary-No Reason Given
-188,Terminated,02/13/2019,07/15/2013,09/01/1956,N,M - Male,A - Not Indic,Voluntary-Personal Reasons
-189,Terminated,11/01/2019,08/01/2013,02/03/1959,N,M - Male,A - Not Indic,Voluntary-No Call/No Show
-190,Terminated,09/25/2019,03/18/2014,10/15/1971,M,F - Female,A - Not Indic,Voluntary-Dissatisfied with SW
-191,Terminated,03/11/2020,05/01/2014,07/07/1973,M,F - Female,A - Not Indic,Voluntary-Dissatisfied with SW
-192,Terminated,08/20/2019,07/14/2015,10/14/1972,S,F - Female,A - Not Indic,Voluntary-Another Job
-193,Terminated,10/11/2019,03/23/2016,05/27/1967,M,F - Female,A - Not Indic,Voluntary-Illness in Family
-194,Terminated,02/14/2019,11/14/2016,04/27/1978,S,F - Female,A - Not Indic,Voluntary-Reloc/Move
-195,Terminated,03/08/2019,10/09/2017,02/25/1965,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-196,Terminated,11/01/2019,02/26/2019,06/17/1967,S,F - Female,A - Not Indic,Voluntary-Another Job
-197,Terminated,12/27/2019,04/03/2019,10/11/1968,S,F - Female,A - Not Indic,Voluntary-Health
-198,Terminated,04/26/2019,08/10/2003,12/11/1931,S,F - Female,A - Not Indic,Retire-Normal
-199,Terminated,08/30/2019,11/07/2016,03/09/1954,M,M - Male,A - Not Indic,Retire-Normal
-200,Terminated,11/29/2019,09/08/2016,03/29/1953,S,M - Male,A - Not Indic,Retire-Normal
-201,Terminated,03/19/2019,05/04/2017,06/22/1966,S,M - Male,A - Not Indic,Voluntary-No Call/No Show
-202,Terminated,01/16/2020,03/19/2019,10/29/1995,S,M - Male,A - Not Indic,Voluntary-Another Job
-203,Terminated,05/31/2019,03/29/2017,06/13/1995,S,M - Male,A - Not Indic,Voluntary-Another Job
-204,Terminated,03/22/2019,10/23/2017,10/03/1968,M,M - Male,A - Not Indic,Voluntary-Another Job
-205,Terminated,10/11/2019,07/11/2018,03/09/1975,S,F - Female,A - Not Indic,Voluntary-Another Job
-206,Terminated,07/31/2019,10/01/2018,12/21/1984,N,M - Male,A - Not Indic,Voluntary-No Reason Given
-207,Terminated,09/23/2019,09/18/2019,02/22/1982,N,M - Male,A - Not Indic,Voluntary-No Reason Given
-208,Terminated,01/02/2020,04/24/2017,03/11/1979,S,F - Female,G - Bachelor's,Voluntary-Another Job
-209,Terminated,02/28/2020,09/16/2019,09/11/1993,M,M - Male,G - Bachelor's,Voluntary-Another Job
-210,Terminated,05/03/2019,04/03/2015,10/11/1972,S,F - Female,A - Not Indic,Voluntary-Dissatisfied with SW
-211,Terminated,10/30/2019,07/20/2017,01/07/1986,M,M - Male,A - Not Indic,Voluntary-Dissatisfied with SW
-212,Terminated,02/04/2019,04/02/2007,08/06/1976,D,F - Female,A - Not Indic,Voluntary-Personal Reasons
-213,Terminated,01/23/2020,11/07/2003,01/23/1953,S,F - Female,A - Not Indic,Retire-Normal
-214,Terminated,09/05/2019,07/25/2011,04/25/1992,S,M - Male,C - HS Grad,Voluntary-No Call/No Show
-215,Terminated,02/19/2020,06/15/2015,05/10/1978,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-216,Terminated,01/08/2019,08/22/2017,07/12/1989,S,M - Male,A - Not Indic,Voluntary-Dissatisfied with SW
-217,Terminated,02/17/2019,01/22/2018,03/11/1973,M,F - Female,A - Not Indic,Voluntary-Dissatisfied with SW
-218,Terminated,07/17/2019,03/05/2018,05/14/1999,S,M - Male,A - Not Indic,Voluntary-No Call/No Show
-219,Terminated,08/13/2019,06/21/2018,10/20/1998,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-220,Terminated,03/20/2020,10/03/2011,07/08/1993,S,M - Male,A - Not Indic,Voluntary-Another Job
-221,Terminated,08/03/2019,05/09/2011,05/03/1962,S,M - Male,A - Not Indic,Voluntary-Another Job
-222,Terminated,07/19/2019,06/16/2004,01/22/1977,S,F - Female,A - Not Indic,Voluntary-Personal Reasons
-223,Terminated,02/27/2020,02/07/2005,09/16/1956,S,F - Female,A - Not Indic,Voluntary-Health
-224,Terminated,06/19/2019,11/07/2011,02/14/1957,S,M - Male,A - Not Indic,Voluntary-Health
-225,Terminated,05/01/2019,08/18/2014,11/23/1972,M,F - Female,A - Not Indic,Voluntary-Another Job
-226,Terminated,02/13/2019,05/18/2015,08/26/1994,S,F - Female,A - Not Indic,Voluntary-Another Job
-227,Terminated,09/12/2019,07/20/2016,05/14/1988,S,M - Male,A - Not Indic,Voluntary-Dissatisfied with SW
-228,Terminated,06/12/2019,08/03/2017,04/15/1993,S,M - Male,A - Not Indic,Voluntary-Dissatisfied with SW
-229,Terminated,10/25/2019,09/11/2017,08/31/1988,S,M - Male,A - Not Indic,Voluntary-Reloc/Move
-230,Terminated,10/25/2019,09/11/2017,04/12/1989,S,M - Male,A - Not Indic,Voluntary-Reloc/Move
-231,Terminated,09/03/2019,04/09/2018,11/10/1964,M,M - Male,A - Not Indic,Voluntary-Personal Reasons
-232,Terminated,10/24/2019,05/24/2018,02/06/1997,S,M - Male,A - Not Indic,Voluntary-Reloc/Move
-233,Terminated,12/10/2019,06/05/2018,06/29/1988,M,F - Female,A - Not Indic,Voluntary-No Call/No Show
-234,Terminated,11/19/2019,08/23/2018,05/10/1994,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-235,Terminated,05/06/2019,09/20/2018,04/05/1998,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-236,Terminated,08/03/2019,12/12/2018,11/13/1965,M,M - Male,A - Not Indic,Voluntary-Dissatisfied with SW
-237,Terminated,07/02/2019,09/15/2014,05/17/1991,D,F - Female,A - Not Indic,Voluntary-Dissatisfied with SW
-238,Terminated,01/31/2020,04/15/2015,01/26/1996,S,F - Female,A - Not Indic,Voluntary-Another Job
-239,Terminated,03/22/2019,08/09/2016,08/25/1994,N,F - Female,A - Not Indic,Voluntary-No Child Care
-240,Terminated,09/13/2019,05/08/2017,11/27/1971,S,F - Female,A - Not Indic,Voluntary-Dissatisfied with SW
-241,Terminated,08/22/2019,06/19/2017,03/15/1975,M,F - Female,A - Not Indic,Voluntary-Reloc/Move
-242,Terminated,12/09/2019,08/02/2017,02/03/1996,M,F - Female,A - Not Indic,Voluntary-Reloc/Move
-243,Terminated,04/02/2019,11/20/2017,07/20/1966,M,M - Male,A - Not Indic,Voluntary-Dissatisfied with SW
-244,Terminated,05/24/2019,02/20/2018,07/09/1989,M,F - Female,A - Not Indic,Voluntary-Personal Reasons
-245,Terminated,01/18/2019,03/07/2018,03/20/1997,S,M - Male,A - Not Indic,Voluntary-Personal Reasons
-246,Terminated,08/02/2019,04/05/2018,01/13/1969,M,M - Male,A - Not Indic,Voluntary-Personal Reasons
-247,Terminated,02/12/2020,07/03/2018,03/31/1990,D,F - Female,A - Not Indic,Voluntary-Reloc/Move
-248,Terminated,04/02/2019,07/17/2018,08/23/1969,M,F - Female,A - Not Indic,Voluntary-Dissatisfied with SW
-249,Terminated,12/23/2019,07/20/2018,11/30/1999,S,M - Male,A - Not Indic,Voluntary-No Reason Given
-250,Terminated,02/08/2019,08/06/2018,04/26/1994,S,M - Male,A - Not Indic,Voluntary-Dissatisfied with SW
-251,Terminated,05/07/2019,09/04/2018,05/06/1984,S,F - Female,A - Not Indic,Voluntary-Reloc/Move
-252,Terminated,01/30/2020,12/12/2018,11/26/1978,M,F - Female,A - Not Indic,Voluntary-Reloc/Move
-253,Terminated,12/06/2019,10/14/1997,03/10/1954,S,F - Female,A - Not Indic,Voluntary-Another Job
-254,Terminated,05/10/2019,10/07/2014,08/18/1977,M,F - Female,A - Not Indic,Voluntary-Illness in Family
-255,Terminated,08/14/2019,10/27/2014,06/04/1977,M,F - Female,A - Not Indic,Voluntary-Dissatisfied with SW
-256,Terminated,03/08/2019,06/21/2015,07/08/1968,S,M - Male,A - Not Indic,Voluntary-Dissatisfied with SW
-257,Terminated,07/07/2019,07/31/2017,08/28/1974,M,F - Female,A - Not Indic,Voluntary-No Call/No Show
-258,Terminated,10/18/2019,08/28/2017,12/21/1984,S,F - Female,A - Not Indic,Voluntary-Another Job
-259,Terminated,05/08/2019,05/16/2016,03/19/1982,N,M - Male,A - Not Indic,Voluntary-Another Job
-260,Terminated,05/07/2019,03/16/2018,05/19/1996,S,M - Male,A - Not Indic,Voluntary-No Call/No Show
-261,Terminated,05/17/2019,06/22/2015,02/21/1994,S,M - Male,A - Not Indic,Voluntary-Another Job
-262,Terminated,07/29/2019,04/08/2019,08/28/1985,M,N - Not Spec,A - Not Indic,Voluntary-Personal Reasons
-263,Terminated,02/27/2020,10/07/2019,06/25/1992,S,M - Male,A - Not Indic,Voluntary-No Call/No Show
-264,Terminated,01/18/2019,09/10/2012,12/10/1972,S,M - Male,A - Not Indic,Voluntary-Another Job
-265,Terminated,12/04/2019,05/01/2019,04/27/1983,M,F - Female,I - Master's,Voluntary-Another Job
-266,Terminated,11/01/2019,11/01/2011,08/21/1958,M,F - Female,A - Not Indic,Voluntary-Another Job
-267,Terminated,09/27/2019,07/28/2001,07/02/1980,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-268,Terminated,01/24/2020,04/10/2006,10/24/1967,S,M - Male,A - Not Indic,Retire-Early
-269,Terminated,06/14/2019,02/27/2017,04/20/1995,S,F - Female,A - Not Indic,Voluntary-Dissatisfied with SW
-270,Terminated,02/08/2019,10/09/2017,04/15/1992,S,F - Female,F - 2-Yr Coll,Voluntary-Another Job
-271,Terminated,05/31/2019,03/12/2018,04/14/1982,S,F - Female,A - Not Indic,Voluntary-Another Job
-272,Terminated,08/16/2019,07/11/2018,10/14/1991,S,M - Male,A - Not Indic,Voluntary-No Call/No Show
-273,Terminated,03/20/2020,01/28/2008,08/15/1984,S,F - Female,G - Bachelor's,Voluntary-Reloc/Move
-274,Terminated,01/11/2019,04/17/2017,02/18/1989,S,M - Male,A - Not Indic,Voluntary-Another Job
-275,Terminated,01/17/2020,05/19/2000,11/15/1958,M,M - Male,A - Not Indic,Voluntary-Another Job
-276,Terminated,11/01/2019,06/08/2015,01/09/1993,S,M - Male,A - Not Indic,Voluntary-Another Job
-277,Terminated,02/28/2020,12/05/2016,04/09/1991,S,M - Male,A - Not Indic,Voluntary-Another Job
-278,Terminated,01/24/2020,05/20/2019,09/05/1981,S,M - Male,I - Master's,Voluntary-Another Job
-279,Terminated,12/26/2019,10/20/2014,10/03/1989,S,M - Male,A - Not Indic,Voluntary-Another Job
-280,Terminated,07/12/2019,08/22/2016,04/11/1991,M,M - Male,A - Not Indic,Voluntary-Another Job
-281,Terminated,12/06/2019,10/03/2016,10/15/1974,S,M - Male,A - Not Indic,Voluntary-Another Job
-282,Terminated,08/09/2019,08/06/2018,01/06/1966,M,M - Male,G - Bachelor's,Voluntary-Another Job
-283,Terminated,01/03/2020,11/03/2014,05/29/1970,M,M - Male,A - Not Indic,Voluntary-Another Job
-284,Terminated,04/02/2019,09/06/2005,09/13/1947,M,M - Male,A - Not Indic,Voluntary-Personal Reasons
-285,Terminated,02/22/2019,09/28/2015,09/19/1959,M,F - Female,A - Not Indic,Voluntary-Personal Reasons
-286,Terminated,01/17/2020,05/30/2017,08/08/1958,S,F - Female,A - Not Indic,Voluntary-Another Job
-287,Terminated,01/02/2020,12/20/1993,06/12/1948,M,M - Male,A - Not Indic,Retire-Normal
-288,Terminated,02/14/2020,08/20/2018,07/04/1981,S,M - Male,G - Bachelor's,Voluntary-Reloc/Move
-289,Terminated,12/26/2019,04/25/2011,09/15/1974,S,F - Female,A - Not Indic,Voluntary-Another Job
-290,Terminated,06/05/2019,07/21/2014,01/07/1987,S,F - Female,A - Not Indic,Voluntary-Another Job
-291,Terminated,05/31/2019,02/15/1961,02/05/1934,M,M - Male,A - Not Indic,Retire-Normal
-292,Terminated,03/06/2019,07/08/2009,03/15/1993,S,M - Male,A - Not Indic,Voluntary-Another Job
-293,Terminated,05/03/2019,05/01/2006,08/12/1979,S,M - Male,A - Not Indic,Voluntary-Another Job
-294,Terminated,10/11/2019,09/26/2011,09/10/1985,M,M - Male,A - Not Indic,Voluntary-Personal Reasons
-295,Terminated,07/03/2019,04/07/2014,10/04/1985,S,M - Male,A - Not Indic,Voluntary-Another Job
-296,Terminated,03/08/2019,06/01/2015,08/05/1980,M,M - Male,A - Not Indic,Voluntary-Another Job
-297,Terminated,02/01/2019,05/16/2016,11/27/1995,S,F - Female,A - Not Indic,Voluntary-Another Job
-298,Terminated,01/25/2019,11/21/2016,11/25/1976,S,F - Female,C - HS Grad,Voluntary-Another Job
-299,Terminated,09/13/2019,04/10/2017,08/25/1984,S,F - Female,C - HS Grad,Voluntary-Reloc/Move
-300,Terminated,02/01/2019,07/24/2017,09/12/1988,S,M - Male,G - Bachelor's,Voluntary-No Call/No Show
-301,Terminated,05/10/2019,04/12/2018,01/27/1994,S,F - Female,G - Bachelor's,Voluntary-Another Job
-302,Terminated,06/06/2019,04/23/2018,01/03/1991,S,F - Female,I - Master's,Voluntary-Personal Reasons
-303,Terminated,05/10/2019,05/14/2018,11/28/1987,M,M - Male,F - 2-Yr Coll,Voluntary-Personal Reasons
-304,Terminated,07/12/2019,05/29/2018,02/07/1985,S,F - Female,D - Some Coll.,Voluntary-Another Job
-305,Terminated,05/31/2019,11/01/2010,04/01/1979,S,F - Female,A - Not Indic,Voluntary-Return To School
-306,Terminated,10/22/2019,08/08/2017,09/08/1987,S,M - Male,A - Not Indic,Voluntary-No Call/No Show
-307,Terminated,05/17/2019,11/28/2016,04/07/1979,S,F - Female,A - Not Indic,Voluntary-Personal Reasons
-308,Terminated,03/07/2019,09/10/2018,10/31/1986,S,F - Female,G - Bachelor's,Voluntary-Another Job
-309,Terminated,01/24/2020,08/27/2018,10/16/1971,M,M - Male,I - Master's,Voluntary-Another Job
-310,Terminated,06/10/2019,06/03/2019,11/23/1958,M,M - Male,C - HS Grad,Voluntary-Personal Reasons
-311,Terminated,08/09/2019,12/19/2005,07/13/1973,M,F - Female,A - Not Indic,Voluntary-Health
-312,Terminated,01/03/2020,07/01/2019,08/01/1961,D,M - Male,I - Master's,Voluntary-Dissatisfied with SW
-313,Terminated,01/03/2020,01/12/2015,01/19/1987,S,F - Female,A - Not Indic,Voluntary-Another Job
-314,Terminated,10/25/2019,05/20/2019,07/31/1997,S,M - Male,G - Bachelor's,Voluntary-Another Job
-315,Terminated,03/27/2019,08/25/2004,04/27/1946,M,M - Male,A - Not Indic,Voluntary-Health
-316,Terminated,04/18/2019,02/23/2004,10/01/1970,S,M - Male,A - Not Indic,Voluntary-Reloc/Move
-317,Terminated,07/01/2019,09/14/2009,07/04/1965,N,M - Male,A - Not Indic,Voluntary-Health
-318,Terminated,06/07/2019,02/25/2013,10/02/1952,M,M - Male,A - Not Indic,Voluntary-Health
-319,Terminated,09/04/2019,08/26/2013,08/31/1955,M,M - Male,A - Not Indic,Voluntary-Health
-320,Terminated,01/14/2019,06/15/2015,12/08/1980,M,M - Male,A - Not Indic,Voluntary-Dissatisfied with SW
-321,Terminated,01/31/2019,01/04/2017,12/10/1990,S,F - Female,A - Not Indic,Voluntary-Dissatisfied with SW
-322,Terminated,12/11/2019,01/15/2019,11/30/1968,S,M - Male,C - HS Grad,Voluntary-Another Job
-323,Terminated,12/02/2019,06/12/2019,07/10/1975,M,M - Male,G - Bachelor's,Voluntary-Another Job
-324,Terminated,01/06/2020,10/02/2019,10/15/1971,S,M - Male,G - Bachelor's,Voluntary-No Reason Given
-325,Terminated,02/15/2019,03/14/2016,06/01/1993,S,F - Female,A - Not Indic,Voluntary-Personal Reasons
-326,Terminated,08/07/2019,01/04/2017,05/15/1990,M,M - Male,A - Not Indic,Voluntary-Health
-327,Terminated,11/18/2019,08/12/2019,12/11/1985,S,F - Female,C - HS Grad,Voluntary-Dissatisfied with SW
-328,Terminated,02/28/2019,08/01/2007,04/17/1977,N,F - Female,A - Not Indic,Voluntary-Another Job
-329,Terminated,06/28/2019,02/18/2013,04/04/1963,M,F - Female,A - Not Indic,Voluntary-Another Job
-330,Terminated,01/17/2020,08/05/2019,12/14/1981,M,M - Male,A - Not Indic,Voluntary-Another Job
-331,Terminated,04/24/2020,02/24/2020,03/01/1976,S,M - Male,A - Not Indic,Voluntary-Another Job
-332,Terminated,03/01/2019,01/04/2011,10/10/1954,N,F - Female,A - Not Indic,Voluntary-Health
-333,Terminated,11/15/2019,10/09/2018,10/29/1982,M,F - Female,G - Bachelor's,Voluntary-No Reason Given
-334,Terminated,04/12/2019,01/05/2004,03/03/1982,S,M - Male,A - Not Indic,Voluntary-Another Job
-335,Terminated,05/29/2019,03/23/2015,02/20/1988,S,M - Male,A - Not Indic,Voluntary-Another Job
-336,Terminated,04/02/2020,06/27/1998,12/08/1953,S,F - Female,A - Not Indic,Voluntary-Health
-337,Terminated,06/07/2019,09/26/2016,05/08/1989,M,M - Male,A - Not Indic,Voluntary-Another Job
-338,Terminated,12/30/2019,06/27/1998,05/15/1947,S,F - Female,A - Not Indic,Retire-Normal
-339,Terminated,07/15/2019,12/14/2015,04/27/1974,S,M - Male,A - Not Indic,Voluntary-Another Job
-340,Terminated,07/16/2019,03/23/2018,04/02/1982,S,F - Female,A - Not Indic,Voluntary-Another Job
-341,Terminated,05/16/2019,03/14/2016,03/06/1985,S,F - Female,A - Not Indic,Voluntary-No Child Care
-342,Terminated,03/23/2020,03/13/2019,06/11/1973,S,F - Female,A - Not Indic,Voluntary-Dissatisfied with SW
-343,Terminated,02/22/2019,03/03/2015,03/20/1987,S,M - Male,A - Not Indic,Voluntary-Dissatisfied with SW
-344,Terminated,02/28/2020,01/28/2019,09/18/1991,M,M - Male,G - Bachelor's,Voluntary-Reloc/Move
-345,Terminated,12/03/2019,01/02/2001,10/16/1968,S,M - Male,A - Not Indic,Voluntary-Another Job
-346,Terminated,10/04/2019,01/24/2013,10/09/1987,S,M - Male,F - 2-Yr Coll,Voluntary-Another Job
-347,Terminated,04/23/2020,07/08/2014,07/20/1974,S,M - Male,C - HS Grad,Voluntary-Health
-348,Terminated,05/06/2019,08/31/2015,08/27/1988,N,M - Male,A - Not Indic,Voluntary-No Call/No Show
-349,Terminated,12/13/2019,10/26/2015,07/08/1991,N,F - Female,A - Not Indic,Voluntary-Another Job
-350,Terminated,08/08/2019,11/16/2015,03/21/1989,N,M - Male,A - Not Indic,Voluntary-Another Job
-351,Terminated,09/27/2019,07/11/2016,01/14/1973,N,M - Male,A - Not Indic,Voluntary-Another Job
-352,Terminated,06/13/2019,09/17/2017,04/28/1965,M,M - Male,A - Not Indic,Retire-Early
-353,Terminated,02/27/2020,07/16/2018,06/18/1990,S,F - Female,A - Not Indic,Voluntary-Another Job
-354,Terminated,01/08/2020,07/23/2018,02/26/1969,M,F - Female,C - HS Grad,Voluntary-Health
-355,Terminated,05/14/2019,11/26/2018,04/15/1988,S,M - Male,A - Not Indic,Voluntary-Personal Reasons
-356,Terminated,01/20/2020,03/04/2019,09/29/1976,M,F - Female,A - Not Indic,Voluntary-Another Job
-357,Terminated,05/09/2019,03/04/2019,03/13/1971,S,M - Male,A - Not Indic,Voluntary-Personal Reasons
-358,Terminated,07/22/2019,04/08/2019,05/25/2000,S,M - Male,A - Not Indic,Voluntary-Return To School
-359,Terminated,11/14/2019,04/08/2019,05/02/1986,S,M - Male,A - Not Indic,Voluntary-No Call/No Show
-360,Terminated,07/12/2019,09/21/2015,08/04/1959,N,M - Male,A - Not Indic,Voluntary-Health
-361,Terminated,08/21/2019,10/19/2015,09/19/1957,M,M - Male,A - Not Indic,Retire-Normal
-362,Terminated,03/13/2020,12/02/2019,05/02/2002,S,F - Female,A - Not Indic,Voluntary-Return To School
-363,Terminated,05/02/2019,09/24/2007,04/22/1980,M,F - Female,A - Not Indic,Voluntary-Personal Reasons
-364,Terminated,04/04/2019,04/20/2009,03/16/1973,M,F - Female,E - Tech Sch,Voluntary-Another Job
-365,Terminated,06/03/2019,06/02/2014,01/09/1992,S,F - Female,D - Some Coll.,Voluntary-Another Job
-366,Terminated,01/02/2020,11/03/2014,11/14/1990,S,F - Female,F - 2-Yr Coll,Voluntary-Another Job
-367,Terminated,02/19/2019,11/17/2014,09/13/1992,S,F - Female,C - HS Grad,Voluntary-Another Job
-368,Terminated,10/10/2019,12/08/2014,03/23/1980,S,M - Male,C - HS Grad,Voluntary-Personal Reasons
-369,Terminated,05/02/2019,09/18/2017,12/14/1996,S,F - Female,C - HS Grad,Voluntary-Health
-370,Terminated,04/26/2019,12/18/2017,07/14/1986,S,F - Female,C - HS Grad,Voluntary-Another Job
-371,Terminated,06/19/2019,12/18/2017,10/27/1994,S,F - Female,C - HS Grad,Voluntary-No Child Care
-372,Terminated,02/01/2019,02/12/2018,08/23/1997,S,F - Female,D - Some Coll.,Voluntary-Another Job
-373,Terminated,05/10/2019,04/02/2018,09/17/1971,M,F - Female,C - HS Grad,Voluntary-No Call/No Show
-374,Terminated,03/01/2019,06/26/2018,01/11/1989,S,F - Female,D - Some Coll.,Voluntary-Another Job
-375,Terminated,02/21/2019,08/06/2018,03/05/1977,S,F - Female,C - HS Grad,Voluntary-Another Job
-376,Terminated,12/27/2019,10/15/2018,08/09/1993,S,M - Male,C - HS Grad,Voluntary-Another Job
-377,Terminated,01/09/2019,10/30/2018,09/04/1970,M,F - Female,F - 2-Yr Coll,Voluntary-Health
-378,Terminated,04/26/2019,10/30/2018,02/14/1998,S,F - Female,D - Some Coll.,Voluntary-Another Job
-379,Terminated,09/13/2019,03/12/2019,02/07/2000,S,F - Female,C - HS Grad,Voluntary-Personal Reasons
-380,Terminated,11/04/2019,03/12/2019,10/29/1996,S,F - Female,C - HS Grad,Voluntary-Personal Reasons
-381,Terminated,10/18/2019,04/30/2019,12/04/1983,M,F - Female,D - Some Coll.,Voluntary-Another Job
-382,Terminated,06/13/2019,04/30/2019,05/06/1993,S,M - Male,C - HS Grad,Voluntary-Another Job
-383,Terminated,08/05/2019,05/22/2019,12/24/1978,M,F - Female,C - HS Grad,Voluntary-Personal Reasons
-384,Terminated,09/18/2019,06/18/2019,12/13/1979,E,M - Male,G - Bachelor's,Voluntary-Health
-385,Terminated,11/05/2019,11/04/2019,09/28/1993,S,F - Female,C - HS Grad,Voluntary-Personal Reasons
-386,Terminated,05/24/2019,07/10/2017,03/16/1991,S,M - Male,F - 2-Yr Coll,Voluntary-Another Job
-387,Terminated,04/30/2019,02/15/2010,03/20/1982,M,F - Female,A - Not Indic,Voluntary-No Child Care
-388,Terminated,10/09/2019,12/03/2001,03/12/1960,S,F - Female,E - Tech Sch,Voluntary-Health
-389,Terminated,02/08/2019,02/09/1998,01/06/1953,M,F - Female,G - Bachelor's,Retire-Normal
-390,Terminated,01/09/2019,04/22/2013,12/18/1968,S,F - Female,F - 2-Yr Coll,Voluntary-Health
-391,Terminated,04/30/2019,01/25/2016,10/19/1990,S,M - Male,G - Bachelor's,Voluntary-Personal Reasons
-392,Terminated,03/06/2020,05/13/1996,03/09/1958,M,F - Female,C - HS Grad,Retire-Early
-393,Terminated,10/21/2019,09/13/2010,04/20/1985,S,M - Male,A - Not Indic,Voluntary-No Reason Given
-394,Terminated,04/15/2019,08/12/2013,08/26/1970,S,M - Male,D - Some Coll.,Voluntary-No Reason Given
-395,Terminated,06/07/2019,08/11/2014,11/20/1985,S,F - Female,F - 2-Yr Coll,Voluntary-Another Job
-396,Terminated,02/22/2019,10/12/2015,04/11/1986,S,M - Male,D - Some Coll.,Voluntary-Another Job
-397,Terminated,01/09/2019,10/24/2016,06/19/1990,S,F - Female,D - Some Coll.,Voluntary-Another Job
-398,Terminated,03/29/2019,11/14/2016,01/18/1971,M,F - Female,C - HS Grad,Voluntary-Another Job
-399,Terminated,02/04/2019,06/19/2017,07/03/1992,M,F - Female,G - Bachelor's,Voluntary-Personal Reasons
-400,Terminated,05/28/2019,02/12/2018,09/03/1976,M,F - Female,C - HS Grad,Voluntary-Personal Reasons
-401,Terminated,02/19/2019,04/30/2018,10/07/1998,S,F - Female,C - HS Grad,Voluntary-Another Job
-402,Terminated,02/21/2019,04/30/2018,09/17/1999,S,M - Male,C - HS Grad,Voluntary-Another Job
-403,Terminated,02/07/2020,06/11/2018,06/11/1996,S,F - Female,D - Some Coll.,Voluntary-Another Job
-404,Terminated,09/18/2019,03/04/2019,05/01/1999,S,M - Male,C - HS Grad,Voluntary-No Call/No Show
-405,Terminated,02/14/2020,03/12/2019,09/06/1997,M,F - Female,D - Some Coll.,Voluntary-No Child Care
-406,Terminated,08/22/2019,06/18/2019,06/07/2001,S,M - Male,C - HS Grad,Voluntary-Personal Reasons
-407,Terminated,12/18/2019,11/04/2019,12/20/1997,S,F - Female,D - Some Coll.,Voluntary-Health
-408,Terminated,01/02/2020,11/04/2019,08/18/1970,M,F - Female,C - HS Grad,Voluntary-Another Job
-409,Terminated,07/18/2019,03/18/2019,09/14/1957,M,M - Male,I - Master's,Voluntary-No Reason Given
-410,Terminated,02/15/2019,06/20/2016,04/15/1965,S,M - Male,G - Bachelor's,Voluntary-Personal Reasons
-411,Terminated,01/07/2020,11/15/2018,11/20/1964,M,F - Female,A - Not Indic,Voluntary-No Call/No Show
-412,Terminated,04/17/2020,11/15/2018,04/05/1958,M,M - Male,A - Not Indic,Voluntary-No Reason Given
-413,Terminated,01/14/2020,11/15/2018,12/16/1962,M,M - Male,A - Not Indic,Voluntary-No Reason Given
-414,Terminated,02/25/2019,08/13/2015,01/22/1980,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-415,Terminated,04/17/2019,11/15/2018,03/03/1993,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-416,Terminated,10/25/2019,11/15/2018,08/03/1968,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-417,Terminated,02/25/2019,11/15/2018,12/28/1977,M,F - Female,A - Not Indic,Voluntary-No Reason Given
-418,Terminated,03/14/2019,03/04/2019,05/08/1976,S,F - Female,A - Not Indic,Voluntary-Personal Reasons
-419,Terminated,06/03/2019,03/08/2019,01/02/1967,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-420,Terminated,05/15/2019,05/08/2019,08/08/1986,M,F - Female,A - Not Indic,Voluntary-No Reason Given
-421,Terminated,08/13/2019,08/06/2019,04/21/1971,M,F - Female,A - Not Indic,Voluntary-No Call/No Show
-422,Terminated,01/09/2020,08/28/2019,07/19/1995,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-423,Terminated,02/28/2020,04/04/2003,11/23/1980,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-424,Terminated,10/25/2019,11/15/2018,03/12/1960,M,F - Female,A - Not Indic,Voluntary-No Call/No Show
-425,Terminated,01/09/2020,11/15/2018,12/02/1968,M,F - Female,A - Not Indic,Voluntary-No Reason Given
-426,Terminated,07/30/2019,11/15/2018,11/25/1962,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-427,Terminated,10/07/2019,11/15/2018,07/07/1962,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-428,Terminated,01/09/2019,11/15/2018,10/04/1996,S,M - Male,A - Not Indic,Voluntary-No Reason Given
-429,Terminated,12/09/2019,11/15/2018,03/15/1963,M,F - Female,A - Not Indic,Voluntary-No Reason Given
-430,Terminated,08/05/2019,11/15/2018,02/28/1997,S,M - Male,A - Not Indic,Voluntary-No Reason Given
-431,Terminated,07/30/2019,05/22/2017,05/26/1986,M,F - Female,A - Not Indic,Voluntary-No Reason Given
-432,Terminated,03/16/2020,11/15/2018,10/25/1968,M,F - Female,A - Not Indic,Voluntary-No Reason Given
-433,Terminated,07/01/2019,11/15/2018,09/18/1983,S,M - Male,A - Not Indic,Voluntary-No Reason Given
-434,Terminated,08/07/2019,11/15/2018,04/13/1971,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-435,Terminated,02/18/2019,11/15/2018,07/10/1993,S,F - Female,A - Not Indic,Voluntary-Illness in Family
-436,Terminated,08/13/2019,11/15/2018,02/27/1992,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-437,Terminated,03/11/2019,11/15/2018,04/09/1961,M,M - Male,A - Not Indic,Voluntary-No Reason Given
-438,Terminated,02/13/2019,02/11/2019,09/30/1979,N,M - Male,A - Not Indic,Voluntary-No Reason Given
-439,Terminated,07/02/2019,05/08/2019,01/03/1964,M,M - Male,A - Not Indic,Voluntary-No Call/No Show
-440,Terminated,10/03/2019,05/20/2019,05/16/1994,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-441,Terminated,10/25/2019,06/27/2019,02/12/1971,S,M - Male,A - Not Indic,Voluntary-No Call/No Show
-442,Terminated,11/06/2019,07/01/2019,08/12/1974,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-443,Terminated,02/07/2020,07/08/2019,01/21/1976,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-444,Terminated,10/18/2019,07/09/2019,10/05/1973,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-445,Terminated,10/07/2019,07/31/2019,02/26/2000,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-446,Terminated,01/22/2020,09/03/2019,04/05/1999,S,F - Female,A - Not Indic,Voluntary-Personal Reasons
-447,Terminated,11/15/2019,09/20/2019,12/27/1990,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-448,Terminated,10/21/2019,09/20/2019,11/14/1996,S,M - Male,A - Not Indic,Voluntary-No Reason Given
-449,Terminated,01/28/2020,10/01/2019,01/04/1998,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-450,Terminated,11/25/2019,10/02/2019,05/10/1984,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-451,Terminated,11/15/2019,10/15/2019,12/28/1979,M,F - Female,A - Not Indic,Voluntary-No Reason Given
-452,Terminated,10/31/2019,10/21/2019,12/19/1991,S,M - Male,A - Not Indic,Voluntary-No Reason Given
-453,Terminated,01/28/2020,10/22/2019,12/09/1964,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-454,Terminated,02/07/2020,10/23/2019,09/14/2001,S,M - Male,A - Not Indic,Voluntary-No Call/No Show
-455,Terminated,01/14/2020,11/21/2019,10/18/1995,S,M - Male,A - Not Indic,Voluntary-No Reason Given
-456,Terminated,01/03/2020,11/22/2019,12/28/2000,S,M - Male,A - Not Indic,Voluntary-No Reason Given
-457,Terminated,12/02/2019,11/25/2019,04/12/1969,M,M - Male,A - Not Indic,Voluntary-No Reason Given
-458,Terminated,12/03/2019,11/26/2019,03/12/2001,S,M - Male,A - Not Indic,Voluntary-No Call/No Show
-459,Terminated,01/24/2020,01/07/2020,04/06/1980,M,F - Female,A - Not Indic,Voluntary-No Call/No Show
-460,Terminated,01/24/2020,01/08/2020,07/04/1994,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-461,Terminated,03/27/2020,01/09/2020,03/13/2000,S,M - Male,A - Not Indic,Voluntary-No Reason Given
-462,Terminated,02/10/2020,02/05/2020,12/12/1978,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-463,Terminated,07/31/2019,11/15/2018,07/16/1969,M,F - Female,A - Not Indic,Voluntary-No Reason Given
-464,Terminated,03/17/2020,11/15/2018,03/19/1958,M,F - Female,A - Not Indic,Retire-Early
-465,Terminated,03/06/2020,07/16/2012,09/16/1960,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-466,Terminated,11/08/2019,11/15/2018,03/17/1966,M,M - Male,A - Not Indic,Voluntary-No Reason Given
-467,Terminated,09/16/2019,11/15/2018,04/18/1964,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-468,Terminated,01/20/2020,11/15/2018,08/04/1976,M,F - Female,A - Not Indic,Voluntary-No Reason Given
-469,Terminated,04/13/2020,11/15/2018,10/15/1970,S,F - Female,A - Not Indic,Voluntary-Personal Reasons
-470,Terminated,07/21/2019,11/15/2018,05/31/1974,M,F - Female,A - Not Indic,Voluntary-No Reason Given
-471,Terminated,04/17/2020,11/15/2018,12/20/1961,M,F - Female,A - Not Indic,Voluntary-No Reason Given
-472,Terminated,03/15/2019,11/15/2018,02/09/1945,M,M - Male,A - Not Indic,Retire-Early
-473,Terminated,06/21/2019,11/15/2018,04/07/1959,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-474,Terminated,04/17/2020,11/15/2018,05/30/1998,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-475,Terminated,08/02/2019,11/15/2018,07/03/1967,M,M - Male,A - Not Indic,Voluntary-No Reason Given
-476,Terminated,04/09/2020,11/15/2018,01/03/1963,M,F - Female,A - Not Indic,Voluntary-Personal Reasons
-477,Terminated,01/06/2020,11/15/2018,04/01/1996,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-478,Terminated,12/09/2019,11/15/2018,10/10/1968,M,F - Female,A - Not Indic,Voluntary-No Reason Given
-479,Terminated,01/25/2019,11/15/2018,01/13/1994,S,M - Male,A - Not Indic,Voluntary-No Call/No Show
-480,Terminated,08/29/2019,11/15/2018,02/02/1967,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-481,Terminated,12/24/2019,11/15/2018,02/24/1973,M,F - Female,A - Not Indic,Voluntary-No Reason Given
-482,Terminated,12/06/2019,11/15/2018,10/28/1973,M,F - Female,A - Not Indic,Voluntary-No Reason Given
-483,Terminated,04/08/2020,12/21/2018,04/10/1972,N,F - Female,A - Not Indic,Voluntary-No Child Care
-484,Terminated,10/11/2019,01/14/2019,07/16/1962,S,M - Male,A - Not Indic,Voluntary-No Reason Given
-485,Terminated,10/11/2019,01/23/2019,10/13/1984,S,M - Male,A - Not Indic,Voluntary-No Reason Given
-486,Terminated,04/17/2019,01/23/2019,11/29/1991,S,M - Male,A - Not Indic,Voluntary-No Reason Given
-487,Terminated,03/25/2019,01/24/2019,02/16/1992,S,M - Male,A - Not Indic,Voluntary-Reloc/Move
-488,Terminated,09/10/2019,02/27/2019,06/05/1996,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-489,Terminated,06/12/2019,03/04/2019,12/22/1997,S,M - Male,A - Not Indic,Voluntary-No Reason Given
-490,Terminated,08/16/2019,03/04/2019,04/07/1977,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-491,Terminated,08/05/2019,03/04/2019,08/30/1999,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-492,Terminated,11/08/2019,03/04/2019,07/10/1997,S,M - Male,A - Not Indic,Voluntary-No Reason Given
-493,Terminated,04/25/2019,03/04/2019,07/20/1984,S,M - Male,A - Not Indic,Voluntary-No Reason Given
-494,Terminated,03/29/2019,03/25/2019,07/04/1997,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-495,Terminated,04/01/2019,03/25/2019,06/26/1986,S,F - Female,A - Not Indic,Voluntary-No Child Care
-496,Terminated,03/29/2019,03/25/2019,05/03/1978,M,M - Male,A - Not Indic,Voluntary-No Call/No Show
-497,Terminated,03/29/2019,03/25/2019,06/19/1996,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-498,Terminated,03/29/2019,03/25/2019,03/21/1978,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-499,Terminated,12/17/2019,03/25/2019,07/17/1972,M,F - Female,A - Not Indic,Voluntary-No Reason Given
-500,Terminated,03/29/2019,03/25/2019,12/11/1999,S,M - Male,A - Not Indic,Voluntary-No Call/No Show
-501,Terminated,03/27/2019,03/26/2019,01/16/1984,S,M - Male,A - Not Indic,Voluntary-No Reason Given
-502,Terminated,04/08/2019,03/27/2019,07/27/1990,M,F - Female,A - Not Indic,Voluntary-No Reason Given
-503,Terminated,06/13/2019,04/01/2019,09/12/1978,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-504,Terminated,10/21/2019,04/01/2019,12/03/2000,S,M - Male,A - Not Indic,Voluntary-No Reason Given
-505,Terminated,06/21/2019,04/08/2019,05/05/1969,M,F - Female,A - Not Indic,Voluntary-No Reason Given
-506,Terminated,05/29/2019,04/08/2019,05/30/1976,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-507,Terminated,04/22/2019,04/11/2019,03/29/2000,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-508,Terminated,08/29/2019,04/29/2019,12/31/1987,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-509,Terminated,05/15/2019,04/30/2019,10/31/1996,S,M - Male,A - Not Indic,Voluntary-No Reason Given
-510,Terminated,08/12/2019,05/08/2019,02/07/1989,M,F - Female,A - Not Indic,Voluntary-No Reason Given
-511,Terminated,08/05/2019,05/13/2019,07/23/1993,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-512,Terminated,09/23/2019,05/29/2019,08/07/1990,M,F - Female,A - Not Indic,Voluntary-No Reason Given
-513,Terminated,07/16/2019,05/29/2019,07/02/1992,M,F - Female,A - Not Indic,Voluntary-No Reason Given
-514,Terminated,07/12/2019,06/18/2019,08/31/1995,S,M - Male,A - Not Indic,Voluntary-No Reason Given
-515,Terminated,08/02/2019,07/30/2019,08/21/2000,S,M - Male,A - Not Indic,Voluntary-No Reason Given
-516,Terminated,09/11/2019,08/05/2019,02/21/1999,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-517,Terminated,08/19/2019,08/14/2019,11/18/1950,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-518,Terminated,08/29/2019,08/19/2019,02/01/1968,M,F - Female,A - Not Indic,Voluntary-No Call/No Show
-519,Terminated,08/22/2019,08/21/2019,01/01/1970,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-520,Terminated,09/11/2019,08/22/2019,02/02/1988,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-521,Terminated,09/09/2019,08/23/2019,10/19/1965,S,M - Male,A - Not Indic,Voluntary-No Call/No Show
-522,Terminated,09/30/2019,09/10/2019,11/06/1994,S,M - Male,A - Not Indic,Voluntary-No Reason Given
-523,Terminated,12/05/2019,09/10/2019,07/22/1999,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-524,Terminated,11/04/2019,09/10/2019,02/19/1996,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-525,Terminated,12/30/2019,09/23/2019,05/20/1976,M,F - Female,A - Not Indic,Voluntary-No Reason Given
-526,Terminated,10/21/2019,09/30/2019,05/01/1999,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-527,Terminated,10/18/2019,10/07/2019,09/03/1999,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-528,Terminated,12/04/2019,10/07/2019,12/20/1998,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-529,Terminated,11/01/2019,10/07/2019,03/08/1999,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-530,Terminated,11/25/2019,10/09/2019,06/06/1989,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-531,Terminated,10/14/2019,10/09/2019,11/27/2000,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-532,Terminated,10/17/2019,10/10/2019,05/15/1981,M,F - Female,A - Not Indic,Voluntary-No Reason Given
-533,Terminated,10/21/2019,10/11/2019,01/18/1980,M,F - Female,A - Not Indic,Voluntary-No Reason Given
-534,Terminated,10/17/2019,10/14/2019,03/24/1971,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-535,Terminated,11/05/2019,10/21/2019,08/17/2000,S,M - Male,A - Not Indic,Voluntary-No Reason Given
-536,Terminated,10/23/2019,10/21/2019,02/23/1999,M,F - Female,A - Not Indic,Voluntary-No Reason Given
-537,Terminated,01/15/2020,10/28/2019,01/21/2000,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-538,Terminated,11/26/2019,10/28/2019,05/18/2000,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-539,Terminated,11/08/2019,10/30/2019,03/23/2001,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-540,Terminated,01/15/2020,10/30/2019,09/04/1980,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-541,Terminated,11/08/2019,11/04/2019,11/05/1996,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-542,Terminated,11/08/2019,11/04/2019,10/25/1999,S,M - Male,A - Not Indic,Voluntary-No Reason Given
-543,Terminated,11/08/2019,11/04/2019,10/01/2000,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-544,Terminated,12/09/2019,11/14/2019,07/28/1978,M,M - Male,A - Not Indic,Voluntary-No Call/No Show
-545,Terminated,02/17/2020,01/08/2020,05/29/1983,M,F - Female,A - Not Indic,Voluntary-No Reason Given
-546,Terminated,03/03/2020,02/04/2020,05/27/1995,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-547,Terminated,03/03/2020,02/04/2020,09/15/2000,S,M - Male,A - Not Indic,Voluntary-No Reason Given
-548,Terminated,03/03/2020,02/04/2020,07/28/1996,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-549,Terminated,02/17/2020,02/13/2020,03/22/1970,M,M - Male,A - Not Indic,Voluntary-No Reason Given
-550,Terminated,02/27/2020,02/17/2020,10/07/1995,S,M - Male,A - Not Indic,Voluntary-No Call/No Show
-551,Terminated,03/10/2020,03/02/2020,06/18/1990,S,M - Male,A - Not Indic,Voluntary-No Call/No Show
-552,Terminated,04/17/2020,03/03/2020,01/25/1996,M,M - Male,A - Not Indic,Voluntary-No Reason Given
-553,Terminated,03/06/2020,02/26/2020,10/17/1980,M,F - Female,A - Not Indic,Voluntary-No Reason Given
-554,Terminated,03/17/2020,03/04/2020,09/24/2000,S,M - Male,A - Not Indic,Voluntary-No Reason Given
-555,Terminated,03/13/2020,03/09/2020,09/11/1993,S,F - Female,A - Not Indic,Voluntary-Dissatisfied with SW
-556,Terminated,08/21/2019,11/15/2018,07/10/1955,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-557,Terminated,01/07/2019,11/15/2018,07/31/1962,M,F - Female,A - Not Indic,Voluntary-No Reason Given
-558,Terminated,05/10/2019,11/15/2018,11/10/1976,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-559,Terminated,01/16/2019,11/15/2018,09/20/1965,M,M - Male,A - Not Indic,Voluntary-No Reason Given
-560,Terminated,07/31/2019,11/15/2018,09/15/1987,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-561,Terminated,01/10/2020,11/15/2018,02/28/1988,M,F - Female,A - Not Indic,Voluntary-No Reason Given
-562,Terminated,03/29/2019,11/15/2018,10/30/1999,S,M - Male,A - Not Indic,Voluntary-Reloc/Move
-563,Terminated,04/09/2019,11/15/2018,08/07/1994,S,M - Male,A - Not Indic,Voluntary-No Reason Given
-564,Terminated,04/09/2019,03/04/2019,01/01/1970,S,M - Male,A - Not Indic,Voluntary-No Call/No Show
-565,Terminated,12/27/2019,03/19/2019,05/11/1999,S,M - Male,A - Not Indic,Voluntary-No Reason Given
-566,Terminated,01/25/2019,11/15/2018,12/11/1958,M,M - Male,A - Not Indic,Voluntary-No Call/No Show
-567,Terminated,02/12/2020,11/15/2018,07/22/2000,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-568,Terminated,04/09/2019,12/21/2018,08/01/1996,S,M - Male,A - Not Indic,Voluntary-Reloc/Move
-569,Terminated,05/22/2019,01/16/2019,12/19/1979,S,M - Male,A - Not Indic,Voluntary-No Call/No Show
-570,Terminated,08/19/2019,05/28/2019,03/29/1997,S,M - Male,A - Not Indic,Voluntary-No Reason Given
-571,Terminated,06/12/2019,06/06/2019,09/25/1990,S,M - Male,A - Not Indic,Voluntary-No Reason Given
-572,Terminated,07/19/2019,06/05/2019,04/20/2000,S,M - Male,A - Not Indic,Voluntary-No Reason Given
-573,Terminated,10/31/2019,11/15/2018,01/21/1958,S,M - Male,A - Not Indic,Voluntary-No Reason Given
-574,Terminated,03/01/2019,11/15/2018,09/24/1953,S,M - Male,A - Not Indic,Voluntary-No Reason Given
-575,Terminated,11/08/2019,11/15/2018,06/27/1995,S,M - Male,A - Not Indic,Voluntary-No Reason Given
-576,Terminated,09/16/2019,11/15/2018,11/01/1996,S,M - Male,A - Not Indic,Voluntary-No Reason Given
-577,Terminated,07/01/2019,06/24/2019,08/21/2000,S,M - Male,A - Not Indic,Voluntary-No Reason Given
-578,Terminated,09/12/2019,07/15/2019,07/20/1996,S,M - Male,A - Not Indic,Voluntary-No Reason Given
-579,Terminated,12/03/2019,11/26/2019,12/07/2000,S,M - Male,A - Not Indic,Voluntary-No Call/No Show
-580,Terminated,12/03/2019,11/26/2019,09/27/1998,S,M - Male,A - Not Indic,Voluntary-No Call/No Show
-581,Terminated,04/17/2020,01/07/2019,07/15/1999,S,M - Male,A - Not Indic,Voluntary-No Reason Given
-582,Terminated,05/17/2019,11/15/2018,10/05/1976,S,M - Male,A - Not Indic,Voluntary-No Reason Given
-583,Terminated,10/18/2019,11/15/2018,04/17/1968,S,M - Male,A - Not Indic,Voluntary-No Reason Given
-584,Terminated,03/02/2020,11/15/2018,04/07/1984,M,M - Male,A - Not Indic,Voluntary-No Reason Given
-585,Terminated,02/06/2020,11/15/2018,08/18/1989,S,F - Female,A - Not Indic,Voluntary-Another Job
-586,Terminated,07/24/2019,11/15/2018,09/25/1975,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-587,Terminated,12/06/2019,11/15/2018,01/16/1984,S,M - Male,A - Not Indic,Voluntary-Reloc/Move
-588,Terminated,02/15/2019,11/15/2018,10/31/1962,S,F - Female,A - Not Indic,Voluntary-Another Job
-589,Terminated,05/07/2019,11/15/2018,11/17/1997,S,M - Male,A - Not Indic,Voluntary-Personal Reasons
-590,Terminated,04/30/2019,04/11/2019,08/05/1996,M,F - Female,A - Not Indic,Voluntary-No Reason Given
-591,Terminated,05/17/2019,04/22/2019,01/20/1992,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-592,Terminated,09/27/2019,09/13/2010,03/05/1988,S,M - Male,A - Not Indic,Voluntary-No Reason Given
-593,Terminated,06/28/2019,11/15/2018,12/01/1976,M,M - Male,A - Not Indic,Voluntary-No Reason Given
-594,Terminated,01/10/2020,07/02/2014,06/08/1987,S,M - Male,A - Not Indic,Voluntary-No Reason Given
-595,Terminated,03/01/2019,11/15/2018,05/27/1973,S,M - Male,A - Not Indic,Voluntary-No Reason Given
-596,Terminated,06/28/2019,11/15/2018,11/29/1962,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-597,Terminated,06/21/2019,11/26/2018,06/17/1971,S,M - Male,A - Not Indic,Voluntary-No Reason Given
-598,Terminated,03/11/2019,02/11/2019,07/11/1977,N,F - Female,A - Not Indic,Voluntary-Personal Reasons
-599,Terminated,01/10/2019,11/15/2018,07/06/1994,M,F - Female,A - Not Indic,Voluntary-Personal Reasons
-600,Terminated,01/14/2019,12/07/2018,07/08/1972,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-601,Terminated,01/25/2019,12/13/2018,07/30/1974,M,F - Female,A - Not Indic,Voluntary-No Call/No Show
-602,Terminated,01/08/2019,12/18/2018,11/25/1991,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-603,Terminated,01/11/2019,11/15/2018,03/07/1997,S,M - Male,A - Not Indic,Voluntary-Another Job
-604,Terminated,01/25/2019,11/15/2018,10/08/1980,S,F - Female,A - Not Indic,Voluntary-Another Job
-605,Terminated,01/07/2019,11/15/2018,08/31/1994,M,F - Female,A - Not Indic,Voluntary-No Call/No Show
-606,Terminated,02/20/2019,11/27/2018,05/22/1976,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-607,Terminated,01/18/2019,10/15/2018,09/08/1994,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-608,Terminated,01/18/2019,10/15/2018,01/15/1969,M,F - Female,A - Not Indic,Voluntary-No Reason Given
-609,Terminated,01/15/2019,01/09/2019,10/24/1991,M,M - Male,A - Not Indic,Voluntary-No Call/No Show
-610,Terminated,01/18/2019,01/09/2019,10/27/1961,M,F - Female,A - Not Indic,Voluntary-Personal Reasons
-611,Terminated,04/02/2019,01/09/2019,02/16/1990,M,F - Female,A - Not Indic,Voluntary-Health
-612,Terminated,01/17/2019,01/10/2019,03/12/1993,S,M - Male,A - Not Indic,Voluntary-Return To School
-613,Terminated,01/17/2019,01/09/2019,09/08/2000,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-614,Terminated,01/23/2019,01/21/2019,08/03/1993,S,M - Male,A - Not Indic,Voluntary-Return To School
-615,Terminated,01/29/2019,01/28/2019,04/07/1988,S,M - Male,A - Not Indic,Voluntary-No Call/No Show
-616,Terminated,03/19/2019,02/26/2019,12/14/1975,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-617,Terminated,04/12/2019,03/28/2019,01/10/2001,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-618,Terminated,04/10/2019,04/09/2019,06/29/2000,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-619,Terminated,05/24/2019,05/21/2019,11/07/1975,M,F - Female,A - Not Indic,Voluntary-No Call/No Show
-620,Terminated,07/08/2019,11/15/2018,03/05/1975,M,F - Female,A - Not Indic,Voluntary-Personal Reasons
-621,Terminated,01/28/2019,11/15/2018,10/20/1956,S,M - Male,A - Not Indic,Voluntary-No Call/No Show
-622,Terminated,03/28/2019,11/15/2018,02/15/1961,M,F - Female,A - Not Indic,Voluntary-No Call/No Show
-623,Terminated,05/17/2019,11/15/2018,01/15/1973,M,M - Male,A - Not Indic,Voluntary-No Call/No Show
-624,Terminated,06/14/2019,11/15/2018,12/03/1995,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-625,Terminated,09/16/2019,11/15/2018,10/19/1955,S,F - Female,A - Not Indic,Voluntary-Personal Reasons
-626,Terminated,07/22/2019,11/15/2018,12/19/1991,S,F - Female,A - Not Indic,Voluntary-Another Job
-627,Terminated,09/10/2019,11/15/2018,12/01/1982,S,F - Female,A - Not Indic,Voluntary-Personal Reasons
-628,Terminated,02/19/2019,11/15/2018,10/13/1962,S,F - Female,A - Not Indic,Voluntary-Personal Reasons
-629,Terminated,09/06/2019,11/15/2018,06/02/1968,M,F - Female,A - Not Indic,Voluntary-Health
-630,Terminated,01/14/2019,11/15/2018,06/20/1992,S,F - Female,A - Not Indic,Voluntary-Return To School
-631,Terminated,01/07/2019,11/15/2018,05/05/1951,M,F - Female,A - Not Indic,Voluntary-No Call/No Show
-632,Terminated,03/16/2019,11/15/2018,10/03/1975,M,F - Female,A - Not Indic,Voluntary-Personal Reasons
-633,Terminated,08/12/2019,11/15/2018,08/26/1996,S,F - Female,A - Not Indic,Voluntary-Reloc/Move
-634,Terminated,05/14/2019,11/15/2018,01/23/1996,S,M - Male,A - Not Indic,Voluntary-Another Job
-635,Terminated,02/19/2019,11/15/2018,01/02/1997,S,F - Female,A - Not Indic,Voluntary-Personal Reasons
-636,Terminated,01/07/2019,11/15/2018,06/30/1973,M,M - Male,A - Not Indic,Voluntary-Another Job
-637,Terminated,01/07/2019,11/15/2018,03/27/1980,S,F - Female,A - Not Indic,Voluntary-Another Job
-638,Terminated,07/18/2019,11/15/2018,01/07/1981,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-639,Terminated,05/17/2019,11/15/2018,06/20/1983,M,M - Male,A - Not Indic,Voluntary-No Call/No Show
-640,Terminated,04/12/2019,11/15/2018,04/27/1968,S,F - Female,A - Not Indic,Voluntary-Reloc/Move
-641,Terminated,08/21/2019,12/07/2018,04/10/1961,M,F - Female,A - Not Indic,Voluntary-Personal Reasons
-642,Terminated,03/22/2019,12/13/2018,05/12/1984,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-643,Terminated,04/08/2020,11/20/2018,08/07/1946,M,M - Male,A - Not Indic,Voluntary-No Call/No Show
-644,Terminated,01/28/2019,10/12/2018,05/19/1977,M,N - Not Spec,A - Not Indic,Voluntary-No Reason Given
-645,Terminated,03/05/2019,10/12/2018,02/24/1978,M,N - Not Spec,A - Not Indic,Voluntary-No Call/No Show
-646,Terminated,01/10/2019,01/09/2019,10/18/1972,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-647,Terminated,04/19/2019,01/24/2019,10/05/1998,S,F - Female,A - Not Indic,Voluntary-Another Job
-648,Terminated,02/11/2019,02/08/2019,07/28/2000,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-649,Terminated,12/04/2019,02/14/2019,03/12/1968,S,F - Female,A - Not Indic,Voluntary-Personal Reasons
-650,Terminated,03/05/2019,02/26/2019,09/24/1975,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-651,Terminated,03/02/2020,03/06/2019,10/11/1996,S,M - Male,A - Not Indic,Voluntary-Personal Reasons
-652,Terminated,03/07/2019,03/07/2019,03/07/1995,S,M - Male,A - Not Indic,Voluntary-No Call/No Show
-653,Terminated,03/19/2019,03/12/2019,06/12/1972,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-654,Terminated,04/02/2019,03/12/2019,10/22/1991,S,F - Female,A - Not Indic,Voluntary-Personal Reasons
-655,Terminated,04/17/2019,03/11/2019,08/15/1971,S,F - Female,A - Not Indic,Voluntary-Health
-656,Terminated,05/23/2019,03/20/2019,09/22/1993,S,F - Female,A - Not Indic,Voluntary-No Child Care
-657,Terminated,04/03/2019,04/02/2019,12/08/1971,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-658,Terminated,12/16/2019,04/09/2019,10/07/1991,M,F - Female,A - Not Indic,Voluntary-Personal Reasons
-659,Terminated,08/19/2019,04/09/2019,10/24/1999,S,M - Male,A - Not Indic,Voluntary-Personal Reasons
-660,Terminated,04/19/2019,04/12/2019,10/11/1967,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-661,Terminated,07/19/2019,04/16/2019,03/20/1995,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-662,Terminated,06/11/2019,04/23/2019,05/21/1998,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-663,Terminated,05/07/2019,04/26/2019,02/08/1960,S,F - Female,A - Not Indic,Voluntary-Another Job
-664,Terminated,03/13/2020,04/30/2019,08/15/1973,S,F - Female,A - Not Indic,Voluntary-Another Job
-665,Terminated,05/07/2019,05/06/2019,03/08/1996,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-666,Terminated,05/07/2019,05/06/2019,08/19/1982,M,F - Female,A - Not Indic,Voluntary-No Call/No Show
-667,Terminated,06/11/2019,05/06/2019,03/03/1974,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-668,Terminated,05/09/2019,05/07/2019,09/25/1991,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-669,Terminated,09/30/2019,05/21/2019,08/14/1999,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-670,Terminated,09/30/2019,05/28/2019,02/16/1988,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-671,Terminated,07/08/2019,05/28/2019,08/16/1998,M,F - Female,A - Not Indic,Voluntary-Personal Reasons
-672,Terminated,06/11/2019,05/29/2019,12/11/1973,S,M - Male,A - Not Indic,Voluntary-No Call/No Show
-673,Terminated,05/31/2019,05/29/2019,08/20/1969,M,M - Male,A - Not Indic,Voluntary-No Call/No Show
-674,Terminated,07/18/2019,05/29/2019,06/27/1993,S,M - Male,A - Not Indic,Voluntary-No Call/No Show
-675,Terminated,08/19/2019,05/31/2019,05/10/1976,M,M - Male,A - Not Indic,Voluntary-Personal Reasons
-676,Terminated,01/06/2020,05/31/2019,09/05/1995,S,F - Female,A - Not Indic,Voluntary-Another Job
-677,Terminated,06/11/2019,06/01/2019,09/17/1987,S,M - Male,A - Not Indic,Voluntary-No Call/No Show
-678,Terminated,06/05/2019,06/04/2019,03/21/2001,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-679,Terminated,06/05/2019,06/04/2019,12/18/1979,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-680,Terminated,08/19/2019,06/04/2019,09/04/1999,S,M - Male,A - Not Indic,Voluntary-No Call/No Show
-681,Terminated,06/25/2019,06/10/2019,09/30/1993,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-682,Terminated,07/23/2019,06/11/2019,08/26/1976,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-683,Terminated,12/20/2019,06/12/2019,06/09/1992,S,M - Male,A - Not Indic,Voluntary-No Call/No Show
-684,Terminated,06/28/2019,06/19/2019,08/21/1978,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-685,Terminated,07/11/2019,06/28/2019,08/22/1989,S,M - Male,A - Not Indic,Voluntary-Personal Reasons
-686,Terminated,07/08/2019,07/01/2019,11/25/1994,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-687,Terminated,07/08/2019,07/02/2019,08/21/1967,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-688,Terminated,09/10/2019,07/08/2019,07/27/1983,S,F - Female,A - Not Indic,Voluntary-No Child Care
-689,Terminated,08/07/2019,07/08/2019,02/07/1967,M,F - Female,A - Not Indic,Voluntary-No Reason Given
-690,Terminated,10/02/2019,07/09/2019,08/18/1976,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-691,Terminated,02/24/2020,07/09/2019,05/01/1998,S,F - Female,A - Not Indic,Voluntary-Personal Reasons
-692,Terminated,08/28/2019,07/10/2019,06/15/1987,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-693,Terminated,01/27/2020,07/10/2019,04/18/1994,S,F - Female,A - Not Indic,Voluntary-Personal Reasons
-694,Terminated,07/12/2019,07/11/2019,02/23/1966,S,F - Female,A - Not Indic,Voluntary-Health
-695,Terminated,10/02/2019,07/12/2019,06/21/1977,S,M - Male,A - Not Indic,Voluntary-No Call/No Show
-696,Terminated,08/03/2019,07/16/2019,10/23/1989,S,M - Male,A - Not Indic,Voluntary-No Call/No Show
-697,Terminated,08/26/2019,07/16/2019,06/26/1998,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-698,Terminated,07/22/2019,07/19/2019,10/01/1994,S,M - Male,A - Not Indic,Voluntary-No Reason Given
-699,Terminated,10/09/2019,07/23/2019,03/03/1984,M,F - Female,A - Not Indic,Voluntary-Personal Reasons
-700,Terminated,07/31/2019,07/23/2019,09/10/1973,M,F - Female,A - Not Indic,Voluntary-No Call/No Show
-701,Terminated,07/24/2019,07/23/2019,06/14/1969,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-702,Terminated,11/06/2019,07/23/2019,06/26/1991,S,M - Male,A - Not Indic,Voluntary-No Call/No Show
-703,Terminated,07/26/2019,07/24/2019,05/09/2001,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-704,Terminated,03/06/2020,07/24/2019,01/27/1976,S,F - Female,A - Not Indic,Voluntary-Personal Reasons
-705,Terminated,07/30/2019,07/25/2019,01/22/1969,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-706,Terminated,07/29/2019,07/25/2019,03/18/1985,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-707,Terminated,03/04/2020,07/30/2019,08/15/1958,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-708,Terminated,07/31/2019,07/30/2019,01/16/1975,M,F - Female,A - Not Indic,Voluntary-No Call/No Show
-709,Terminated,08/23/2019,07/31/2019,04/22/1995,M,M - Male,A - Not Indic,Voluntary-Another Job
-710,Terminated,12/13/2019,08/06/2019,11/12/1970,S,F - Female,A - Not Indic,Voluntary-Personal Reasons
-711,Terminated,09/06/2019,08/06/2019,02/24/1956,S,M - Male,A - Not Indic,Voluntary-No Call/No Show
-712,Terminated,08/26/2019,08/07/2019,01/10/1995,S,F - Female,A - Not Indic,Voluntary-Personal Reasons
-713,Terminated,08/29/2019,08/12/2019,11/14/1987,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-714,Terminated,08/14/2019,08/13/2019,03/25/1995,M,F - Female,A - Not Indic,Voluntary-No Call/No Show
-715,Terminated,08/14/2019,08/13/2019,03/21/1979,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-716,Terminated,08/15/2019,08/14/2019,03/08/1994,M,F - Female,A - Not Indic,Voluntary-No Call/No Show
-717,Terminated,08/23/2019,08/22/2019,05/11/1980,M,F - Female,A - Not Indic,Voluntary-No Call/No Show
-718,Terminated,08/26/2019,08/23/2019,07/19/1999,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-719,Terminated,10/10/2019,08/27/2019,05/28/1992,M,F - Female,A - Not Indic,Voluntary-No Call/No Show
-720,Terminated,09/11/2019,08/29/2019,05/04/1983,S,F - Female,A - Not Indic,Voluntary-No Child Care
-721,Terminated,12/16/2019,09/03/2019,09/14/1975,S,F - Female,A - Not Indic,Voluntary-Personal Reasons
-722,Terminated,09/11/2019,09/04/2019,05/14/2001,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-723,Terminated,10/21/2019,09/10/2019,01/06/1992,M,F - Female,A - Not Indic,Voluntary-Personal Reasons
-724,Terminated,02/21/2020,09/11/2019,12/08/1989,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-725,Terminated,10/08/2019,09/26/2019,08/04/1986,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-726,Terminated,12/06/2019,09/30/2019,10/10/1956,M,M - Male,A - Not Indic,Voluntary-Personal Reasons
-727,Terminated,10/29/2019,10/01/2019,06/10/2000,S,M - Male,A - Not Indic,Voluntary-Another Job
-728,Terminated,12/11/2019,10/03/2019,03/11/2000,S,M - Male,A - Not Indic,Voluntary-Another Job
-729,Terminated,12/06/2019,10/16/2019,06/27/1992,M,F - Female,A - Not Indic,Voluntary-No Call/No Show
-730,Terminated,10/25/2019,10/21/2019,08/23/1995,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-731,Terminated,10/22/2019,10/21/2019,05/19/1983,S,F - Female,A - Not Indic,Voluntary-Personal Reasons
-732,Terminated,11/27/2019,10/24/2019,08/12/1983,S,M - Male,A - Not Indic,Voluntary-Another Job
-733,Terminated,12/13/2019,11/05/2019,07/01/1997,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-734,Terminated,01/03/2020,11/13/2019,03/02/1998,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-735,Terminated,12/05/2019,12/04/2019,07/01/1964,S,M - Male,A - Not Indic,Voluntary-No Call/No Show
-736,Terminated,12/11/2019,12/05/2019,07/02/1972,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-737,Terminated,01/22/2020,12/06/2019,10/19/1988,S,M - Male,A - Not Indic,Voluntary-No Call/No Show
-738,Terminated,12/13/2019,12/12/2019,12/21/1990,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-739,Terminated,03/26/2020,12/16/2019,04/05/1989,S,M - Male,A - Not Indic,Voluntary-Another Job
-740,Terminated,12/19/2019,12/18/2019,07/23/2000,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-741,Terminated,02/13/2020,12/19/2019,11/15/1972,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-742,Terminated,01/10/2020,01/09/2020,07/12/1973,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-743,Terminated,01/27/2020,01/10/2020,12/12/1963,M,M - Male,A - Not Indic,Voluntary-Personal Reasons
-744,Terminated,02/05/2020,01/15/2020,09/02/1966,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-745,Terminated,01/31/2020,01/27/2020,04/16/1995,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-746,Terminated,01/31/2020,01/27/2020,10/10/1995,M,F - Female,A - Not Indic,Voluntary-No Call/No Show
-747,Terminated,02/03/2020,01/30/2020,09/21/1998,S,M - Male,A - Not Indic,Voluntary-No Call/No Show
-748,Terminated,02/04/2020,01/30/2020,11/01/1977,M,F - Female,A - Not Indic,Voluntary-No Call/No Show
-749,Terminated,02/28/2020,02/04/2020,05/04/2001,S,F - Female,A - Not Indic,Voluntary-Personal Reasons
-750,Terminated,03/16/2020,02/10/2020,02/22/2001,S,F - Female,A - Not Indic,Voluntary-Personal Reasons
-751,Terminated,02/18/2020,02/11/2020,07/15/1958,M,M - Male,A - Not Indic,Voluntary-No Call/No Show
-752,Terminated,02/18/2020,02/17/2020,02/11/1972,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-753,Terminated,02/24/2020,02/18/2020,08/05/1997,S,M - Male,A - Not Indic,Voluntary-No Call/No Show
-754,Terminated,03/02/2020,02/24/2020,02/16/1999,S,F - Female,A - Not Indic,Voluntary-Personal Reasons
-755,Terminated,03/06/2020,02/26/2020,05/06/1978,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-756,Terminated,03/09/2020,03/02/2020,06/03/1956,M,M - Male,A - Not Indic,Voluntary-No Call/No Show
-757,Terminated,03/11/2020,03/03/2020,11/11/1944,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-758,Terminated,03/18/2020,03/09/2020,01/02/1981,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-759,Terminated,03/13/2020,03/09/2020,08/25/1983,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-760,Terminated,01/11/2019,11/15/2018,08/10/1959,M,F - Female,A - Not Indic,Voluntary-No Call/No Show
-761,Terminated,06/12/2019,11/15/2018,07/03/1963,S,F - Female,A - Not Indic,Voluntary-Another Job
-762,Terminated,05/23/2019,11/15/2018,09/29/1977,M,F - Female,A - Not Indic,Voluntary-Another Job
-763,Terminated,07/12/2019,11/15/2018,07/19/1965,S,F - Female,A - Not Indic,Voluntary-Another Job
-764,Terminated,01/14/2019,11/15/2018,06/18/1968,M,F - Female,A - Not Indic,Voluntary-No Call/No Show
-765,Terminated,06/12/2019,11/15/2018,04/23/1976,S,F - Female,A - Not Indic,Voluntary-Another Job
-766,Terminated,01/07/2019,11/15/2018,10/25/1971,M,F - Female,A - Not Indic,Voluntary-Another Job
-767,Terminated,12/02/2019,11/15/2018,01/01/1955,M,M - Male,A - Not Indic,Voluntary-Personal Reasons
-768,Terminated,02/18/2019,11/15/2018,10/10/1955,M,M - Male,A - Not Indic,Voluntary-No Call/No Show
-769,Terminated,01/22/2019,12/06/2018,05/21/1995,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-770,Terminated,04/08/2020,01/21/2019,11/17/1991,M,F - Female,A - Not Indic,Voluntary-Personal Reasons
-771,Terminated,09/09/2019,02/27/2019,11/15/1958,S,F - Female,A - Not Indic,Voluntary-Health
-772,Terminated,09/23/2019,03/04/2019,01/22/1972,M,F - Female,A - Not Indic,Voluntary-No Call/No Show
-773,Terminated,09/11/2019,03/04/2019,08/30/1999,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-774,Terminated,08/02/2019,04/12/2019,01/27/1990,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-775,Terminated,07/29/2019,04/23/2019,08/16/1985,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-776,Terminated,08/28/2019,05/14/2019,07/29/1995,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-777,Terminated,02/24/2020,05/28/2019,01/07/2000,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-778,Terminated,06/19/2019,06/17/2019,05/25/1981,M,F - Female,A - Not Indic,Voluntary-No Call/No Show
-779,Terminated,01/31/2020,06/18/2019,04/25/1960,M,F - Female,A - Not Indic,Voluntary-Another Job
-780,Terminated,09/11/2019,06/25/2019,07/21/2000,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-781,Terminated,07/08/2019,07/02/2019,07/15/1993,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-782,Terminated,09/09/2019,07/17/2019,10/26/1989,S,F - Female,A - Not Indic,Voluntary-No Reason Given
-783,Terminated,12/27/2019,07/22/2019,06/19/2001,S,F - Female,A - Not Indic,Voluntary-Personal Reasons
-784,Terminated,07/30/2019,07/29/2019,10/05/1992,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-785,Terminated,08/26/2019,07/31/2019,06/11/2000,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-786,Terminated,08/21/2019,08/01/2019,07/09/1999,S,F - Female,A - Not Indic,Voluntary-Another Job
-787,Terminated,09/04/2019,08/12/2019,11/12/1987,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-788,Terminated,09/11/2019,08/13/2019,03/21/1979,M,F - Female,A - Not Indic,Voluntary-No Call/No Show
-789,Terminated,09/04/2019,08/30/2019,02/01/1969,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-790,Terminated,09/11/2019,09/06/2019,04/01/1993,S,F - Female,A - Not Indic,Voluntary-Health
-791,Terminated,12/26/2019,09/06/2019,10/22/1968,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-792,Terminated,09/13/2019,09/09/2019,12/13/1989,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-793,Terminated,04/20/2020,09/10/2019,05/17/1962,S,F - Female,A - Not Indic,Voluntary-Personal Reasons
-794,Terminated,09/24/2019,09/11/2019,01/30/1972,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-795,Terminated,09/16/2019,09/11/2019,09/16/1987,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-796,Terminated,09/17/2019,09/16/2019,03/14/2000,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-797,Terminated,09/17/2019,09/16/2019,03/28/1974,M,F - Female,A - Not Indic,Voluntary-No Call/No Show
-798,Terminated,09/21/2019,09/18/2019,12/11/1972,M,F - Female,A - Not Indic,Voluntary-Illness in Family
-799,Terminated,12/03/2019,09/24/2019,03/27/1970,S,F - Female,A - Not Indic,Voluntary-Personal Reasons
-800,Terminated,10/08/2019,10/07/2019,09/24/1968,M,F - Female,A - Not Indic,Voluntary-No Call/No Show
-801,Terminated,12/13/2019,10/16/2019,10/01/1972,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-802,Terminated,03/16/2020,10/30/2019,04/17/2001,S,M - Male,A - Not Indic,Voluntary-Personal Reasons
-803,Terminated,11/22/2019,11/11/2019,08/03/1995,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-804,Terminated,12/05/2019,11/11/2019,05/21/1972,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-805,Terminated,12/04/2019,11/14/2019,02/27/1979,S,M - Male,A - Not Indic,Voluntary-Another Job
-806,Terminated,11/21/2019,11/19/2019,08/31/1985,M,M - Male,A - Not Indic,Voluntary-No Call/No Show
-807,Terminated,12/05/2019,11/19/2019,11/08/1964,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-808,Terminated,12/10/2019,12/03/2019,09/23/1952,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-809,Terminated,01/10/2020,01/09/2020,08/19/1969,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-810,Terminated,01/22/2020,01/09/2020,08/19/2001,S,M - Male,A - Not Indic,Voluntary-No Call/No Show
-811,Terminated,01/27/2020,01/10/2020,02/28/1995,S,F - Female,A - Not Indic,Voluntary-Personal Reasons
-812,Terminated,01/15/2020,01/14/2020,09/08/1985,M,F - Female,A - Not Indic,Voluntary-No Call/No Show
-813,Terminated,02/03/2020,01/30/2020,07/26/1997,S,F - Female,A - Not Indic,Voluntary-Another Job
-814,Terminated,03/05/2020,02/19/2020,03/22/1995,S,F - Female,A - Not Indic,Voluntary-Personal Reasons
-815,Terminated,02/26/2020,02/24/2020,09/01/1972,S,F - Female,A - Not Indic,Voluntary-Another Job
-816,Terminated,03/09/2020,03/02/2020,01/29/1959,M,F - Female,A - Not Indic,Voluntary-No Call/No Show
-817,Terminated,01/11/2019,11/15/2018,12/05/1960,M,M - Male,A - Not Indic,Voluntary-Another Job
-818,Terminated,09/25/2019,01/31/2019,12/20/1964,M,M - Male,A - Not Indic,Voluntary-No Call/No Show
-819,Terminated,07/08/2019,12/20/2018,05/01/1975,S,M - Male,A - Not Indic,Voluntary-No Reason Given
-820,Terminated,02/13/2019,02/12/2019,08/12/1992,S,M - Male,A - Not Indic,Voluntary-Another Job
-821,Terminated,02/22/2019,02/18/2019,03/17/1955,S,M - Male,A - Not Indic,Voluntary-No Call/No Show
-822,Terminated,03/11/2019,03/07/2019,02/01/2000,S,M - Male,A - Not Indic,Voluntary-No Call/No Show
-823,Terminated,03/11/2019,03/07/2019,05/02/2000,S,M - Male,A - Not Indic,Voluntary-No Call/No Show
-824,Terminated,04/13/2019,03/25/2019,10/12/1960,M,M - Male,A - Not Indic,Voluntary-Another Job
-825,Terminated,05/16/2019,04/15/2019,12/10/1996,S,M - Male,A - Not Indic,Voluntary-No Call/No Show
-826,Terminated,03/20/2020,05/20/2019,10/29/1973,S,M - Male,A - Not Indic,Voluntary-No Call/No Show
-827,Terminated,07/08/2019,06/27/2019,12/17/1988,S,M - Male,A - Not Indic,Voluntary-No Call/No Show
-828,Terminated,01/20/2020,07/15/2019,08/10/1989,S,M - Male,A - Not Indic,Voluntary-Personal Reasons
-829,Terminated,11/20/2019,08/13/2019,03/10/1961,M,M - Male,A - Not Indic,Voluntary-No Call/No Show
-830,Terminated,02/10/2020,01/16/2020,11/08/1976,S,M - Male,A - Not Indic,Voluntary-No Call/No Show
-831,Terminated,04/16/2020,01/20/2020,12/28/1986,S,M - Male,A - Not Indic,Voluntary-No Call/No Show
-832,Terminated,02/28/2020,02/03/2020,09/24/1987,M,M - Male,A - Not Indic,Voluntary-Personal Reasons
-833,Terminated,06/10/2019,11/15/2018,06/15/1996,S,M - Male,A - Not Indic,Voluntary-Return To School
-834,Terminated,01/15/2020,03/05/2018,08/11/1969,S,M - Male,A - Not Indic,Voluntary-Personal Reasons
-835,Terminated,01/30/2019,12/17/2018,06/21/1988,M,N - Not Spec,A - Not Indic,Voluntary-Another Job
-836,Terminated,01/07/2019,11/16/2018,07/10/1998,S,M - Male,A - Not Indic,Voluntary-Return To School
-837,Terminated,01/23/2019,01/21/2019,08/03/1993,S,M - Male,A - Not Indic,Voluntary-Return To School
-838,Terminated,02/08/2019,01/31/2019,12/02/1988,S,M - Male,A - Not Indic,Voluntary-No Reason Given
-839,Terminated,02/11/2019,02/04/2019,12/18/1985,S,M - Male,A - Not Indic,Voluntary-No Call/No Show
-840,Terminated,02/21/2019,02/12/2019,03/15/2001,S,M - Male,A - Not Indic,Voluntary-Another Job
-841,Terminated,02/14/2020,08/16/2019,05/31/2001,S,M - Male,A - Not Indic,Voluntary-Another Job
-842,Terminated,04/12/2019,11/15/2018,07/23/1994,M,F - Female,A - Not Indic,Voluntary-Another Job
-843,Terminated,08/30/2019,09/29/2015,02/27/1990,M,F - Female,A - Not Indic,Voluntary-Another Job
-844,Terminated,04/22/2019,04/08/2019,12/28/1997,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-845,Terminated,02/20/2020,08/26/2019,12/06/1997,S,F - Female,A - Not Indic,Voluntary-Personal Reasons
-846,Terminated,05/17/2019,11/15/2018,03/30/1993,S,F - Female,A - Not Indic,Voluntary-Personal Reasons
-847,Terminated,08/21/2019,05/13/2019,09/21/1981,S,F - Female,A - Not Indic,Voluntary-No Call/No Show
-848,Terminated,02/28/2019,11/20/2013,10/14/1976,S,F - Female,A - Not Indic,Voluntary-Reloc/Move
+1,Terminated,4/25/2019,7/23/2018,11/14/1977,Single,Male,C - HS Grad,Voluntary-Another Job
+2,Terminated,2/19/2020,7/15/2019,1/4/1993,Single,Male,A - Not Indic,Voluntary-Personal Reasons
+3,Terminated,10/18/2019,5/16/1977,10/18/1957,Single,Female,D - Some Coll.,Retire-Normal
+4,Terminated,3/22/2019,5/8/2012,9/18/1966,Married,Female,C - HS Grad,Voluntary-Another Job
+5,Terminated,1/4/2019,8/27/1975,1/13/1952,Married,Female,C - HS Grad,Retire-Normal
+6,Terminated,12/27/2019,10/26/1976,5/27/1957,Married,Female,B - Less Th HS,Retire-Normal
+7,Terminated,6/3/2019,10/3/1977,10/23/1956,Married,Female,D - Some Coll.,Retire-Normal
+8,Terminated,10/1/2019,12/16/1996,2/14/1953,Single,Male,I - Master's,Voluntary-No Reason Given
+9,Terminated,1/25/2019,5/13/2018,10/23/1992,Single,Male,A - Not Indic,Voluntary-Reloc/Move
+10,Terminated,1/16/2020,7/30/2018,6/25/1963,Single,Female,C - HS Grad,Voluntary-No Reason Given
+11,Terminated,8/6/2019,10/10/1983,10/2/1950,Married,Female,C - HS Grad,Retire-Normal
+12,Terminated,5/3/2019,7/7/1975,6/18/1957,Single,Female,C - HS Grad,Retire-Normal
+13,Terminated,3/29/2019,9/22/1975,4/1/1949,Married,Female,C - HS Grad,Retire-Normal
+14,Terminated,5/13/2019,4/24/2017,12/22/1992,Single,Male,A - Not Indic,Voluntary-No Reason Given
+15,Terminated,6/4/2019,10/30/2017,6/16/1992,Single,Male,C - HS Grad,Voluntary-No Child Care
+16,Terminated,4/15/2019,1/2/2018,6/4/1986,Single,Male,A - Not Indic,Voluntary-Another Job
+17,Terminated,2/19/2019,9/17/2018,4/5/1993,Married,Male,A - Not Indic,Voluntary-No Reason Given
+18,Terminated,7/16/2019,10/22/2018,8/7/1985,Single,Male,D - Some Coll.,Voluntary-No Call/No Show
+19,Terminated,8/22/2019,7/6/1976,12/21/1956,Married,Male,A - Not Indic,Retire-Normal
+20,Terminated,2/15/2019,12/27/1990,12/19/1961,Married,Male,C - HS Grad,Retire-Normal
+21,Terminated,8/13/2019,10/14/2018,1/1/1996,Single,Male,F - 2-Yr Coll,Voluntary-Health
+22,Terminated,3/13/2019,6/4/2018,6/7/1973,Divorced,Male,C - HS Grad,Voluntary-Personal Reasons
+23,Terminated,7/25/2019,3/20/2017,8/4/1979,Single,Male,D - Some Coll.,Voluntary-No Reason Given
+24,Terminated,3/22/2019,7/10/2018,10/29/1982,Married,Male,C - HS Grad,Voluntary-Another Job
+26,Terminated,7/12/2019,8/27/2012,7/27/1985,Married,Male,A - Not Indic,Voluntary-Another Job
+27,Terminated,1/14/2020,9/3/2019,1/2/1986,Single,Male,D - Some Coll.,Voluntary-No Call/No Show
+28,Terminated,3/29/2019,8/29/1983,7/21/1955,Married,Male,A - Not Indic,Retire-Normal
+29,Terminated,3/19/2020,8/23/1993,10/8/1954,Single,Male,H - Some Grad,Retire-Normal
+30,Terminated,5/31/2019,10/4/1984,11/23/1955,Married,Male,C - HS Grad,Retire-Normal
+31,Terminated,12/16/2019,11/30/1987,10/2/1951,Single,Male,C - HS Grad,Retire-Normal
+32,Terminated,5/31/2019,12/13/2015,5/7/1952,Single,Male,C - HS Grad,Retire-Early
+33,Terminated,1/31/2020,3/25/1983,6/14/1960,Single,Male,C - HS Grad,Retire-Normal
+34,Terminated,1/4/2020,8/2/1983,11/16/1950,Married,Male,D - Some Coll.,Retire-Normal
+35,Terminated,5/17/2019,5/16/1977,4/16/1957,Married,Male,C - HS Grad,Retire-Normal
+36,Terminated,9/26/2019,9/11/2017,8/31/1998,Not Indicated,Male,A - Not Indic,Voluntary-Another Job
+37,Terminated,8/22/2019,5/20/2019,7/5/1998,Single,Female,C - HS Grad,Voluntary-Return To School
+38,Terminated,8/9/2019,5/20/2019,10/5/1996,Single,Male,C - HS Grad,Voluntary-Return To School
+39,Terminated,8/2/2019,2/10/1992,1/5/1951,Married,Male,G - Bachelor's,Retire-Normal
+40,Terminated,2/13/2019,7/23/2012,4/16/1971,Divorced,Female,A - Not Indic,Voluntary-Another Job
+41,Terminated,8/8/2019,6/21/2018,2/17/1999,Single,Female,C - HS Grad,Voluntary-Return To School
+42,Terminated,8/9/2019,5/20/2019,4/7/1998,Single,Male,C - HS Grad,Voluntary-Return To School
+43,Terminated,8/2/2019,5/20/2019,5/6/1998,Single,Female,C - HS Grad,Voluntary-Return To School
+44,Terminated,8/23/2019,6/3/2019,2/27/1998,Single,Female,G - Bachelor's,Voluntary-Return To School
+45,Terminated,9/13/2019,8/1/1988,8/27/1955,Single,Male,C - HS Grad,Retire-Normal
+46,Terminated,1/16/2020,11/17/1980,1/11/1962,Married,Female,A - Not Indic,Retire-Normal
+47,Terminated,2/1/2020,5/28/2019,7/1/1998,Single,Female,D - Some Coll.,Voluntary-Return To School
+48,Terminated,2/1/2020,5/20/2019,9/3/1997,Single,Female,D - Some Coll.,Voluntary-Return To School
+49,Terminated,10/22/2019,5/28/2019,3/21/1998,Single,Male,D - Some Coll.,Voluntary-Return To School
+50,Terminated,10/4/2019,12/10/2013,10/5/1975,Married,Male,F - 2-Yr Coll,Voluntary-Another Job
+51,Terminated,3/13/2019,3/14/1983,3/13/1957,Married,Female,D - Some Coll.,Retire-Normal
+52,Terminated,5/22/2019,5/29/2018,9/27/1996,Single,Male,D - Some Coll.,Voluntary-Return To School
+53,Terminated,5/9/2019,9/11/2000,8/22/1960,Married,Female,A - Not Indic,Retire-Early
+54,Terminated,12/18/2019,5/30/2017,3/30/1989,Single,Male,A - Not Indic,Voluntary-Health
+55,Terminated,4/9/2020,8/28/2017,2/24/1988,Married,Male,F - 2-Yr Coll,Voluntary-Another Job
+56,Terminated,8/30/2019,5/20/2019,8/18/1996,Single,Female,G - Bachelor's,Voluntary-Return To School
+57,Terminated,8/19/2019,5/20/2019,10/12/1998,Single,Female,D - Some Coll.,Voluntary-Return To School
+58,Terminated,8/28/2019,5/20/2019,3/10/1998,Single,Female,C - HS Grad,Voluntary-Return To School
+59,Terminated,12/18/2019,6/3/2019,7/24/1974,Divorced,Female,G - Bachelor's,Voluntary-Another Job
+60,Terminated,8/22/2019,8/12/2019,11/19/1996,Single,Female,G - Bachelor's,Voluntary-Another Job
+61,Terminated,8/23/2019,5/20/2019,5/26/1998,Single,Female,C - HS Grad,Voluntary-Return To School
+62,Terminated,7/12/2019,6/11/2018,5/5/1997,Single,Male,C - HS Grad,Voluntary-Another Job
+63,Terminated,10/16/2019,5/20/2019,3/11/1996,Single,Female,G - Bachelor's,Voluntary-Another Job
+64,Terminated,5/2/2019,8/10/2015,6/18/1968,Single,Male,G - Bachelor's,Voluntary-Another Job
+65,Terminated,6/4/2019,4/18/2016,11/21/1965,Single,Male,D - Some Coll.,Voluntary-Health
+66,Terminated,3/25/2020,9/26/2016,4/14/1953,Not Indicated,Female,A - Not Indic,Voluntary-Personal Reasons
+67,Terminated,10/16/2019,4/3/2017,6/14/1974,Single,Female,F - 2-Yr Coll,Voluntary-Personal Reasons
+68,Terminated,12/13/2019,6/4/2018,7/5/1984,Married,Female,F - 2-Yr Coll,Voluntary-Another Job
+69,Terminated,3/25/2020,7/15/2019,2/18/1976,Married,Female,D - Some Coll.,Voluntary-No Reason Given
+70,Terminated,3/21/2019,5/8/2013,2/3/1983,Married,Male,A - Not Indic,Voluntary-Another Job
+71,Terminated,2/15/2019,3/5/2018,10/6/1955,Married,Female,G - Bachelor's,Voluntary-Another Job
+72,Terminated,5/20/2019,3/28/2019,5/20/1999,Single,Male,F - 2-Yr Coll,Voluntary-No Reason Given
+73,Terminated,8/22/2019,5/20/2019,10/15/1998,Single,Female,C - HS Grad,Voluntary-Return To School
+74,Terminated,8/13/2019,7/22/2019,5/30/1997,Single,Female,C - HS Grad,Voluntary-Return To School
+75,Terminated,2/3/2020,2/3/2020,9/4/1985,Divorced,Female,C - HS Grad,Voluntary-Personal Reasons
+76,Terminated,3/31/2020,8/8/1990,10/8/1956,Married,Female,B - Less Th HS,Retire-Normal
+77,Terminated,8/16/2019,3/4/2019,9/27/1992,Single,Male,C - HS Grad,Voluntary-Return To School
+78,Terminated,1/3/2020,10/31/2016,4/14/1978,Single,Male,I - Master's,Voluntary-Another Job
+79,Terminated,1/6/2020,6/3/2019,1/13/1969,Married,Male,H - Some Grad,Voluntary-Dissatisfied with SW
+80,Terminated,1/17/2020,4/1/2019,5/1/1972,Married,Male,I - Master's,Voluntary-Personal Reasons
+81,Terminated,4/22/2019,10/27/2014,11/13/1964,Married,Male,G - Bachelor's,Voluntary-Another Job
+82,Terminated,10/25/2019,5/1/2017,3/4/1974,Single,Male,G - Bachelor's,Voluntary-Another Job
+83,Terminated,6/14/2019,11/20/2017,1/29/1978,Married,Female,H - Some Grad,Voluntary-Another Job
+84,Terminated,1/17/2020,9/10/2018,9/13/1995,Single,Male,G - Bachelor's,Voluntary-Another Job
+85,Terminated,7/8/2019,6/16/1969,2/12/1951,Single,Female,D - Some Coll.,Retire-Normal
+86,Terminated,5/10/2019,8/17/2015,1/24/1991,Married,Male,G - Bachelor's,Voluntary-Another Job
+87,Terminated,3/5/2020,8/18/2014,10/15/1989,Single,Male,G - Bachelor's,Voluntary-Another Job
+88,Terminated,1/17/2020,6/25/2012,10/23/1979,Married,Male,G - Bachelor's,Voluntary-Another Job
+89,Terminated,5/28/2019,2/26/2015,4/17/1962,Single,Male,I - Master's,Voluntary-Another Job
+90,Terminated,8/23/2019,11/7/2018,2/13/1983,Single,Male,G - Bachelor's,Voluntary-Another Job
+91,Terminated,3/5/2019,11/1/2002,7/11/1979,Married,Female,G - Bachelor's,Voluntary-Another Job
+92,Terminated,9/6/2019,5/18/2015,6/7/1993,Married,Female,D - Some Coll.,Voluntary-Return To School
+93,Terminated,1/18/2019,5/8/2017,12/27/1978,Single,Male,G - Bachelor's,Voluntary-Another Job
+94,Terminated,1/24/2020,12/4/1995,10/9/1970,Single,Male,G - Bachelor's,Voluntary-Personal Reasons
+95,Terminated,11/8/2019,8/31/2010,10/31/1981,Single,Male,G - Bachelor's,Voluntary-Another Job
+96,Terminated,9/6/2019,5/8/2017,7/18/1988,Single,Female,I - Master's,Voluntary-Another Job
+97,Terminated,3/15/2019,9/19/2011,12/30/1959,Single,Female,F - 2-Yr Coll,Voluntary-Another Job
+98,Terminated,3/15/2019,11/26/2018,3/24/1973,Married,Female,G - Bachelor's,Voluntary-Another Job
+99,Terminated,3/1/2019,3/21/2016,10/5/1984,Single,Male,G - Bachelor's,Voluntary-Another Job
+100,Terminated,4/3/2019,2/6/2017,11/27/1976,Single,Male,G - Bachelor's,Voluntary-Another Job
+101,Terminated,11/1/2019,4/18/2018,1/14/1972,Married,Male,I - Master's,Voluntary-Another Job
+102,Terminated,11/13/2019,12/10/2018,5/17/1990,Married,Male,G - Bachelor's,Voluntary-Another Job
+103,Terminated,2/27/2020,12/17/2007,1/7/1972,Single,Female,G - Bachelor's,Voluntary-Personal Reasons
+104,Terminated,1/31/2020,6/2/2014,5/12/1993,Single,Male,G - Bachelor's,Voluntary-Another Job
+105,Terminated,2/8/2019,7/20/2015,1/15/1984,Single,Female,G - Bachelor's,Voluntary-Another Job
+106,Terminated,3/13/2020,5/23/2016,10/28/1993,Single,Female,D - Some Coll.,Voluntary-Another Job
+107,Terminated,5/9/2019,3/31/2017,1/12/1996,Single,Female,G - Bachelor's,Voluntary-Reloc/Move
+108,Terminated,8/16/2019,1/15/2018,2/13/1988,Single,Female,G - Bachelor's,Voluntary-Another Job
+109,Terminated,2/19/2020,5/21/2018,9/10/1983,Married,Female,G - Bachelor's,Voluntary-Another Job
+110,Terminated,10/30/2019,10/28/2019,5/16/1994,Single,Male,G - Bachelor's,Voluntary-Another Job
+111,Terminated,2/8/2019,8/18/2014,4/8/1985,Married,Male,G - Bachelor's,Voluntary-Another Job
+112,Terminated,12/27/2019,11/10/1984,5/28/1961,Married,Female,A - Not Indic,Retire-Normal
+113,Terminated,1/18/2019,12/12/2016,11/2/1984,Married,Female,G - Bachelor's,Voluntary-Another Job
+114,Terminated,4/10/2020,10/11/2010,12/31/1976,Married,Female,A - Not Indic,Voluntary-Another Job
+115,Terminated,2/14/2020,7/13/2015,1/22/1984,Married,Female,G - Bachelor's,Voluntary-Another Job
+116,Terminated,8/23/2019,2/27/2017,5/21/1987,Single,Male,C - HS Grad,Voluntary-Reloc/Move
+117,Terminated,1/29/2020,8/20/2018,9/23/1958,Married,Male,G - Bachelor's,Retire-Early
+118,Terminated,11/1/2019,8/20/2018,3/31/1990,Single,Female,H - Some Grad,Voluntary-Another Job
+119,Terminated,2/1/2019,7/7/2008,5/30/1965,Single,Female,G - Bachelor's,Voluntary-Another Job
+120,Terminated,1/18/2019,3/1/1998,1/7/1969,Divorced,Male,G - Bachelor's,Voluntary-Another Job
+121,Terminated,7/9/2019,4/5/2011,9/15/1979,Married,Female,G - Bachelor's,Voluntary-Another Job
+122,Terminated,4/26/2019,12/12/2016,6/1/1963,Single,Female,I - Master's,Voluntary-Another Job
+123,Terminated,3/1/2019,8/19/1991,8/18/1959,Married,Male,G - Bachelor's,Retire-Early
+124,Terminated,6/7/2019,10/30/2015,2/7/1962,Married,Male,A - Not Indic,Voluntary-Another Job
+125,Terminated,5/15/2019,1/6/2014,10/10/1971,Married,Male,G - Bachelor's,Voluntary-Personal Reasons
+126,Terminated,6/21/2019,8/22/2016,2/21/1987,Single,Female,G - Bachelor's,Voluntary-Reloc/Move
+127,Terminated,3/20/2020,1/28/2019,3/28/1992,Single,Male,H - Some Grad,Voluntary-Another Job
+128,Terminated,9/3/2019,12/1/1997,3/7/1963,Single,Male,G - Bachelor's,Retire-Normal
+129,Terminated,3/4/2020,10/27/2014,7/24/1985,Single,Male,I - Master's,Voluntary-Another Job
+130,Terminated,2/8/2019,9/21/2015,2/24/1983,Divorced,Female,I - Master's,Voluntary-Personal Reasons
+131,Terminated,11/22/2019,1/18/2016,12/18/1983,Single,Male,I - Master's,Voluntary-Another Job
+132,Terminated,1/4/2019,10/31/2016,12/24/1946,Single,Male,D - Some Coll.,Voluntary-Another Job
+133,Terminated,10/4/2019,4/10/2017,1/30/1987,Single,Male,C - HS Grad,Voluntary-Another Job
+134,Terminated,3/15/2019,7/24/2017,1/24/1974,Divorced,Male,F - 2-Yr Coll,Voluntary-Another Job
+135,Terminated,4/9/2020,8/11/2008,7/19/1968,Married,Female,I - Master's,Voluntary-No Reason Given
+136,Terminated,4/18/2019,11/15/1999,2/16/1959,Married,Female,C - HS Grad,Retire-Normal
+137,Terminated,10/17/2019,7/29/2013,7/12/1969,Single,Male,G - Bachelor's,Voluntary-Another Job
+138,Terminated,6/6/2019,1/21/2019,8/17/1978,Married,Male,G - Bachelor's,Voluntary-Another Job
+139,Terminated,12/13/2019,3/17/2014,4/5/1971,Married,Male,G - Bachelor's,Voluntary-Another Job
+140,Terminated,8/16/2019,1/16/2017,10/13/1989,Single,Male,G - Bachelor's,Voluntary-Another Job
+141,Terminated,9/12/2019,11/19/2007,11/24/1956,Married,Female,G - Bachelor's,Retire-Normal
+142,Terminated,8/9/2019,5/12/2008,8/17/1963,Single,Female,A - Not Indic,Voluntary-Personal Reasons
+143,Terminated,4/5/2019,2/14/2000,6/3/1961,Married,Female,A - Not Indic,Voluntary-Reloc/Move
+144,Terminated,3/30/2019,10/21/2013,1/12/1956,Married,Female,H - Some Grad,Voluntary-Health
+145,Terminated,2/22/2019,7/11/2018,5/24/1983,Married,Male,G - Bachelor's,Voluntary-Another Job
+146,Terminated,1/15/2020,7/8/2019,1/23/1990,Married,Male,G - Bachelor's,Voluntary-Another Job
+147,Terminated,4/5/2019,7/31/2018,12/20/1976,Married,Male,G - Bachelor's,Voluntary-Another Job
+148,Terminated,3/29/2019,6/2/2014,5/4/1987,Single,Male,F - 2-Yr Coll,Voluntary-Another Job
+149,Terminated,1/29/2019,6/5/2017,8/30/1960,Married,Female,D - Some Coll.,Voluntary-Health
+150,Terminated,1/10/2020,7/14/2008,7/14/1977,Married,Female,A - Not Indic,Voluntary-No Reason Given
+151,Terminated,9/6/2019,6/28/2004,8/16/1969,Married,Male,G - Bachelor's,Voluntary-No Reason Given
+152,Terminated,2/29/2020,4/12/1999,12/10/1954,Married,Female,G - Bachelor's,Retire-Normal
+153,Terminated,3/27/2020,11/8/1999,6/4/1954,Married,Male,A - Not Indic,Retire-Normal
+154,Terminated,12/13/2019,7/8/2013,4/28/1963,Single,Male,C - HS Grad,Voluntary-Dissatisfied with SW
+155,Terminated,10/11/2019,8/5/2013,12/17/1970,Single,Male,H - Some Grad,Voluntary-Health
+156,Terminated,8/23/2019,2/18/2019,12/22/1972,Divorced,Female,G - Bachelor's,Voluntary-Dissatisfied with SW
+157,Terminated,7/31/2019,4/20/1998,6/30/1954,Married,Female,C - HS Grad,Retire-Normal
+158,Terminated,7/26/2019,6/12/2000,1/30/1951,Married,Male,A - Not Indic,Retire-Normal
+159,Terminated,2/28/2020,12/17/2018,4/19/1963,Divorced,Female,D - Some Coll.,Voluntary-Another Job
+160,Terminated,1/3/2020,10/23/2006,6/19/1962,Single,Male,A - Not Indic,Voluntary-No Reason Given
+161,Terminated,7/26/2019,1/12/2015,7/12/1960,Single,Male,G - Bachelor's,Voluntary-Dissatisfied with SW
+162,Terminated,3/29/2019,8/27/2018,7/18/1972,Married,Male,C - HS Grad,Voluntary-Another Job
+163,Terminated,5/31/2019,1/10/2011,7/29/1988,Married,Female,A - Not Indic,Voluntary-Illness in Family
+164,Terminated,2/15/2019,11/27/2017,6/7/1985,Married,Female,G - Bachelor's,Voluntary-Reloc/Move
+165,Terminated,4/24/2020,8/5/2019,12/25/1994,Divorced,Female,C - HS Grad,Voluntary-Personal Reasons
+166,Terminated,2/7/2019,3/15/2010,4/17/1964,Single,Male,A - Not Indic,Voluntary-Another Job
+167,Terminated,1/3/2019,11/9/1999,8/5/1956,Married,Female,D - Some Coll.,Voluntary-Personal Reasons
+168,Terminated,6/21/2019,11/17/2013,7/28/1962,Married,Male,D - Some Coll.,Voluntary-Another Job
+169,Terminated,8/6/2019,3/15/2018,1/4/1960,Single,Male,A - Not Indic,Voluntary-Another Job
+170,Terminated,4/23/2019,3/19/2018,12/25/1959,Married,Male,A - Not Indic,Voluntary-Another Job
+171,Terminated,1/14/2020,6/18/2019,11/22/1974,Single,Female,A - Not Indic,Voluntary-Dissatisfied w/Hrs
+172,Terminated,2/5/2019,8/25/2003,8/11/1952,Married,Female,A - Not Indic,Voluntary-Health
+173,Terminated,12/27/2019,4/24/2009,1/12/1948,Single,Female,A - Not Indic,Retire-Normal
+174,Terminated,8/23/2019,2/15/2011,7/12/1975,Single,Female,A - Not Indic,Voluntary-Another Job
+175,Terminated,12/13/2019,2/17/2004,12/17/1954,Single,Female,A - Not Indic,Retire-Normal
+176,Terminated,12/13/2019,11/10/2007,12/4/1957,Single,Female,A - Not Indic,Retire-Normal
+177,Terminated,7/26/2019,9/2/2003,8/1/1949,Single,Female,A - Not Indic,Retire-Normal
+178,Terminated,4/9/2019,10/23/2017,7/28/1960,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+179,Terminated,2/5/2019,1/17/2018,10/3/1977,Married,Female,A - Not Indic,Voluntary-No Call/No Show
+180,Terminated,12/20/2019,5/22/2018,7/21/1979,Married,Female,A - Not Indic,Voluntary-No Call/No Show
+181,Terminated,12/20/2019,8/17/2018,12/18/1975,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+182,Terminated,2/14/2020,10/5/2018,10/12/1963,Married,Female,A - Not Indic,Voluntary-No Call/No Show
+183,Terminated,4/30/2019,10/5/2017,4/7/1960,Married,Female,A - Not Indic,Voluntary-Another Job
+184,Terminated,4/20/2020,8/22/2005,12/5/1952,Single,Female,A - Not Indic,Voluntary-Dissatisfied with SW
+185,Terminated,7/19/2019,2/18/2013,3/17/1967,Not Indicated,Female,A - Not Indic,Voluntary-Health
+186,Terminated,8/26/2019,6/7/2013,5/19/1964,Not Indicated,Female,A - Not Indic,Voluntary-No Call/No Show
+187,Terminated,6/12/2019,6/28/2013,1/5/1966,Not Indicated,Female,A - Not Indic,Voluntary-No Reason Given
+188,Terminated,2/13/2019,7/15/2013,9/1/1956,Not Indicated,Male,A - Not Indic,Voluntary-Personal Reasons
+189,Terminated,11/1/2019,8/1/2013,2/3/1959,Not Indicated,Male,A - Not Indic,Voluntary-No Call/No Show
+190,Terminated,9/25/2019,3/18/2014,10/15/1971,Married,Female,A - Not Indic,Voluntary-Dissatisfied with SW
+191,Terminated,3/11/2020,5/1/2014,7/7/1973,Married,Female,A - Not Indic,Voluntary-Dissatisfied with SW
+192,Terminated,8/20/2019,7/14/2015,10/14/1972,Single,Female,A - Not Indic,Voluntary-Another Job
+193,Terminated,10/11/2019,3/23/2016,5/27/1967,Married,Female,A - Not Indic,Voluntary-Illness in Family
+194,Terminated,2/14/2019,11/14/2016,4/27/1978,Single,Female,A - Not Indic,Voluntary-Reloc/Move
+195,Terminated,3/8/2019,10/9/2017,2/25/1965,Single,Female,A - Not Indic,Voluntary-No Reason Given
+196,Terminated,11/1/2019,2/26/2019,6/17/1967,Single,Female,A - Not Indic,Voluntary-Another Job
+197,Terminated,12/27/2019,4/3/2019,10/11/1968,Single,Female,A - Not Indic,Voluntary-Health
+198,Terminated,4/26/2019,8/10/2003,12/11/1931,Single,Female,A - Not Indic,Retire-Normal
+199,Terminated,8/30/2019,11/7/2016,3/9/1954,Married,Male,A - Not Indic,Retire-Normal
+200,Terminated,11/29/2019,9/8/2016,3/29/1953,Single,Male,A - Not Indic,Retire-Normal
+201,Terminated,3/19/2019,5/4/2017,6/22/1966,Single,Male,A - Not Indic,Voluntary-No Call/No Show
+202,Terminated,1/16/2020,3/19/2019,10/29/1995,Single,Male,A - Not Indic,Voluntary-Another Job
+203,Terminated,5/31/2019,3/29/2017,6/13/1995,Single,Male,A - Not Indic,Voluntary-Another Job
+204,Terminated,3/22/2019,10/23/2017,10/3/1968,Married,Male,A - Not Indic,Voluntary-Another Job
+205,Terminated,10/11/2019,7/11/2018,3/9/1975,Single,Female,A - Not Indic,Voluntary-Another Job
+206,Terminated,7/31/2019,10/1/2018,12/21/1984,Not Indicated,Male,A - Not Indic,Voluntary-No Reason Given
+207,Terminated,9/23/2019,9/18/2019,2/22/1982,Not Indicated,Male,A - Not Indic,Voluntary-No Reason Given
+208,Terminated,1/2/2020,4/24/2017,3/11/1979,Single,Female,G - Bachelor's,Voluntary-Another Job
+209,Terminated,2/28/2020,9/16/2019,9/11/1993,Married,Male,G - Bachelor's,Voluntary-Another Job
+210,Terminated,5/3/2019,4/3/2015,10/11/1972,Single,Female,A - Not Indic,Voluntary-Dissatisfied with SW
+211,Terminated,10/30/2019,7/20/2017,1/7/1986,Married,Male,A - Not Indic,Voluntary-Dissatisfied with SW
+212,Terminated,2/4/2019,4/2/2007,8/6/1976,Divorced,Female,A - Not Indic,Voluntary-Personal Reasons
+213,Terminated,1/23/2020,11/7/2003,1/23/1953,Single,Female,A - Not Indic,Retire-Normal
+214,Terminated,9/5/2019,7/25/2011,4/25/1992,Single,Male,C - HS Grad,Voluntary-No Call/No Show
+215,Terminated,2/19/2020,6/15/2015,5/10/1978,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+216,Terminated,1/8/2019,8/22/2017,7/12/1989,Single,Male,A - Not Indic,Voluntary-Dissatisfied with SW
+217,Terminated,2/17/2019,1/22/2018,3/11/1973,Married,Female,A - Not Indic,Voluntary-Dissatisfied with SW
+218,Terminated,7/17/2019,3/5/2018,5/14/1999,Single,Male,A - Not Indic,Voluntary-No Call/No Show
+219,Terminated,8/13/2019,6/21/2018,10/20/1998,Single,Female,A - Not Indic,Voluntary-No Reason Given
+220,Terminated,3/20/2020,10/3/2011,7/8/1993,Single,Male,A - Not Indic,Voluntary-Another Job
+221,Terminated,8/3/2019,5/9/2011,5/3/1962,Single,Male,A - Not Indic,Voluntary-Another Job
+222,Terminated,7/19/2019,6/16/2004,1/22/1977,Single,Female,A - Not Indic,Voluntary-Personal Reasons
+223,Terminated,2/27/2020,2/7/2005,9/16/1956,Single,Female,A - Not Indic,Voluntary-Health
+224,Terminated,6/19/2019,11/7/2011,2/14/1957,Single,Male,A - Not Indic,Voluntary-Health
+225,Terminated,5/1/2019,8/18/2014,11/23/1972,Married,Female,A - Not Indic,Voluntary-Another Job
+226,Terminated,2/13/2019,5/18/2015,8/26/1994,Single,Female,A - Not Indic,Voluntary-Another Job
+227,Terminated,9/12/2019,7/20/2016,5/14/1988,Single,Male,A - Not Indic,Voluntary-Dissatisfied with SW
+228,Terminated,6/12/2019,8/3/2017,4/15/1993,Single,Male,A - Not Indic,Voluntary-Dissatisfied with SW
+229,Terminated,10/25/2019,9/11/2017,8/31/1988,Single,Male,A - Not Indic,Voluntary-Reloc/Move
+230,Terminated,10/25/2019,9/11/2017,4/12/1989,Single,Male,A - Not Indic,Voluntary-Reloc/Move
+231,Terminated,9/3/2019,4/9/2018,11/10/1964,Married,Male,A - Not Indic,Voluntary-Personal Reasons
+232,Terminated,10/24/2019,5/24/2018,2/6/1997,Single,Male,A - Not Indic,Voluntary-Reloc/Move
+233,Terminated,12/10/2019,6/5/2018,6/29/1988,Married,Female,A - Not Indic,Voluntary-No Call/No Show
+234,Terminated,11/19/2019,8/23/2018,5/10/1994,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+235,Terminated,5/6/2019,9/20/2018,4/5/1998,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+236,Terminated,8/3/2019,12/12/2018,11/13/1965,Married,Male,A - Not Indic,Voluntary-Dissatisfied with SW
+237,Terminated,7/2/2019,9/15/2014,5/17/1991,Divorced,Female,A - Not Indic,Voluntary-Dissatisfied with SW
+238,Terminated,1/31/2020,4/15/2015,1/26/1996,Single,Female,A - Not Indic,Voluntary-Another Job
+239,Terminated,3/22/2019,8/9/2016,8/25/1994,Not Indicated,Female,A - Not Indic,Voluntary-No Child Care
+240,Terminated,9/13/2019,5/8/2017,11/27/1971,Single,Female,A - Not Indic,Voluntary-Dissatisfied with SW
+241,Terminated,8/22/2019,6/19/2017,3/15/1975,Married,Female,A - Not Indic,Voluntary-Reloc/Move
+242,Terminated,12/9/2019,8/2/2017,2/3/1996,Married,Female,A - Not Indic,Voluntary-Reloc/Move
+243,Terminated,4/2/2019,11/20/2017,7/20/1966,Married,Male,A - Not Indic,Voluntary-Dissatisfied with SW
+244,Terminated,5/24/2019,2/20/2018,7/9/1989,Married,Female,A - Not Indic,Voluntary-Personal Reasons
+245,Terminated,1/18/2019,3/7/2018,3/20/1997,Single,Male,A - Not Indic,Voluntary-Personal Reasons
+246,Terminated,8/2/2019,4/5/2018,1/13/1969,Married,Male,A - Not Indic,Voluntary-Personal Reasons
+247,Terminated,2/12/2020,7/3/2018,3/31/1990,Divorced,Female,A - Not Indic,Voluntary-Reloc/Move
+248,Terminated,4/2/2019,7/17/2018,8/23/1969,Married,Female,A - Not Indic,Voluntary-Dissatisfied with SW
+249,Terminated,12/23/2019,7/20/2018,11/30/1999,Single,Male,A - Not Indic,Voluntary-No Reason Given
+250,Terminated,2/8/2019,8/6/2018,4/26/1994,Single,Male,A - Not Indic,Voluntary-Dissatisfied with SW
+251,Terminated,5/7/2019,9/4/2018,5/6/1984,Single,Female,A - Not Indic,Voluntary-Reloc/Move
+252,Terminated,1/30/2020,12/12/2018,11/26/1978,Married,Female,A - Not Indic,Voluntary-Reloc/Move
+253,Terminated,12/6/2019,10/14/1997,3/10/1954,Single,Female,A - Not Indic,Voluntary-Another Job
+254,Terminated,5/10/2019,10/7/2014,8/18/1977,Married,Female,A - Not Indic,Voluntary-Illness in Family
+255,Terminated,8/14/2019,10/27/2014,6/4/1977,Married,Female,A - Not Indic,Voluntary-Dissatisfied with SW
+256,Terminated,3/8/2019,6/21/2015,7/8/1968,Single,Male,A - Not Indic,Voluntary-Dissatisfied with SW
+257,Terminated,7/7/2019,7/31/2017,8/28/1974,Married,Female,A - Not Indic,Voluntary-No Call/No Show
+258,Terminated,10/18/2019,8/28/2017,12/21/1984,Single,Female,A - Not Indic,Voluntary-Another Job
+259,Terminated,5/8/2019,5/16/2016,3/19/1982,Not Indicated,Male,A - Not Indic,Voluntary-Another Job
+260,Terminated,5/7/2019,3/16/2018,5/19/1996,Single,Male,A - Not Indic,Voluntary-No Call/No Show
+261,Terminated,5/17/2019,6/22/2015,2/21/1994,Single,Male,A - Not Indic,Voluntary-Another Job
+263,Terminated,2/27/2020,10/7/2019,6/25/1992,Single,Male,A - Not Indic,Voluntary-No Call/No Show
+264,Terminated,1/18/2019,9/10/2012,12/10/1972,Single,Male,A - Not Indic,Voluntary-Another Job
+265,Terminated,12/4/2019,5/1/2019,4/27/1983,Married,Female,I - Master's,Voluntary-Another Job
+266,Terminated,11/1/2019,11/1/2011,8/21/1958,Married,Female,A - Not Indic,Voluntary-Another Job
+267,Terminated,9/27/2019,7/28/2001,7/2/1980,Single,Female,A - Not Indic,Voluntary-No Reason Given
+268,Terminated,1/24/2020,4/10/2006,10/24/1967,Single,Male,A - Not Indic,Retire-Early
+269,Terminated,6/14/2019,2/27/2017,4/20/1995,Single,Female,A - Not Indic,Voluntary-Dissatisfied with SW
+270,Terminated,2/8/2019,10/9/2017,4/15/1992,Single,Female,F - 2-Yr Coll,Voluntary-Another Job
+271,Terminated,5/31/2019,3/12/2018,4/14/1982,Single,Female,A - Not Indic,Voluntary-Another Job
+272,Terminated,8/16/2019,7/11/2018,10/14/1991,Single,Male,A - Not Indic,Voluntary-No Call/No Show
+273,Terminated,3/20/2020,1/28/2008,8/15/1984,Single,Female,G - Bachelor's,Voluntary-Reloc/Move
+274,Terminated,1/11/2019,4/17/2017,2/18/1989,Single,Male,A - Not Indic,Voluntary-Another Job
+275,Terminated,1/17/2020,5/19/2000,11/15/1958,Married,Male,A - Not Indic,Voluntary-Another Job
+276,Terminated,11/1/2019,6/8/2015,1/9/1993,Single,Male,A - Not Indic,Voluntary-Another Job
+277,Terminated,2/28/2020,12/5/2016,4/9/1991,Single,Male,A - Not Indic,Voluntary-Another Job
+278,Terminated,1/24/2020,5/20/2019,9/5/1981,Single,Male,I - Master's,Voluntary-Another Job
+279,Terminated,12/26/2019,10/20/2014,10/3/1989,Single,Male,A - Not Indic,Voluntary-Another Job
+280,Terminated,7/12/2019,8/22/2016,4/11/1991,Married,Male,A - Not Indic,Voluntary-Another Job
+281,Terminated,12/6/2019,10/3/2016,10/15/1974,Single,Male,A - Not Indic,Voluntary-Another Job
+282,Terminated,8/9/2019,8/6/2018,1/6/1966,Married,Male,G - Bachelor's,Voluntary-Another Job
+283,Terminated,1/3/2020,11/3/2014,5/29/1970,Married,Male,A - Not Indic,Voluntary-Another Job
+284,Terminated,4/2/2019,9/6/2005,9/13/1947,Married,Male,A - Not Indic,Voluntary-Personal Reasons
+285,Terminated,2/22/2019,9/28/2015,9/19/1959,Married,Female,A - Not Indic,Voluntary-Personal Reasons
+286,Terminated,1/17/2020,5/30/2017,8/8/1958,Single,Female,A - Not Indic,Voluntary-Another Job
+287,Terminated,1/2/2020,12/20/1993,6/12/1948,Married,Male,A - Not Indic,Retire-Normal
+288,Terminated,2/14/2020,8/20/2018,7/4/1981,Single,Male,G - Bachelor's,Voluntary-Reloc/Move
+289,Terminated,12/26/2019,4/25/2011,9/15/1974,Single,Female,A - Not Indic,Voluntary-Another Job
+290,Terminated,6/5/2019,7/21/2014,1/7/1987,Single,Female,A - Not Indic,Voluntary-Another Job
+291,Terminated,5/31/2019,2/15/1961,2/5/1934,Married,Male,A - Not Indic,Retire-Normal
+292,Terminated,3/6/2019,7/8/2009,3/15/1993,Single,Male,A - Not Indic,Voluntary-Another Job
+293,Terminated,5/3/2019,5/1/2006,8/12/1979,Single,Male,A - Not Indic,Voluntary-Another Job
+294,Terminated,10/11/2019,9/26/2011,9/10/1985,Married,Male,A - Not Indic,Voluntary-Personal Reasons
+295,Terminated,7/3/2019,4/7/2014,10/4/1985,Single,Male,A - Not Indic,Voluntary-Another Job
+296,Terminated,3/8/2019,6/1/2015,8/5/1980,Married,Male,A - Not Indic,Voluntary-Another Job
+297,Terminated,2/1/2019,5/16/2016,11/27/1995,Single,Female,A - Not Indic,Voluntary-Another Job
+298,Terminated,1/25/2019,11/21/2016,11/25/1976,Single,Female,C - HS Grad,Voluntary-Another Job
+299,Terminated,9/13/2019,4/10/2017,8/25/1984,Single,Female,C - HS Grad,Voluntary-Reloc/Move
+300,Terminated,2/1/2019,7/24/2017,9/12/1988,Single,Male,G - Bachelor's,Voluntary-No Call/No Show
+301,Terminated,5/10/2019,4/12/2018,1/27/1994,Single,Female,G - Bachelor's,Voluntary-Another Job
+302,Terminated,6/6/2019,4/23/2018,1/3/1991,Single,Female,I - Master's,Voluntary-Personal Reasons
+303,Terminated,5/10/2019,5/14/2018,11/28/1987,Married,Male,F - 2-Yr Coll,Voluntary-Personal Reasons
+304,Terminated,7/12/2019,5/29/2018,2/7/1985,Single,Female,D - Some Coll.,Voluntary-Another Job
+305,Terminated,5/31/2019,11/1/2010,4/1/1979,Single,Female,A - Not Indic,Voluntary-Return To School
+306,Terminated,10/22/2019,8/8/2017,9/8/1987,Single,Male,A - Not Indic,Voluntary-No Call/No Show
+307,Terminated,5/17/2019,11/28/2016,4/7/1979,Single,Female,A - Not Indic,Voluntary-Personal Reasons
+308,Terminated,3/7/2019,9/10/2018,10/31/1986,Single,Female,G - Bachelor's,Voluntary-Another Job
+309,Terminated,1/24/2020,8/27/2018,10/16/1971,Married,Male,I - Master's,Voluntary-Another Job
+310,Terminated,6/10/2019,6/3/2019,11/23/1958,Married,Male,C - HS Grad,Voluntary-Personal Reasons
+311,Terminated,8/9/2019,12/19/2005,7/13/1973,Married,Female,A - Not Indic,Voluntary-Health
+312,Terminated,1/3/2020,7/1/2019,8/1/1961,Divorced,Male,I - Master's,Voluntary-Dissatisfied with SW
+313,Terminated,1/3/2020,1/12/2015,1/19/1987,Single,Female,A - Not Indic,Voluntary-Another Job
+314,Terminated,10/25/2019,5/20/2019,7/31/1997,Single,Male,G - Bachelor's,Voluntary-Another Job
+315,Terminated,3/27/2019,8/25/2004,4/27/1946,Married,Male,A - Not Indic,Voluntary-Health
+316,Terminated,4/18/2019,2/23/2004,10/1/1970,Single,Male,A - Not Indic,Voluntary-Reloc/Move
+317,Terminated,7/1/2019,9/14/2009,7/4/1965,Not Indicated,Male,A - Not Indic,Voluntary-Health
+318,Terminated,6/7/2019,2/25/2013,10/2/1952,Married,Male,A - Not Indic,Voluntary-Health
+319,Terminated,9/4/2019,8/26/2013,8/31/1955,Married,Male,A - Not Indic,Voluntary-Health
+320,Terminated,1/14/2019,6/15/2015,12/8/1980,Married,Male,A - Not Indic,Voluntary-Dissatisfied with SW
+321,Terminated,1/31/2019,1/4/2017,12/10/1990,Single,Female,A - Not Indic,Voluntary-Dissatisfied with SW
+322,Terminated,12/11/2019,1/15/2019,11/30/1968,Single,Male,C - HS Grad,Voluntary-Another Job
+323,Terminated,12/2/2019,6/12/2019,7/10/1975,Married,Male,G - Bachelor's,Voluntary-Another Job
+324,Terminated,1/6/2020,10/2/2019,10/15/1971,Single,Male,G - Bachelor's,Voluntary-No Reason Given
+325,Terminated,2/15/2019,3/14/2016,6/1/1993,Single,Female,A - Not Indic,Voluntary-Personal Reasons
+326,Terminated,8/7/2019,1/4/2017,5/15/1990,Married,Male,A - Not Indic,Voluntary-Health
+327,Terminated,11/18/2019,8/12/2019,12/11/1985,Single,Female,C - HS Grad,Voluntary-Dissatisfied with SW
+328,Terminated,2/28/2019,8/1/2007,4/17/1977,Not Indicated,Female,A - Not Indic,Voluntary-Another Job
+329,Terminated,6/28/2019,2/18/2013,4/4/1963,Married,Female,A - Not Indic,Voluntary-Another Job
+330,Terminated,1/17/2020,8/5/2019,12/14/1981,Married,Male,A - Not Indic,Voluntary-Another Job
+331,Terminated,4/24/2020,2/24/2020,3/1/1976,Single,Male,A - Not Indic,Voluntary-Another Job
+332,Terminated,3/1/2019,1/4/2011,10/10/1954,Not Indicated,Female,A - Not Indic,Voluntary-Health
+333,Terminated,11/15/2019,10/9/2018,10/29/1982,Married,Female,G - Bachelor's,Voluntary-No Reason Given
+334,Terminated,4/12/2019,1/5/2004,3/3/1982,Single,Male,A - Not Indic,Voluntary-Another Job
+335,Terminated,5/29/2019,3/23/2015,2/20/1988,Single,Male,A - Not Indic,Voluntary-Another Job
+336,Terminated,4/2/2020,6/27/1998,12/8/1953,Single,Female,A - Not Indic,Voluntary-Health
+337,Terminated,6/7/2019,9/26/2016,5/8/1989,Married,Male,A - Not Indic,Voluntary-Another Job
+338,Terminated,12/30/2019,6/27/1998,5/15/1947,Single,Female,A - Not Indic,Retire-Normal
+339,Terminated,7/15/2019,12/14/2015,4/27/1974,Single,Male,A - Not Indic,Voluntary-Another Job
+340,Terminated,7/16/2019,3/23/2018,4/2/1982,Single,Female,A - Not Indic,Voluntary-Another Job
+341,Terminated,5/16/2019,3/14/2016,3/6/1985,Single,Female,A - Not Indic,Voluntary-No Child Care
+342,Terminated,3/23/2020,3/13/2019,6/11/1973,Single,Female,A - Not Indic,Voluntary-Dissatisfied with SW
+343,Terminated,2/22/2019,3/3/2015,3/20/1987,Single,Male,A - Not Indic,Voluntary-Dissatisfied with SW
+344,Terminated,2/28/2020,1/28/2019,9/18/1991,Married,Male,G - Bachelor's,Voluntary-Reloc/Move
+345,Terminated,12/3/2019,1/2/2001,10/16/1968,Single,Male,A - Not Indic,Voluntary-Another Job
+346,Terminated,10/4/2019,1/24/2013,10/9/1987,Single,Male,F - 2-Yr Coll,Voluntary-Another Job
+347,Terminated,4/23/2020,7/8/2014,7/20/1974,Single,Male,C - HS Grad,Voluntary-Health
+348,Terminated,5/6/2019,8/31/2015,8/27/1988,Not Indicated,Male,A - Not Indic,Voluntary-No Call/No Show
+349,Terminated,12/13/2019,10/26/2015,7/8/1991,Not Indicated,Female,A - Not Indic,Voluntary-Another Job
+350,Terminated,8/8/2019,11/16/2015,3/21/1989,Not Indicated,Male,A - Not Indic,Voluntary-Another Job
+351,Terminated,9/27/2019,7/11/2016,1/14/1973,Not Indicated,Male,A - Not Indic,Voluntary-Another Job
+352,Terminated,6/13/2019,9/17/2017,4/28/1965,Married,Male,A - Not Indic,Retire-Early
+353,Terminated,2/27/2020,7/16/2018,6/18/1990,Single,Female,A - Not Indic,Voluntary-Another Job
+354,Terminated,1/8/2020,7/23/2018,2/26/1969,Married,Female,C - HS Grad,Voluntary-Health
+355,Terminated,5/14/2019,11/26/2018,4/15/1988,Single,Male,A - Not Indic,Voluntary-Personal Reasons
+356,Terminated,1/20/2020,3/4/2019,9/29/1976,Married,Female,A - Not Indic,Voluntary-Another Job
+357,Terminated,5/9/2019,3/4/2019,3/13/1971,Single,Male,A - Not Indic,Voluntary-Personal Reasons
+358,Terminated,7/22/2019,4/8/2019,5/25/2000,Single,Male,A - Not Indic,Voluntary-Return To School
+359,Terminated,11/14/2019,4/8/2019,5/2/1986,Single,Male,A - Not Indic,Voluntary-No Call/No Show
+360,Terminated,7/12/2019,9/21/2015,8/4/1959,Not Indicated,Male,A - Not Indic,Voluntary-Health
+361,Terminated,8/21/2019,10/19/2015,9/19/1957,Married,Male,A - Not Indic,Retire-Normal
+362,Terminated,3/13/2020,12/2/2019,5/2/2002,Single,Female,A - Not Indic,Voluntary-Return To School
+363,Terminated,5/2/2019,9/24/2007,4/22/1980,Married,Female,A - Not Indic,Voluntary-Personal Reasons
+364,Terminated,4/4/2019,4/20/2009,3/16/1973,Married,Female,E - Tech Sch,Voluntary-Another Job
+365,Terminated,6/3/2019,6/2/2014,1/9/1992,Single,Female,D - Some Coll.,Voluntary-Another Job
+366,Terminated,1/2/2020,11/3/2014,11/14/1990,Single,Female,F - 2-Yr Coll,Voluntary-Another Job
+367,Terminated,2/19/2019,11/17/2014,9/13/1992,Single,Female,C - HS Grad,Voluntary-Another Job
+368,Terminated,10/10/2019,12/8/2014,3/23/1980,Single,Male,C - HS Grad,Voluntary-Personal Reasons
+369,Terminated,5/2/2019,9/18/2017,12/14/1996,Single,Female,C - HS Grad,Voluntary-Health
+370,Terminated,4/26/2019,12/18/2017,7/14/1986,Single,Female,C - HS Grad,Voluntary-Another Job
+371,Terminated,6/19/2019,12/18/2017,10/27/1994,Single,Female,C - HS Grad,Voluntary-No Child Care
+372,Terminated,2/1/2019,2/12/2018,8/23/1997,Single,Female,D - Some Coll.,Voluntary-Another Job
+373,Terminated,5/10/2019,4/2/2018,9/17/1971,Married,Female,C - HS Grad,Voluntary-No Call/No Show
+374,Terminated,3/1/2019,6/26/2018,1/11/1989,Single,Female,D - Some Coll.,Voluntary-Another Job
+375,Terminated,2/21/2019,8/6/2018,3/5/1977,Single,Female,C - HS Grad,Voluntary-Another Job
+376,Terminated,12/27/2019,10/15/2018,8/9/1993,Single,Male,C - HS Grad,Voluntary-Another Job
+377,Terminated,1/9/2019,10/30/2018,9/4/1970,Married,Female,F - 2-Yr Coll,Voluntary-Health
+378,Terminated,4/26/2019,10/30/2018,2/14/1998,Single,Female,D - Some Coll.,Voluntary-Another Job
+379,Terminated,9/13/2019,3/12/2019,2/7/2000,Single,Female,C - HS Grad,Voluntary-Personal Reasons
+380,Terminated,11/4/2019,3/12/2019,10/29/1996,Single,Female,C - HS Grad,Voluntary-Personal Reasons
+381,Terminated,10/18/2019,4/30/2019,12/4/1983,Married,Female,D - Some Coll.,Voluntary-Another Job
+382,Terminated,6/13/2019,4/30/2019,5/6/1993,Single,Male,C - HS Grad,Voluntary-Another Job
+383,Terminated,8/5/2019,5/22/2019,12/24/1978,Married,Female,C - HS Grad,Voluntary-Personal Reasons
+385,Terminated,11/5/2019,11/4/2019,9/28/1993,Single,Female,C - HS Grad,Voluntary-Personal Reasons
+386,Terminated,5/24/2019,7/10/2017,3/16/1991,Single,Male,F - 2-Yr Coll,Voluntary-Another Job
+387,Terminated,4/30/2019,2/15/2010,3/20/1982,Married,Female,A - Not Indic,Voluntary-No Child Care
+388,Terminated,10/9/2019,12/3/2001,3/12/1960,Single,Female,E - Tech Sch,Voluntary-Health
+389,Terminated,2/8/2019,2/9/1998,1/6/1953,Married,Female,G - Bachelor's,Retire-Normal
+390,Terminated,1/9/2019,4/22/2013,12/18/1968,Single,Female,F - 2-Yr Coll,Voluntary-Health
+391,Terminated,4/30/2019,1/25/2016,10/19/1990,Single,Male,G - Bachelor's,Voluntary-Personal Reasons
+392,Terminated,3/6/2020,5/13/1996,3/9/1958,Married,Female,C - HS Grad,Retire-Early
+393,Terminated,10/21/2019,9/13/2010,4/20/1985,Single,Male,A - Not Indic,Voluntary-No Reason Given
+394,Terminated,4/15/2019,8/12/2013,8/26/1970,Single,Male,D - Some Coll.,Voluntary-No Reason Given
+395,Terminated,6/7/2019,8/11/2014,11/20/1985,Single,Female,F - 2-Yr Coll,Voluntary-Another Job
+396,Terminated,2/22/2019,10/12/2015,4/11/1986,Single,Male,D - Some Coll.,Voluntary-Another Job
+397,Terminated,1/9/2019,10/24/2016,6/19/1990,Single,Female,D - Some Coll.,Voluntary-Another Job
+398,Terminated,3/29/2019,11/14/2016,1/18/1971,Married,Female,C - HS Grad,Voluntary-Another Job
+399,Terminated,2/4/2019,6/19/2017,7/3/1992,Married,Female,G - Bachelor's,Voluntary-Personal Reasons
+400,Terminated,5/28/2019,2/12/2018,9/3/1976,Married,Female,C - HS Grad,Voluntary-Personal Reasons
+401,Terminated,2/19/2019,4/30/2018,10/7/1998,Single,Female,C - HS Grad,Voluntary-Another Job
+402,Terminated,2/21/2019,4/30/2018,9/17/1999,Single,Male,C - HS Grad,Voluntary-Another Job
+403,Terminated,2/7/2020,6/11/2018,6/11/1996,Single,Female,D - Some Coll.,Voluntary-Another Job
+404,Terminated,9/18/2019,3/4/2019,5/1/1999,Single,Male,C - HS Grad,Voluntary-No Call/No Show
+405,Terminated,2/14/2020,3/12/2019,9/6/1997,Married,Female,D - Some Coll.,Voluntary-No Child Care
+406,Terminated,8/22/2019,6/18/2019,6/7/2001,Single,Male,C - HS Grad,Voluntary-Personal Reasons
+407,Terminated,12/18/2019,11/4/2019,12/20/1997,Single,Female,D - Some Coll.,Voluntary-Health
+408,Terminated,1/2/2020,11/4/2019,8/18/1970,Married,Female,C - HS Grad,Voluntary-Another Job
+409,Terminated,7/18/2019,3/18/2019,9/14/1957,Married,Male,I - Master's,Voluntary-No Reason Given
+410,Terminated,2/15/2019,6/20/2016,4/15/1965,Single,Male,G - Bachelor's,Voluntary-Personal Reasons
+411,Terminated,1/7/2020,11/15/2018,11/20/1964,Married,Female,A - Not Indic,Voluntary-No Call/No Show
+412,Terminated,4/17/2020,11/15/2018,4/5/1958,Married,Male,A - Not Indic,Voluntary-No Reason Given
+413,Terminated,1/14/2020,11/15/2018,12/16/1962,Married,Male,A - Not Indic,Voluntary-No Reason Given
+414,Terminated,2/25/2019,8/13/2015,1/22/1980,Single,Female,A - Not Indic,Voluntary-No Reason Given
+415,Terminated,4/17/2019,11/15/2018,3/3/1993,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+416,Terminated,10/25/2019,11/15/2018,8/3/1968,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+417,Terminated,2/25/2019,11/15/2018,12/28/1977,Married,Female,A - Not Indic,Voluntary-No Reason Given
+418,Terminated,3/14/2019,3/4/2019,5/8/1976,Single,Female,A - Not Indic,Voluntary-Personal Reasons
+419,Terminated,6/3/2019,3/8/2019,1/2/1967,Single,Female,A - Not Indic,Voluntary-No Reason Given
+420,Terminated,5/15/2019,5/8/2019,8/8/1986,Married,Female,A - Not Indic,Voluntary-No Reason Given
+421,Terminated,8/13/2019,8/6/2019,4/21/1971,Married,Female,A - Not Indic,Voluntary-No Call/No Show
+422,Terminated,1/9/2020,8/28/2019,7/19/1995,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+423,Terminated,2/28/2020,4/4/2003,11/23/1980,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+424,Terminated,10/25/2019,11/15/2018,3/12/1960,Married,Female,A - Not Indic,Voluntary-No Call/No Show
+425,Terminated,1/9/2020,11/15/2018,12/2/1968,Married,Female,A - Not Indic,Voluntary-No Reason Given
+426,Terminated,7/30/2019,11/15/2018,11/25/1962,Single,Female,A - Not Indic,Voluntary-No Reason Given
+427,Terminated,10/7/2019,11/15/2018,7/7/1962,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+428,Terminated,1/9/2019,11/15/2018,10/4/1996,Single,Male,A - Not Indic,Voluntary-No Reason Given
+429,Terminated,12/9/2019,11/15/2018,3/15/1963,Married,Female,A - Not Indic,Voluntary-No Reason Given
+430,Terminated,8/5/2019,11/15/2018,2/28/1997,Single,Male,A - Not Indic,Voluntary-No Reason Given
+431,Terminated,7/30/2019,5/22/2017,5/26/1986,Married,Female,A - Not Indic,Voluntary-No Reason Given
+432,Terminated,3/16/2020,11/15/2018,10/25/1968,Married,Female,A - Not Indic,Voluntary-No Reason Given
+433,Terminated,7/1/2019,11/15/2018,9/18/1983,Single,Male,A - Not Indic,Voluntary-No Reason Given
+434,Terminated,8/7/2019,11/15/2018,4/13/1971,Single,Female,A - Not Indic,Voluntary-No Reason Given
+435,Terminated,2/18/2019,11/15/2018,7/10/1993,Single,Female,A - Not Indic,Voluntary-Illness in Family
+436,Terminated,8/13/2019,11/15/2018,2/27/1992,Single,Female,A - Not Indic,Voluntary-No Reason Given
+437,Terminated,3/11/2019,11/15/2018,4/9/1961,Married,Male,A - Not Indic,Voluntary-No Reason Given
+438,Terminated,2/13/2019,2/11/2019,9/30/1979,Not Indicated,Male,A - Not Indic,Voluntary-No Reason Given
+439,Terminated,7/2/2019,5/8/2019,1/3/1964,Married,Male,A - Not Indic,Voluntary-No Call/No Show
+440,Terminated,10/3/2019,5/20/2019,5/16/1994,Single,Female,A - Not Indic,Voluntary-No Reason Given
+441,Terminated,10/25/2019,6/27/2019,2/12/1971,Single,Male,A - Not Indic,Voluntary-No Call/No Show
+442,Terminated,11/6/2019,7/1/2019,8/12/1974,Single,Female,A - Not Indic,Voluntary-No Reason Given
+443,Terminated,2/7/2020,7/8/2019,1/21/1976,Single,Female,A - Not Indic,Voluntary-No Reason Given
+444,Terminated,10/18/2019,7/9/2019,10/5/1973,Single,Female,A - Not Indic,Voluntary-No Reason Given
+445,Terminated,10/7/2019,7/31/2019,2/26/2000,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+446,Terminated,1/22/2020,9/3/2019,4/5/1999,Single,Female,A - Not Indic,Voluntary-Personal Reasons
+447,Terminated,11/15/2019,9/20/2019,12/27/1990,Single,Female,A - Not Indic,Voluntary-No Reason Given
+448,Terminated,10/21/2019,9/20/2019,11/14/1996,Single,Male,A - Not Indic,Voluntary-No Reason Given
+449,Terminated,1/28/2020,10/1/2019,1/4/1998,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+450,Terminated,11/25/2019,10/2/2019,5/10/1984,Single,Female,A - Not Indic,Voluntary-No Reason Given
+451,Terminated,11/15/2019,10/15/2019,12/28/1979,Married,Female,A - Not Indic,Voluntary-No Reason Given
+452,Terminated,10/31/2019,10/21/2019,12/19/1991,Single,Male,A - Not Indic,Voluntary-No Reason Given
+453,Terminated,1/28/2020,10/22/2019,12/9/1964,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+454,Terminated,2/7/2020,10/23/2019,9/14/2001,Single,Male,A - Not Indic,Voluntary-No Call/No Show
+455,Terminated,1/14/2020,11/21/2019,10/18/1995,Single,Male,A - Not Indic,Voluntary-No Reason Given
+456,Terminated,1/3/2020,11/22/2019,12/28/2000,Single,Male,A - Not Indic,Voluntary-No Reason Given
+457,Terminated,12/2/2019,11/25/2019,4/12/1969,Married,Male,A - Not Indic,Voluntary-No Reason Given
+458,Terminated,12/3/2019,11/26/2019,3/12/2001,Single,Male,A - Not Indic,Voluntary-No Call/No Show
+459,Terminated,1/24/2020,1/7/2020,4/6/1980,Married,Female,A - Not Indic,Voluntary-No Call/No Show
+460,Terminated,1/24/2020,1/8/2020,7/4/1994,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+461,Terminated,3/27/2020,1/9/2020,3/13/2000,Single,Male,A - Not Indic,Voluntary-No Reason Given
+462,Terminated,2/10/2020,2/5/2020,12/12/1978,Single,Female,A - Not Indic,Voluntary-No Reason Given
+463,Terminated,7/31/2019,11/15/2018,7/16/1969,Married,Female,A - Not Indic,Voluntary-No Reason Given
+464,Terminated,3/17/2020,11/15/2018,3/19/1958,Married,Female,A - Not Indic,Retire-Early
+465,Terminated,3/6/2020,7/16/2012,9/16/1960,Single,Female,A - Not Indic,Voluntary-No Reason Given
+466,Terminated,11/8/2019,11/15/2018,3/17/1966,Married,Male,A - Not Indic,Voluntary-No Reason Given
+467,Terminated,9/16/2019,11/15/2018,4/18/1964,Single,Female,A - Not Indic,Voluntary-No Reason Given
+468,Terminated,1/20/2020,11/15/2018,8/4/1976,Married,Female,A - Not Indic,Voluntary-No Reason Given
+469,Terminated,4/13/2020,11/15/2018,10/15/1970,Single,Female,A - Not Indic,Voluntary-Personal Reasons
+470,Terminated,7/21/2019,11/15/2018,5/31/1974,Married,Female,A - Not Indic,Voluntary-No Reason Given
+471,Terminated,4/17/2020,11/15/2018,12/20/1961,Married,Female,A - Not Indic,Voluntary-No Reason Given
+472,Terminated,3/15/2019,11/15/2018,2/9/1945,Married,Male,A - Not Indic,Retire-Early
+473,Terminated,6/21/2019,11/15/2018,4/7/1959,Single,Female,A - Not Indic,Voluntary-No Reason Given
+474,Terminated,4/17/2020,11/15/2018,5/30/1998,Single,Female,A - Not Indic,Voluntary-No Reason Given
+475,Terminated,8/2/2019,11/15/2018,7/3/1967,Married,Male,A - Not Indic,Voluntary-No Reason Given
+476,Terminated,4/9/2020,11/15/2018,1/3/1963,Married,Female,A - Not Indic,Voluntary-Personal Reasons
+477,Terminated,1/6/2020,11/15/2018,4/1/1996,Single,Female,A - Not Indic,Voluntary-No Reason Given
+478,Terminated,12/9/2019,11/15/2018,10/10/1968,Married,Female,A - Not Indic,Voluntary-No Reason Given
+479,Terminated,1/25/2019,11/15/2018,1/13/1994,Single,Male,A - Not Indic,Voluntary-No Call/No Show
+480,Terminated,8/29/2019,11/15/2018,2/2/1967,Single,Female,A - Not Indic,Voluntary-No Reason Given
+481,Terminated,12/24/2019,11/15/2018,2/24/1973,Married,Female,A - Not Indic,Voluntary-No Reason Given
+482,Terminated,12/6/2019,11/15/2018,10/28/1973,Married,Female,A - Not Indic,Voluntary-No Reason Given
+483,Terminated,4/8/2020,12/21/2018,4/10/1972,Not Indicated,Female,A - Not Indic,Voluntary-No Child Care
+484,Terminated,10/11/2019,1/14/2019,7/16/1962,Single,Male,A - Not Indic,Voluntary-No Reason Given
+485,Terminated,10/11/2019,1/23/2019,10/13/1984,Single,Male,A - Not Indic,Voluntary-No Reason Given
+486,Terminated,4/17/2019,1/23/2019,11/29/1991,Single,Male,A - Not Indic,Voluntary-No Reason Given
+487,Terminated,3/25/2019,1/24/2019,2/16/1992,Single,Male,A - Not Indic,Voluntary-Reloc/Move
+488,Terminated,9/10/2019,2/27/2019,6/5/1996,Single,Female,A - Not Indic,Voluntary-No Reason Given
+489,Terminated,6/12/2019,3/4/2019,12/22/1997,Single,Male,A - Not Indic,Voluntary-No Reason Given
+490,Terminated,8/16/2019,3/4/2019,4/7/1977,Single,Female,A - Not Indic,Voluntary-No Reason Given
+491,Terminated,8/5/2019,3/4/2019,8/30/1999,Single,Female,A - Not Indic,Voluntary-No Reason Given
+492,Terminated,11/8/2019,3/4/2019,7/10/1997,Single,Male,A - Not Indic,Voluntary-No Reason Given
+493,Terminated,4/25/2019,3/4/2019,7/20/1984,Single,Male,A - Not Indic,Voluntary-No Reason Given
+494,Terminated,3/29/2019,3/25/2019,7/4/1997,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+495,Terminated,4/1/2019,3/25/2019,6/26/1986,Single,Female,A - Not Indic,Voluntary-No Child Care
+496,Terminated,3/29/2019,3/25/2019,5/3/1978,Married,Male,A - Not Indic,Voluntary-No Call/No Show
+497,Terminated,3/29/2019,3/25/2019,6/19/1996,Single,Female,A - Not Indic,Voluntary-No Reason Given
+498,Terminated,3/29/2019,3/25/2019,3/21/1978,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+499,Terminated,12/17/2019,3/25/2019,7/17/1972,Married,Female,A - Not Indic,Voluntary-No Reason Given
+500,Terminated,3/29/2019,3/25/2019,12/11/1999,Single,Male,A - Not Indic,Voluntary-No Call/No Show
+501,Terminated,3/27/2019,3/26/2019,1/16/1984,Single,Male,A - Not Indic,Voluntary-No Reason Given
+502,Terminated,4/8/2019,3/27/2019,7/27/1990,Married,Female,A - Not Indic,Voluntary-No Reason Given
+503,Terminated,6/13/2019,4/1/2019,9/12/1978,Single,Female,A - Not Indic,Voluntary-No Reason Given
+504,Terminated,10/21/2019,4/1/2019,12/3/2000,Single,Male,A - Not Indic,Voluntary-No Reason Given
+505,Terminated,6/21/2019,4/8/2019,5/5/1969,Married,Female,A - Not Indic,Voluntary-No Reason Given
+506,Terminated,5/29/2019,4/8/2019,5/30/1976,Single,Female,A - Not Indic,Voluntary-No Reason Given
+507,Terminated,4/22/2019,4/11/2019,3/29/2000,Single,Female,A - Not Indic,Voluntary-No Reason Given
+508,Terminated,8/29/2019,4/29/2019,12/31/1987,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+509,Terminated,5/15/2019,4/30/2019,10/31/1996,Single,Male,A - Not Indic,Voluntary-No Reason Given
+510,Terminated,8/12/2019,5/8/2019,2/7/1989,Married,Female,A - Not Indic,Voluntary-No Reason Given
+511,Terminated,8/5/2019,5/13/2019,7/23/1993,Single,Female,A - Not Indic,Voluntary-No Reason Given
+512,Terminated,9/23/2019,5/29/2019,8/7/1990,Married,Female,A - Not Indic,Voluntary-No Reason Given
+513,Terminated,7/16/2019,5/29/2019,7/2/1992,Married,Female,A - Not Indic,Voluntary-No Reason Given
+514,Terminated,7/12/2019,6/18/2019,8/31/1995,Single,Male,A - Not Indic,Voluntary-No Reason Given
+515,Terminated,8/2/2019,7/30/2019,8/21/2000,Single,Male,A - Not Indic,Voluntary-No Reason Given
+516,Terminated,9/11/2019,8/5/2019,2/21/1999,Single,Female,A - Not Indic,Voluntary-No Reason Given
+517,Terminated,8/19/2019,8/14/2019,11/18/1950,Single,Female,A - Not Indic,Voluntary-No Reason Given
+518,Terminated,8/29/2019,8/19/2019,2/1/1968,Married,Female,A - Not Indic,Voluntary-No Call/No Show
+519,Terminated,8/22/2019,8/21/2019,1/1/1970,Single,Female,A - Not Indic,Voluntary-No Reason Given
+520,Terminated,9/11/2019,8/22/2019,2/2/1988,Single,Female,A - Not Indic,Voluntary-No Reason Given
+521,Terminated,9/9/2019,8/23/2019,10/19/1965,Single,Male,A - Not Indic,Voluntary-No Call/No Show
+522,Terminated,9/30/2019,9/10/2019,11/6/1994,Single,Male,A - Not Indic,Voluntary-No Reason Given
+523,Terminated,12/5/2019,9/10/2019,7/22/1999,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+524,Terminated,11/4/2019,9/10/2019,2/19/1996,Single,Female,A - Not Indic,Voluntary-No Reason Given
+525,Terminated,12/30/2019,9/23/2019,5/20/1976,Married,Female,A - Not Indic,Voluntary-No Reason Given
+526,Terminated,10/21/2019,9/30/2019,5/1/1999,Single,Female,A - Not Indic,Voluntary-No Reason Given
+527,Terminated,10/18/2019,10/7/2019,9/3/1999,Single,Female,A - Not Indic,Voluntary-No Reason Given
+528,Terminated,12/4/2019,10/7/2019,12/20/1998,Single,Female,A - Not Indic,Voluntary-No Reason Given
+529,Terminated,11/1/2019,10/7/2019,3/8/1999,Single,Female,A - Not Indic,Voluntary-No Reason Given
+530,Terminated,11/25/2019,10/9/2019,6/6/1989,Single,Female,A - Not Indic,Voluntary-No Reason Given
+531,Terminated,10/14/2019,10/9/2019,11/27/2000,Single,Female,A - Not Indic,Voluntary-No Reason Given
+532,Terminated,10/17/2019,10/10/2019,5/15/1981,Married,Female,A - Not Indic,Voluntary-No Reason Given
+533,Terminated,10/21/2019,10/11/2019,1/18/1980,Married,Female,A - Not Indic,Voluntary-No Reason Given
+534,Terminated,10/17/2019,10/14/2019,3/24/1971,Single,Female,A - Not Indic,Voluntary-No Reason Given
+535,Terminated,11/5/2019,10/21/2019,8/17/2000,Single,Male,A - Not Indic,Voluntary-No Reason Given
+536,Terminated,10/23/2019,10/21/2019,2/23/1999,Married,Female,A - Not Indic,Voluntary-No Reason Given
+537,Terminated,1/15/2020,10/28/2019,1/21/2000,Single,Female,A - Not Indic,Voluntary-No Reason Given
+538,Terminated,11/26/2019,10/28/2019,5/18/2000,Single,Female,A - Not Indic,Voluntary-No Reason Given
+539,Terminated,11/8/2019,10/30/2019,3/23/2001,Single,Female,A - Not Indic,Voluntary-No Reason Given
+540,Terminated,1/15/2020,10/30/2019,9/4/1980,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+541,Terminated,11/8/2019,11/4/2019,11/5/1996,Single,Female,A - Not Indic,Voluntary-No Reason Given
+542,Terminated,11/8/2019,11/4/2019,10/25/1999,Single,Male,A - Not Indic,Voluntary-No Reason Given
+543,Terminated,11/8/2019,11/4/2019,10/1/2000,Single,Female,A - Not Indic,Voluntary-No Reason Given
+544,Terminated,12/9/2019,11/14/2019,7/28/1978,Married,Male,A - Not Indic,Voluntary-No Call/No Show
+545,Terminated,2/17/2020,1/8/2020,5/29/1983,Married,Female,A - Not Indic,Voluntary-No Reason Given
+546,Terminated,3/3/2020,2/4/2020,5/27/1995,Single,Female,A - Not Indic,Voluntary-No Reason Given
+547,Terminated,3/3/2020,2/4/2020,9/15/2000,Single,Male,A - Not Indic,Voluntary-No Reason Given
+548,Terminated,3/3/2020,2/4/2020,7/28/1996,Single,Female,A - Not Indic,Voluntary-No Reason Given
+549,Terminated,2/17/2020,2/13/2020,3/22/1970,Married,Male,A - Not Indic,Voluntary-No Reason Given
+550,Terminated,2/27/2020,2/17/2020,10/7/1995,Single,Male,A - Not Indic,Voluntary-No Call/No Show
+551,Terminated,3/10/2020,3/2/2020,6/18/1990,Single,Male,A - Not Indic,Voluntary-No Call/No Show
+552,Terminated,4/17/2020,3/3/2020,1/25/1996,Married,Male,A - Not Indic,Voluntary-No Reason Given
+553,Terminated,3/6/2020,2/26/2020,10/17/1980,Married,Female,A - Not Indic,Voluntary-No Reason Given
+554,Terminated,3/17/2020,3/4/2020,9/24/2000,Single,Male,A - Not Indic,Voluntary-No Reason Given
+555,Terminated,3/13/2020,3/9/2020,9/11/1993,Single,Female,A - Not Indic,Voluntary-Dissatisfied with SW
+556,Terminated,8/21/2019,11/15/2018,7/10/1955,Single,Female,A - Not Indic,Voluntary-No Reason Given
+557,Terminated,1/7/2019,11/15/2018,7/31/1962,Married,Female,A - Not Indic,Voluntary-No Reason Given
+558,Terminated,5/10/2019,11/15/2018,11/10/1976,Single,Female,A - Not Indic,Voluntary-No Reason Given
+559,Terminated,1/16/2019,11/15/2018,9/20/1965,Married,Male,A - Not Indic,Voluntary-No Reason Given
+560,Terminated,7/31/2019,11/15/2018,9/15/1987,Single,Female,A - Not Indic,Voluntary-No Reason Given
+561,Terminated,1/10/2020,11/15/2018,2/28/1988,Married,Female,A - Not Indic,Voluntary-No Reason Given
+562,Terminated,3/29/2019,11/15/2018,10/30/1999,Single,Male,A - Not Indic,Voluntary-Reloc/Move
+563,Terminated,4/9/2019,11/15/2018,8/7/1994,Single,Male,A - Not Indic,Voluntary-No Reason Given
+564,Terminated,4/9/2019,3/4/2019,1/1/1970,Single,Male,A - Not Indic,Voluntary-No Call/No Show
+565,Terminated,12/27/2019,3/19/2019,5/11/1999,Single,Male,A - Not Indic,Voluntary-No Reason Given
+566,Terminated,1/25/2019,11/15/2018,12/11/1958,Married,Male,A - Not Indic,Voluntary-No Call/No Show
+567,Terminated,2/12/2020,11/15/2018,7/22/2000,Single,Female,A - Not Indic,Voluntary-No Reason Given
+568,Terminated,4/9/2019,12/21/2018,8/1/1996,Single,Male,A - Not Indic,Voluntary-Reloc/Move
+569,Terminated,5/22/2019,1/16/2019,12/19/1979,Single,Male,A - Not Indic,Voluntary-No Call/No Show
+570,Terminated,8/19/2019,5/28/2019,3/29/1997,Single,Male,A - Not Indic,Voluntary-No Reason Given
+571,Terminated,6/12/2019,6/6/2019,9/25/1990,Single,Male,A - Not Indic,Voluntary-No Reason Given
+572,Terminated,7/19/2019,6/5/2019,4/20/2000,Single,Male,A - Not Indic,Voluntary-No Reason Given
+573,Terminated,10/31/2019,11/15/2018,1/21/1958,Single,Male,A - Not Indic,Voluntary-No Reason Given
+574,Terminated,3/1/2019,11/15/2018,9/24/1953,Single,Male,A - Not Indic,Voluntary-No Reason Given
+575,Terminated,11/8/2019,11/15/2018,6/27/1995,Single,Male,A - Not Indic,Voluntary-No Reason Given
+576,Terminated,9/16/2019,11/15/2018,11/1/1996,Single,Male,A - Not Indic,Voluntary-No Reason Given
+577,Terminated,7/1/2019,6/24/2019,8/21/2000,Single,Male,A - Not Indic,Voluntary-No Reason Given
+578,Terminated,9/12/2019,7/15/2019,7/20/1996,Single,Male,A - Not Indic,Voluntary-No Reason Given
+579,Terminated,12/3/2019,11/26/2019,12/7/2000,Single,Male,A - Not Indic,Voluntary-No Call/No Show
+580,Terminated,12/3/2019,11/26/2019,9/27/1998,Single,Male,A - Not Indic,Voluntary-No Call/No Show
+581,Terminated,4/17/2020,1/7/2019,7/15/1999,Single,Male,A - Not Indic,Voluntary-No Reason Given
+582,Terminated,5/17/2019,11/15/2018,10/5/1976,Single,Male,A - Not Indic,Voluntary-No Reason Given
+583,Terminated,10/18/2019,11/15/2018,4/17/1968,Single,Male,A - Not Indic,Voluntary-No Reason Given
+584,Terminated,3/2/2020,11/15/2018,4/7/1984,Married,Male,A - Not Indic,Voluntary-No Reason Given
+585,Terminated,2/6/2020,11/15/2018,8/18/1989,Single,Female,A - Not Indic,Voluntary-Another Job
+586,Terminated,7/24/2019,11/15/2018,9/25/1975,Single,Female,A - Not Indic,Voluntary-No Reason Given
+587,Terminated,12/6/2019,11/15/2018,1/16/1984,Single,Male,A - Not Indic,Voluntary-Reloc/Move
+588,Terminated,2/15/2019,11/15/2018,10/31/1962,Single,Female,A - Not Indic,Voluntary-Another Job
+589,Terminated,5/7/2019,11/15/2018,11/17/1997,Single,Male,A - Not Indic,Voluntary-Personal Reasons
+590,Terminated,4/30/2019,4/11/2019,8/5/1996,Married,Female,A - Not Indic,Voluntary-No Reason Given
+591,Terminated,5/17/2019,4/22/2019,1/20/1992,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+592,Terminated,9/27/2019,9/13/2010,3/5/1988,Single,Male,A - Not Indic,Voluntary-No Reason Given
+593,Terminated,6/28/2019,11/15/2018,12/1/1976,Married,Male,A - Not Indic,Voluntary-No Reason Given
+594,Terminated,1/10/2020,7/2/2014,6/8/1987,Single,Male,A - Not Indic,Voluntary-No Reason Given
+595,Terminated,3/1/2019,11/15/2018,5/27/1973,Single,Male,A - Not Indic,Voluntary-No Reason Given
+596,Terminated,6/28/2019,11/15/2018,11/29/1962,Single,Female,A - Not Indic,Voluntary-No Reason Given
+597,Terminated,6/21/2019,11/26/2018,6/17/1971,Single,Male,A - Not Indic,Voluntary-No Reason Given
+598,Terminated,3/11/2019,2/11/2019,7/11/1977,Not Indicated,Female,A - Not Indic,Voluntary-Personal Reasons
+599,Terminated,1/10/2019,11/15/2018,7/6/1994,Married,Female,A - Not Indic,Voluntary-Personal Reasons
+600,Terminated,1/14/2019,12/7/2018,7/8/1972,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+601,Terminated,1/25/2019,12/13/2018,7/30/1974,Married,Female,A - Not Indic,Voluntary-No Call/No Show
+602,Terminated,1/8/2019,12/18/2018,11/25/1991,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+603,Terminated,1/11/2019,11/15/2018,3/7/1997,Single,Male,A - Not Indic,Voluntary-Another Job
+604,Terminated,1/25/2019,11/15/2018,10/8/1980,Single,Female,A - Not Indic,Voluntary-Another Job
+605,Terminated,1/7/2019,11/15/2018,8/31/1994,Married,Female,A - Not Indic,Voluntary-No Call/No Show
+606,Terminated,2/20/2019,11/27/2018,5/22/1976,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+607,Terminated,1/18/2019,10/15/2018,9/8/1994,Single,Female,A - Not Indic,Voluntary-No Reason Given
+608,Terminated,1/18/2019,10/15/2018,1/15/1969,Married,Female,A - Not Indic,Voluntary-No Reason Given
+609,Terminated,1/15/2019,1/9/2019,10/24/1991,Married,Male,A - Not Indic,Voluntary-No Call/No Show
+610,Terminated,1/18/2019,1/9/2019,10/27/1961,Married,Female,A - Not Indic,Voluntary-Personal Reasons
+611,Terminated,4/2/2019,1/9/2019,2/16/1990,Married,Female,A - Not Indic,Voluntary-Health
+612,Terminated,1/17/2019,1/10/2019,3/12/1993,Single,Male,A - Not Indic,Voluntary-Return To School
+613,Terminated,1/17/2019,1/9/2019,9/8/2000,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+614,Terminated,1/23/2019,1/21/2019,8/3/1993,Single,Male,A - Not Indic,Voluntary-Return To School
+615,Terminated,1/29/2019,1/28/2019,4/7/1988,Single,Male,A - Not Indic,Voluntary-No Call/No Show
+616,Terminated,3/19/2019,2/26/2019,12/14/1975,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+617,Terminated,4/12/2019,3/28/2019,1/10/2001,Single,Female,A - Not Indic,Voluntary-No Reason Given
+618,Terminated,4/10/2019,4/9/2019,6/29/2000,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+619,Terminated,5/24/2019,5/21/2019,11/7/1975,Married,Female,A - Not Indic,Voluntary-No Call/No Show
+620,Terminated,7/8/2019,11/15/2018,3/5/1975,Married,Female,A - Not Indic,Voluntary-Personal Reasons
+621,Terminated,1/28/2019,11/15/2018,10/20/1956,Single,Male,A - Not Indic,Voluntary-No Call/No Show
+622,Terminated,3/28/2019,11/15/2018,2/15/1961,Married,Female,A - Not Indic,Voluntary-No Call/No Show
+623,Terminated,5/17/2019,11/15/2018,1/15/1973,Married,Male,A - Not Indic,Voluntary-No Call/No Show
+624,Terminated,6/14/2019,11/15/2018,12/3/1995,Single,Female,A - Not Indic,Voluntary-No Reason Given
+625,Terminated,9/16/2019,11/15/2018,10/19/1955,Single,Female,A - Not Indic,Voluntary-Personal Reasons
+626,Terminated,7/22/2019,11/15/2018,12/19/1991,Single,Female,A - Not Indic,Voluntary-Another Job
+627,Terminated,9/10/2019,11/15/2018,12/1/1982,Single,Female,A - Not Indic,Voluntary-Personal Reasons
+628,Terminated,2/19/2019,11/15/2018,10/13/1962,Single,Female,A - Not Indic,Voluntary-Personal Reasons
+629,Terminated,9/6/2019,11/15/2018,6/2/1968,Married,Female,A - Not Indic,Voluntary-Health
+630,Terminated,1/14/2019,11/15/2018,6/20/1992,Single,Female,A - Not Indic,Voluntary-Return To School
+631,Terminated,1/7/2019,11/15/2018,5/5/1951,Married,Female,A - Not Indic,Voluntary-No Call/No Show
+632,Terminated,3/16/2019,11/15/2018,10/3/1975,Married,Female,A - Not Indic,Voluntary-Personal Reasons
+633,Terminated,8/12/2019,11/15/2018,8/26/1996,Single,Female,A - Not Indic,Voluntary-Reloc/Move
+634,Terminated,5/14/2019,11/15/2018,1/23/1996,Single,Male,A - Not Indic,Voluntary-Another Job
+635,Terminated,2/19/2019,11/15/2018,1/2/1997,Single,Female,A - Not Indic,Voluntary-Personal Reasons
+636,Terminated,1/7/2019,11/15/2018,6/30/1973,Married,Male,A - Not Indic,Voluntary-Another Job
+637,Terminated,1/7/2019,11/15/2018,3/27/1980,Single,Female,A - Not Indic,Voluntary-Another Job
+638,Terminated,7/18/2019,11/15/2018,1/7/1981,Single,Female,A - Not Indic,Voluntary-No Reason Given
+639,Terminated,5/17/2019,11/15/2018,6/20/1983,Married,Male,A - Not Indic,Voluntary-No Call/No Show
+640,Terminated,4/12/2019,11/15/2018,4/27/1968,Single,Female,A - Not Indic,Voluntary-Reloc/Move
+641,Terminated,8/21/2019,12/7/2018,4/10/1961,Married,Female,A - Not Indic,Voluntary-Personal Reasons
+642,Terminated,3/22/2019,12/13/2018,5/12/1984,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+643,Terminated,4/8/2020,11/20/2018,8/7/1946,Married,Male,A - Not Indic,Voluntary-No Call/No Show
+646,Terminated,1/10/2019,1/9/2019,10/18/1972,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+647,Terminated,4/19/2019,1/24/2019,10/5/1998,Single,Female,A - Not Indic,Voluntary-Another Job
+648,Terminated,2/11/2019,2/8/2019,7/28/2000,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+649,Terminated,12/4/2019,2/14/2019,3/12/1968,Single,Female,A - Not Indic,Voluntary-Personal Reasons
+650,Terminated,3/5/2019,2/26/2019,9/24/1975,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+651,Terminated,3/2/2020,3/6/2019,10/11/1996,Single,Male,A - Not Indic,Voluntary-Personal Reasons
+652,Terminated,3/7/2019,3/7/2019,3/7/1995,Single,Male,A - Not Indic,Voluntary-No Call/No Show
+653,Terminated,3/19/2019,3/12/2019,6/12/1972,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+654,Terminated,4/2/2019,3/12/2019,10/22/1991,Single,Female,A - Not Indic,Voluntary-Personal Reasons
+655,Terminated,4/17/2019,3/11/2019,8/15/1971,Single,Female,A - Not Indic,Voluntary-Health
+656,Terminated,5/23/2019,3/20/2019,9/22/1993,Single,Female,A - Not Indic,Voluntary-No Child Care
+657,Terminated,4/3/2019,4/2/2019,12/8/1971,Single,Female,A - Not Indic,Voluntary-No Reason Given
+658,Terminated,12/16/2019,4/9/2019,10/7/1991,Married,Female,A - Not Indic,Voluntary-Personal Reasons
+659,Terminated,8/19/2019,4/9/2019,10/24/1999,Single,Male,A - Not Indic,Voluntary-Personal Reasons
+660,Terminated,4/19/2019,4/12/2019,10/11/1967,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+661,Terminated,7/19/2019,4/16/2019,3/20/1995,Single,Female,A - Not Indic,Voluntary-No Reason Given
+662,Terminated,6/11/2019,4/23/2019,5/21/1998,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+663,Terminated,5/7/2019,4/26/2019,2/8/1960,Single,Female,A - Not Indic,Voluntary-Another Job
+664,Terminated,3/13/2020,4/30/2019,8/15/1973,Single,Female,A - Not Indic,Voluntary-Another Job
+665,Terminated,5/7/2019,5/6/2019,3/8/1996,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+666,Terminated,5/7/2019,5/6/2019,8/19/1982,Married,Female,A - Not Indic,Voluntary-No Call/No Show
+667,Terminated,6/11/2019,5/6/2019,3/3/1974,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+668,Terminated,5/9/2019,5/7/2019,9/25/1991,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+669,Terminated,9/30/2019,5/21/2019,8/14/1999,Single,Female,A - Not Indic,Voluntary-No Reason Given
+670,Terminated,9/30/2019,5/28/2019,2/16/1988,Single,Female,A - Not Indic,Voluntary-No Reason Given
+671,Terminated,7/8/2019,5/28/2019,8/16/1998,Married,Female,A - Not Indic,Voluntary-Personal Reasons
+672,Terminated,6/11/2019,5/29/2019,12/11/1973,Single,Male,A - Not Indic,Voluntary-No Call/No Show
+673,Terminated,5/31/2019,5/29/2019,8/20/1969,Married,Male,A - Not Indic,Voluntary-No Call/No Show
+674,Terminated,7/18/2019,5/29/2019,6/27/1993,Single,Male,A - Not Indic,Voluntary-No Call/No Show
+675,Terminated,8/19/2019,5/31/2019,5/10/1976,Married,Male,A - Not Indic,Voluntary-Personal Reasons
+676,Terminated,1/6/2020,5/31/2019,9/5/1995,Single,Female,A - Not Indic,Voluntary-Another Job
+677,Terminated,6/11/2019,6/1/2019,9/17/1987,Single,Male,A - Not Indic,Voluntary-No Call/No Show
+678,Terminated,6/5/2019,6/4/2019,3/21/2001,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+679,Terminated,6/5/2019,6/4/2019,12/18/1979,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+680,Terminated,8/19/2019,6/4/2019,9/4/1999,Single,Male,A - Not Indic,Voluntary-No Call/No Show
+681,Terminated,6/25/2019,6/10/2019,9/30/1993,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+682,Terminated,7/23/2019,6/11/2019,8/26/1976,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+683,Terminated,12/20/2019,6/12/2019,6/9/1992,Single,Male,A - Not Indic,Voluntary-No Call/No Show
+684,Terminated,6/28/2019,6/19/2019,8/21/1978,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+685,Terminated,7/11/2019,6/28/2019,8/22/1989,Single,Male,A - Not Indic,Voluntary-Personal Reasons
+686,Terminated,7/8/2019,7/1/2019,11/25/1994,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+687,Terminated,7/8/2019,7/2/2019,8/21/1967,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+688,Terminated,9/10/2019,7/8/2019,7/27/1983,Single,Female,A - Not Indic,Voluntary-No Child Care
+689,Terminated,8/7/2019,7/8/2019,2/7/1967,Married,Female,A - Not Indic,Voluntary-No Reason Given
+690,Terminated,10/2/2019,7/9/2019,8/18/1976,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+691,Terminated,2/24/2020,7/9/2019,5/1/1998,Single,Female,A - Not Indic,Voluntary-Personal Reasons
+692,Terminated,8/28/2019,7/10/2019,6/15/1987,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+693,Terminated,1/27/2020,7/10/2019,4/18/1994,Single,Female,A - Not Indic,Voluntary-Personal Reasons
+694,Terminated,7/12/2019,7/11/2019,2/23/1966,Single,Female,A - Not Indic,Voluntary-Health
+695,Terminated,10/2/2019,7/12/2019,6/21/1977,Single,Male,A - Not Indic,Voluntary-No Call/No Show
+696,Terminated,8/3/2019,7/16/2019,10/23/1989,Single,Male,A - Not Indic,Voluntary-No Call/No Show
+697,Terminated,8/26/2019,7/16/2019,6/26/1998,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+698,Terminated,7/22/2019,7/19/2019,10/1/1994,Single,Male,A - Not Indic,Voluntary-No Reason Given
+699,Terminated,10/9/2019,7/23/2019,3/3/1984,Married,Female,A - Not Indic,Voluntary-Personal Reasons
+700,Terminated,7/31/2019,7/23/2019,9/10/1973,Married,Female,A - Not Indic,Voluntary-No Call/No Show
+701,Terminated,7/24/2019,7/23/2019,6/14/1969,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+702,Terminated,11/6/2019,7/23/2019,6/26/1991,Single,Male,A - Not Indic,Voluntary-No Call/No Show
+703,Terminated,7/26/2019,7/24/2019,5/9/2001,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+704,Terminated,3/6/2020,7/24/2019,1/27/1976,Single,Female,A - Not Indic,Voluntary-Personal Reasons
+705,Terminated,7/30/2019,7/25/2019,1/22/1969,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+706,Terminated,7/29/2019,7/25/2019,3/18/1985,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+707,Terminated,3/4/2020,7/30/2019,8/15/1958,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+708,Terminated,7/31/2019,7/30/2019,1/16/1975,Married,Female,A - Not Indic,Voluntary-No Call/No Show
+709,Terminated,8/23/2019,7/31/2019,4/22/1995,Married,Male,A - Not Indic,Voluntary-Another Job
+710,Terminated,12/13/2019,8/6/2019,11/12/1970,Single,Female,A - Not Indic,Voluntary-Personal Reasons
+711,Terminated,9/6/2019,8/6/2019,2/24/1956,Single,Male,A - Not Indic,Voluntary-No Call/No Show
+712,Terminated,8/26/2019,8/7/2019,1/10/1995,Single,Female,A - Not Indic,Voluntary-Personal Reasons
+713,Terminated,8/29/2019,8/12/2019,11/14/1987,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+714,Terminated,8/14/2019,8/13/2019,3/25/1995,Married,Female,A - Not Indic,Voluntary-No Call/No Show
+715,Terminated,8/14/2019,8/13/2019,3/21/1979,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+716,Terminated,8/15/2019,8/14/2019,3/8/1994,Married,Female,A - Not Indic,Voluntary-No Call/No Show
+717,Terminated,8/23/2019,8/22/2019,5/11/1980,Married,Female,A - Not Indic,Voluntary-No Call/No Show
+718,Terminated,8/26/2019,8/23/2019,7/19/1999,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+719,Terminated,10/10/2019,8/27/2019,5/28/1992,Married,Female,A - Not Indic,Voluntary-No Call/No Show
+720,Terminated,9/11/2019,8/29/2019,5/4/1983,Single,Female,A - Not Indic,Voluntary-No Child Care
+721,Terminated,12/16/2019,9/3/2019,9/14/1975,Single,Female,A - Not Indic,Voluntary-Personal Reasons
+722,Terminated,9/11/2019,9/4/2019,5/14/2001,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+723,Terminated,10/21/2019,9/10/2019,1/6/1992,Married,Female,A - Not Indic,Voluntary-Personal Reasons
+724,Terminated,2/21/2020,9/11/2019,12/8/1989,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+725,Terminated,10/8/2019,9/26/2019,8/4/1986,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+726,Terminated,12/6/2019,9/30/2019,10/10/1956,Married,Male,A - Not Indic,Voluntary-Personal Reasons
+727,Terminated,10/29/2019,10/1/2019,6/10/2000,Single,Male,A - Not Indic,Voluntary-Another Job
+728,Terminated,12/11/2019,10/3/2019,3/11/2000,Single,Male,A - Not Indic,Voluntary-Another Job
+729,Terminated,12/6/2019,10/16/2019,6/27/1992,Married,Female,A - Not Indic,Voluntary-No Call/No Show
+730,Terminated,10/25/2019,10/21/2019,8/23/1995,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+731,Terminated,10/22/2019,10/21/2019,5/19/1983,Single,Female,A - Not Indic,Voluntary-Personal Reasons
+732,Terminated,11/27/2019,10/24/2019,8/12/1983,Single,Male,A - Not Indic,Voluntary-Another Job
+733,Terminated,12/13/2019,11/5/2019,7/1/1997,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+734,Terminated,1/3/2020,11/13/2019,3/2/1998,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+735,Terminated,12/5/2019,12/4/2019,7/1/1964,Single,Male,A - Not Indic,Voluntary-No Call/No Show
+736,Terminated,12/11/2019,12/5/2019,7/2/1972,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+737,Terminated,1/22/2020,12/6/2019,10/19/1988,Single,Male,A - Not Indic,Voluntary-No Call/No Show
+738,Terminated,12/13/2019,12/12/2019,12/21/1990,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+739,Terminated,3/26/2020,12/16/2019,4/5/1989,Single,Male,A - Not Indic,Voluntary-Another Job
+740,Terminated,12/19/2019,12/18/2019,7/23/2000,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+741,Terminated,2/13/2020,12/19/2019,11/15/1972,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+742,Terminated,1/10/2020,1/9/2020,7/12/1973,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+743,Terminated,1/27/2020,1/10/2020,12/12/1963,Married,Male,A - Not Indic,Voluntary-Personal Reasons
+744,Terminated,2/5/2020,1/15/2020,9/2/1966,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+745,Terminated,1/31/2020,1/27/2020,4/16/1995,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+746,Terminated,1/31/2020,1/27/2020,10/10/1995,Married,Female,A - Not Indic,Voluntary-No Call/No Show
+747,Terminated,2/3/2020,1/30/2020,9/21/1998,Single,Male,A - Not Indic,Voluntary-No Call/No Show
+748,Terminated,2/4/2020,1/30/2020,11/1/1977,Married,Female,A - Not Indic,Voluntary-No Call/No Show
+749,Terminated,2/28/2020,2/4/2020,5/4/2001,Single,Female,A - Not Indic,Voluntary-Personal Reasons
+750,Terminated,3/16/2020,2/10/2020,2/22/2001,Single,Female,A - Not Indic,Voluntary-Personal Reasons
+751,Terminated,2/18/2020,2/11/2020,7/15/1958,Married,Male,A - Not Indic,Voluntary-No Call/No Show
+752,Terminated,2/18/2020,2/17/2020,2/11/1972,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+753,Terminated,2/24/2020,2/18/2020,8/5/1997,Single,Male,A - Not Indic,Voluntary-No Call/No Show
+754,Terminated,3/2/2020,2/24/2020,2/16/1999,Single,Female,A - Not Indic,Voluntary-Personal Reasons
+755,Terminated,3/6/2020,2/26/2020,5/6/1978,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+756,Terminated,3/9/2020,3/2/2020,6/3/1956,Married,Male,A - Not Indic,Voluntary-No Call/No Show
+757,Terminated,3/11/2020,3/3/2020,11/11/1944,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+758,Terminated,3/18/2020,3/9/2020,1/2/1981,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+759,Terminated,3/13/2020,3/9/2020,8/25/1983,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+760,Terminated,1/11/2019,11/15/2018,8/10/1959,Married,Female,A - Not Indic,Voluntary-No Call/No Show
+761,Terminated,6/12/2019,11/15/2018,7/3/1963,Single,Female,A - Not Indic,Voluntary-Another Job
+762,Terminated,5/23/2019,11/15/2018,9/29/1977,Married,Female,A - Not Indic,Voluntary-Another Job
+763,Terminated,7/12/2019,11/15/2018,7/19/1965,Single,Female,A - Not Indic,Voluntary-Another Job
+764,Terminated,1/14/2019,11/15/2018,6/18/1968,Married,Female,A - Not Indic,Voluntary-No Call/No Show
+765,Terminated,6/12/2019,11/15/2018,4/23/1976,Single,Female,A - Not Indic,Voluntary-Another Job
+766,Terminated,1/7/2019,11/15/2018,10/25/1971,Married,Female,A - Not Indic,Voluntary-Another Job
+767,Terminated,12/2/2019,11/15/2018,1/1/1955,Married,Male,A - Not Indic,Voluntary-Personal Reasons
+768,Terminated,2/18/2019,11/15/2018,10/10/1955,Married,Male,A - Not Indic,Voluntary-No Call/No Show
+769,Terminated,1/22/2019,12/6/2018,5/21/1995,Single,Female,A - Not Indic,Voluntary-No Reason Given
+770,Terminated,4/8/2020,1/21/2019,11/17/1991,Married,Female,A - Not Indic,Voluntary-Personal Reasons
+771,Terminated,9/9/2019,2/27/2019,11/15/1958,Single,Female,A - Not Indic,Voluntary-Health
+772,Terminated,9/23/2019,3/4/2019,1/22/1972,Married,Female,A - Not Indic,Voluntary-No Call/No Show
+773,Terminated,9/11/2019,3/4/2019,8/30/1999,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+774,Terminated,8/2/2019,4/12/2019,1/27/1990,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+775,Terminated,7/29/2019,4/23/2019,8/16/1985,Single,Female,A - Not Indic,Voluntary-No Reason Given
+776,Terminated,8/28/2019,5/14/2019,7/29/1995,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+777,Terminated,2/24/2020,5/28/2019,1/7/2000,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+778,Terminated,6/19/2019,6/17/2019,5/25/1981,Married,Female,A - Not Indic,Voluntary-No Call/No Show
+779,Terminated,1/31/2020,6/18/2019,4/25/1960,Married,Female,A - Not Indic,Voluntary-Another Job
+780,Terminated,9/11/2019,6/25/2019,7/21/2000,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+781,Terminated,7/8/2019,7/2/2019,7/15/1993,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+782,Terminated,9/9/2019,7/17/2019,10/26/1989,Single,Female,A - Not Indic,Voluntary-No Reason Given
+783,Terminated,12/27/2019,7/22/2019,6/19/2001,Single,Female,A - Not Indic,Voluntary-Personal Reasons
+784,Terminated,7/30/2019,7/29/2019,10/5/1992,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+785,Terminated,8/26/2019,7/31/2019,6/11/2000,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+786,Terminated,8/21/2019,8/1/2019,7/9/1999,Single,Female,A - Not Indic,Voluntary-Another Job
+787,Terminated,9/4/2019,8/12/2019,11/12/1987,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+788,Terminated,9/11/2019,8/13/2019,3/21/1979,Married,Female,A - Not Indic,Voluntary-No Call/No Show
+789,Terminated,9/4/2019,8/30/2019,2/1/1969,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+790,Terminated,9/11/2019,9/6/2019,4/1/1993,Single,Female,A - Not Indic,Voluntary-Health
+791,Terminated,12/26/2019,9/6/2019,10/22/1968,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+792,Terminated,9/13/2019,9/9/2019,12/13/1989,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+793,Terminated,4/20/2020,9/10/2019,5/17/1962,Single,Female,A - Not Indic,Voluntary-Personal Reasons
+794,Terminated,9/24/2019,9/11/2019,1/30/1972,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+795,Terminated,9/16/2019,9/11/2019,9/16/1987,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+796,Terminated,9/17/2019,9/16/2019,3/14/2000,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+797,Terminated,9/17/2019,9/16/2019,3/28/1974,Married,Female,A - Not Indic,Voluntary-No Call/No Show
+798,Terminated,9/21/2019,9/18/2019,12/11/1972,Married,Female,A - Not Indic,Voluntary-Illness in Family
+799,Terminated,12/3/2019,9/24/2019,3/27/1970,Single,Female,A - Not Indic,Voluntary-Personal Reasons
+800,Terminated,10/8/2019,10/7/2019,9/24/1968,Married,Female,A - Not Indic,Voluntary-No Call/No Show
+801,Terminated,12/13/2019,10/16/2019,10/1/1972,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+802,Terminated,3/16/2020,10/30/2019,4/17/2001,Single,Male,A - Not Indic,Voluntary-Personal Reasons
+803,Terminated,11/22/2019,11/11/2019,8/3/1995,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+804,Terminated,12/5/2019,11/11/2019,5/21/1972,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+805,Terminated,12/4/2019,11/14/2019,2/27/1979,Single,Male,A - Not Indic,Voluntary-Another Job
+806,Terminated,11/21/2019,11/19/2019,8/31/1985,Married,Male,A - Not Indic,Voluntary-No Call/No Show
+807,Terminated,12/5/2019,11/19/2019,11/8/1964,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+808,Terminated,12/10/2019,12/3/2019,9/23/1952,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+809,Terminated,1/10/2020,1/9/2020,8/19/1969,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+810,Terminated,1/22/2020,1/9/2020,8/19/2001,Single,Male,A - Not Indic,Voluntary-No Call/No Show
+811,Terminated,1/27/2020,1/10/2020,2/28/1995,Single,Female,A - Not Indic,Voluntary-Personal Reasons
+812,Terminated,1/15/2020,1/14/2020,9/8/1985,Married,Female,A - Not Indic,Voluntary-No Call/No Show
+813,Terminated,2/3/2020,1/30/2020,7/26/1997,Single,Female,A - Not Indic,Voluntary-Another Job
+814,Terminated,3/5/2020,2/19/2020,3/22/1995,Single,Female,A - Not Indic,Voluntary-Personal Reasons
+815,Terminated,2/26/2020,2/24/2020,9/1/1972,Single,Female,A - Not Indic,Voluntary-Another Job
+816,Terminated,3/9/2020,3/2/2020,1/29/1959,Married,Female,A - Not Indic,Voluntary-No Call/No Show
+817,Terminated,1/11/2019,11/15/2018,12/5/1960,Married,Male,A - Not Indic,Voluntary-Another Job
+818,Terminated,9/25/2019,1/31/2019,12/20/1964,Married,Male,A - Not Indic,Voluntary-No Call/No Show
+819,Terminated,7/8/2019,12/20/2018,5/1/1975,Single,Male,A - Not Indic,Voluntary-No Reason Given
+820,Terminated,2/13/2019,2/12/2019,8/12/1992,Single,Male,A - Not Indic,Voluntary-Another Job
+821,Terminated,2/22/2019,2/18/2019,3/17/1955,Single,Male,A - Not Indic,Voluntary-No Call/No Show
+822,Terminated,3/11/2019,3/7/2019,2/1/2000,Single,Male,A - Not Indic,Voluntary-No Call/No Show
+823,Terminated,3/11/2019,3/7/2019,5/2/2000,Single,Male,A - Not Indic,Voluntary-No Call/No Show
+824,Terminated,4/13/2019,3/25/2019,10/12/1960,Married,Male,A - Not Indic,Voluntary-Another Job
+825,Terminated,5/16/2019,4/15/2019,12/10/1996,Single,Male,A - Not Indic,Voluntary-No Call/No Show
+826,Terminated,3/20/2020,5/20/2019,10/29/1973,Single,Male,A - Not Indic,Voluntary-No Call/No Show
+827,Terminated,7/8/2019,6/27/2019,12/17/1988,Single,Male,A - Not Indic,Voluntary-No Call/No Show
+828,Terminated,1/20/2020,7/15/2019,8/10/1989,Single,Male,A - Not Indic,Voluntary-Personal Reasons
+829,Terminated,11/20/2019,8/13/2019,3/10/1961,Married,Male,A - Not Indic,Voluntary-No Call/No Show
+830,Terminated,2/10/2020,1/16/2020,11/8/1976,Single,Male,A - Not Indic,Voluntary-No Call/No Show
+831,Terminated,4/16/2020,1/20/2020,12/28/1986,Single,Male,A - Not Indic,Voluntary-No Call/No Show
+832,Terminated,2/28/2020,2/3/2020,9/24/1987,Married,Male,A - Not Indic,Voluntary-Personal Reasons
+833,Terminated,6/10/2019,11/15/2018,6/15/1996,Single,Male,A - Not Indic,Voluntary-Return To School
+834,Terminated,1/15/2020,3/5/2018,8/11/1969,Single,Male,A - Not Indic,Voluntary-Personal Reasons
+836,Terminated,1/7/2019,11/16/2018,7/10/1998,Single,Male,A - Not Indic,Voluntary-Return To School
+837,Terminated,1/23/2019,1/21/2019,8/3/1993,Single,Male,A - Not Indic,Voluntary-Return To School
+838,Terminated,2/8/2019,1/31/2019,12/2/1988,Single,Male,A - Not Indic,Voluntary-No Reason Given
+839,Terminated,2/11/2019,2/4/2019,12/18/1985,Single,Male,A - Not Indic,Voluntary-No Call/No Show
+840,Terminated,2/21/2019,2/12/2019,3/15/2001,Single,Male,A - Not Indic,Voluntary-Another Job
+841,Terminated,2/14/2020,8/16/2019,5/31/2001,Single,Male,A - Not Indic,Voluntary-Another Job
+842,Terminated,4/12/2019,11/15/2018,7/23/1994,Married,Female,A - Not Indic,Voluntary-Another Job
+843,Terminated,8/30/2019,9/29/2015,2/27/1990,Married,Female,A - Not Indic,Voluntary-Another Job
+844,Terminated,4/22/2019,4/8/2019,12/28/1997,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+845,Terminated,2/20/2020,8/26/2019,12/6/1997,Single,Female,A - Not Indic,Voluntary-Personal Reasons
+846,Terminated,5/17/2019,11/15/2018,3/30/1993,Single,Female,A - Not Indic,Voluntary-Personal Reasons
+847,Terminated,8/21/2019,5/13/2019,9/21/1981,Single,Female,A - Not Indic,Voluntary-No Call/No Show
+848,Terminated,2/28/2019,11/20/2013,10/14/1976,Single,Female,A - Not Indic,Voluntary-Reloc/Move
